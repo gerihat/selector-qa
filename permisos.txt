@@ -1,0 +1,21 @@
+Cuántos días de vacaciones tiene un funcionario
+Cuántos días cómo mínimo debe coger un funcionario de vacaciones
+Si no se disfrutan las vacaciones en el mismo año, se puden disfrtar el año siguiente?
+Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en misma localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en disntinta localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en misma localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en distinta localidad
+Permiso por traslado de domicilio
+Permiso por Exámenes finales
+Permiso por Lactancia
+Permiso por hijos prematuros con hospitalización
+Permiso por cuidado directo de menor de 12 años o persona mayor o discapacitado
+Permiso por cuidado de familiar en primer grado por enfermedad muy grave
+Permiso por asuntos particulares
+Permiso por matrimonio
+Permiso por parto
+Permiso por parto prematuro
+Permiso por adopción o acogimiento
+Permiso por paternidad o acogimiento paterno
+Permiso por violencia de género
+Permiso por violencia terrorista

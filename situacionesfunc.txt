@@ -1,0 +1,34 @@
+Enumera las situaciones en la que se puede encontrar un funcionario
+Un funcionario nombrado alto cargo de la Administración en qué situación administrativa se encuentra
+Un funcionario nombrado Diputado o Senador en qué situación administrativa se encuentra
+Un funcionario nombrado Diputado o Senador en qué situación administrativa se encuentra
+Un funcionario que realiza una misión en un org. internacional en qué situación administrativa se encuentra
+Un funcionario que es adscrito al Defensor del Pueblo en qué situación administrativa se encuentra
+Un funcionario que es adscrito al Tribunal Constitucional en qué situación administrativa se encuentra
+Un funcionario designado como personal eventual para asesoramiento político en qué situación administraiva se encuentra
+Un funcionario que es adscrito a una Administración Pública distinta
+Un funcionario en situación de servicio en otra Administración Pública, en que situación se encuentra en el destino
+Tipos de excedencia
+Mínimo de tiempo que permite la excedencia por interés particular
+Mínimo de tiempo que permite la excedencia por agrupación familiar
+Mínimo de tiempo que permite la excedencia por cuidado de familiares
+Mínimo de tiempo que permite la excedencia por violencia de género
+Mínimo de tiempo que permite la excedencia por violencia terrorista
+Máximo de tiempo que permite la excedencia por interés particular
+Máximo de tiempo que permite la excedencia por agrupación familiar
+Máximo de tiempo que permite la excedencia por cuidado de familiares
+Máximo de tiempo que permite la excedencia por violencia de género
+Máximo de tiempo que permite la excedencia por violencia terrorista
+Qué antigüedad hay que tener para poder pedir excedencia por interés particular
+Qué antigüedad hay que tener para poder pedir excedencia por agrupación familiar
+Qué se percibe en excedencia por interés particular
+Qué se percibe en excedencia por agrupación familiar
+Qué se percibe en excedencia por cuidado de familiares
+Qué se percibe en excedencia por violencia de género
+Qué se percibe en excedencia por violencia terrorista
+Se reserva el puesto a un funcionario en excedencia por interés particular?
+Se reserva el puesto a un funcionario en excedencia por agrupación familiar?
+Se reserva el puesto a un funcionario en excedencia por cuidado de familiares?
+Se reserva el puesto a un funcionario en excedencia por violencia de género?
+Se reserva el puesto a un funcionario en excedencia por violencia terrorista?
+La suspensión de funciones provoca la pérdida del puesto de trabajo en un plazo de...

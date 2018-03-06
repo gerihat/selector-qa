@@ -1,0 +1,6 @@
+lpacap.txt
+actos.txt
+procedimiento.txt
+silencio.txt
+recursos.txt
+contencioso.txt

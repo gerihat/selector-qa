@@ -1,0 +1,9 @@
+funcionarios.txt
+movilidad.txt
+situacionesfunc.txt
+faltas.txt
+permisos.txt
+negociacion.txt
+promocion.txt
+retribuciones.txt
+indemnizaciones.txt

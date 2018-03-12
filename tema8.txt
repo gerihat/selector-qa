@@ -1,0 +1,4 @@
+territorial.txt
+ccaa.txt
+competencias.txt
+local.txt

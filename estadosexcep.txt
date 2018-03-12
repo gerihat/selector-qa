@@ -1,0 +1,35 @@
+Qué parte de la Constitución habla de los estados excepcionales (alarma, excepción y sitio)
+Qué es el estado de alarma
+Qué es el estado de excepción
+Qué es el estado de sitio
+Tiempo máximo del estado de alarma
+Tiempo máximo del estado de excepción
+Tiempo máximo del estado de sitio
+Quién declara el estado de alarma
+Quién declara el estado de exepción
+Quién declara el estado de sitio
+Necesita autorización de las Cortes el estado de alarma?
+Necesita autorización de las Cortes el estado de excepción?
+Necesita autorización de las Cortes el estado de sitio?
+Puede prorrogarse el estado de alarma, por cuánto tiempo?
+Puede prorrogarse el estado de excepción, por cuánto tiempo?
+Puede prorrogarse el estado de sitio, por cuánto tiempo?
+En caso de alteraciones graves por catástrofe qué estado se declara
+En caso de alteraciones graves por epidemia qué estado se declara
+En caso de alteraciones graves por terremoto qué estado se declara
+En caso de alteraciones graves de los servicios públicos esenciales qué estado se declara
+En caso de alteraciones graves del orden público qué estado se declara
+En caso de alteraciones graves de los derechos de los ciudadanos que estado se declara
+En caso de alteraciones graves del funcionamiento de las instituciones democrácticas qué estado se declara
+En caso de alteraciones graves por Insurrección qué estado se declara
+En caso de alteraciones graves del ordenamiento constitucional qué estado se declara
+En caso de alteraciones graves de la integridad territorial qué estado se declara
+En caso de alteraciones graves de la soberanía de España qué estado se declara
+Qué derechos se pueden suprimir en estado de alarma
+Qué derechos se pueden suprimir en estado de excepción
+Qué derechos se pueden suprimir en estado de sitio
+Qué tipo de ley regula los estados de alarma, excepció y sitio
+Si en estado de alarma se produce la disolución del Congreso, cómo se procede
+Si en estado de alarma se produce la disolución de alguna de las Cámaras, cómo se procede
+Si antes de proclamar el estado de excepción se disuelve el Congreso, cómo se procede
+La Diputación Permanente del Congreso puede declarar el estado de sitio?

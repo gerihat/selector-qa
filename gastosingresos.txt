@@ -1,0 +1,19 @@
+clasificaciones de la estructura de gastos
+clasificaciones de la estructura de ingresos
+gastos de personal (gastos)
+bienes y servicios (gastos)
+transferencias corrientes (gastos)
+gastos financieros (gastos)
+inversiones reales (gastos)
+transferencias de capital (gastos)
+activos o pasivos financieros (gastos)
+clasificación órganica de los ingresos
+impuestos directos y cotizaciones (ingresos)
+impuestos indirectos (ingresos)
+tasas (ingresos)
+precios públicos (ingresos)
+transferencias corrientes (ingresos)
+impuestos sobre el patrimonio (ingresos)
+enajenación de inversiones reales (ingresos)
+transferencias de capital (ingresos)
+activos o pasivos financieros (ingresos)

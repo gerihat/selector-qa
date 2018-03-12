@@ -1,0 +1,3 @@
+presupuestos.txt
+gastosingresos.txt
+tcuentas.txt

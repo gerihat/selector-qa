@@ -1,4 +1,24 @@
 Qué actos pueden ser objeto de recurso
+Qué datos debe incluir un recurso
 En que casos un recurso administrativo no se admite de pleno
 Un recurso suspende la ejecución de un acto?
+Tienen posibilidad los interesados a presentar alegaciones a la presentación de un recurso
+Qué plazo tiene un órgano para trasladar un recurso al órgano competente
+Si un recurso tiene un error de calificació qué debe hacer el órgano que lo recibe
+Se pueden rechazar pruebas propuestas por los interesados?
+Se puede presentar recurso contra la acumulación de procedimiento?
 Ante quién se interpone el recurso de alzada
+Qué tipo de recursos admiten los actos que no ponen fin a la vía administrativa
+Plazo para interponer recurso de alzada
+Plazo para dictar y notificar resolución de recurso de alzada
+Quién resuelve el recurso de alzada
+Ante quién se interpone el recurso potestativo de reposición
+Qué tipo de recursos admiten los actos que ponen fin a la vía administrativa
+Plazo para interponer recurso potestativo de reposición
+Plazo para dictar y notificar resolución de recurso potestativo de reposición
+Ante quién se presenta el recurso extraordinario de revisión
+Contra qué tiene sentido el recurso extraordinario de revisión
+Plazo para interponer recurso extraordinario de revisión contra actos dictados con error de hecho
+Plazo para interponer recurso extraordinario de revisión contra actos en los que aparecen nuevos documentos
+Plazo para interponer recurso extraordinario de revisión contra actos en los los testimonios o documentos son declarados falsos
+Plazo para interponer recurso extraordinario de revisión contra actos que son consecuencia de prevariación, cohecho

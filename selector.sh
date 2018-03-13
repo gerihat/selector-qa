@@ -51,17 +51,28 @@ done
 shift $((OPTIND -1))
 
 # Main
-if [[ $1 = "tema"* ]]; then
-	filename_tema=$1
-else
-	filename=$1
-	filename_solutions="${filename%.*}_s.${filename##*.}"
-	max=$(wc -l < $filename)
-fi
+case "$1" in 
+	"modulo"*)
+		filename_modulo=$1
+		;;
+	"tema"*)
+		filename_tema=$1
+		;;
+	*)
+		filename=$1
+		filename_solutions="${filename%.*}_s.${filename##*.}"
+		max=$(wc -l < $filename)
+		;;
+esac
 
-echo -e "Iniciando..."$filename
+echo -e "Iniciando test"
 
 while [ true ] ; do
+	if [[ ! -z "$filename_modulo" ]]; then
+		#Elegir tema dentro de modulo*.txt
+		numlinea_modulo=$(selectlinea $filename_modulo)		
+		filename_tema=$(echolinea $filename_modulo $numlinea_modulo false)
+	fi
 	if [[ ! -z "$filename_tema" ]]; then
 		#Elegir fichero dentro de tema*.txt
 		numlinea_tema=$(selectlinea $filename_tema)		

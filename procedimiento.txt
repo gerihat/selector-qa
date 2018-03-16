@@ -13,7 +13,7 @@ Cuál es el plazo del trámite de audiencia
 Cómo son los informes en el procedimiento si no se indica nada
 Cuál es el plazo para la emisión de un informe
 Qué le ocurre a un informe emitido fuera de plazo
-Si termina el plazo para emitir un informe se suspende el pazo para resolver el procedimiento?
+Si termina el plazo para emitir un informe se suspende el plazo para resolver el procedimiento?
 En que fase del procedimiento puede presentar alegaciones el interesado
 En que fase del procedimiento puede aportar documentos u otros elementos el interesado
 Qué es el periodo de Información Pública en el procedimiento
@@ -50,3 +50,4 @@ Qué es la ejecución subsidiaria
 Qué es la multa coercitiva
 Qué es la compulsión sobre las personas
 El deshaucio administrativo en las fases del procedimiento donde se coloca
+Qué órgano puede acordar la apertura de un período de información pública

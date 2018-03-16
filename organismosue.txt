@@ -12,6 +12,7 @@ Cómo se elige al Presidente del Tribunal de Cuentas y por cuánto tiempo
 Cómo se elige a los miembros del Consejo Europeo y por cuánto tiempo
 Cómo se elige a los miembros del Consejo de la UE y por cuánto tiempo
 Cómo se elige a los miembros de la Comisión Europea y por cuánto tiempo
+Cómo se elige a los miembros del Parlamento Europeo y por cuánto tiempo
 Cómo se elige a los miembros del Tribunal de Cuentas y por cuánto tiempo
 Cada cuánto se reúne el Consejo Europeo
 Cómo se reúne el Consejo de la UE
@@ -26,3 +27,6 @@ Qué Consejos son de obligaroria existencia dentro del Consejo de la UE
 Qué es el COREPER
 Quién nombra a los vicepresidentes e la Comisión
 Qué organización asume la representación exterior de la Unión Europea, excepo la política exterior y seguridad común
+Cita los órganos consultivos del Consejo Europeo
+Cuánto dura el mandato de los Jueces del Tribunal de Justicia
+Quién nombra al Alto Representante para Asuntos Exteriores y Política de Seguridad

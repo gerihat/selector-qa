@@ -6,6 +6,9 @@ Cuáles son los principios constitucionales de la Administración Local
 Quién elige a los alcaldes
 Se pueden modificar los límites provinciales
 Cómo se eligen a los Concejales
+Cuántos Concejales existen en Ayuntamientos que tengan entre 101 y 250 habitantes
+Cuántos Concejales existe en un Ayuntamiento común
+Plazo por el que son elegidos los Concejales
 Se pueden alterar los límites provinciales?
 Se pueden alterar los límites municipales?
 De qué recursos económicos dispone una Provincia
@@ -18,3 +21,6 @@ Cómo se elige al presidente de la Diputación
 Qué se considera municipio de gran población
 Qué municipos deben tener de forma obligatorioa una Junta de Gobierno local
 Qué órganos existen en todos los Municipios
+En qué tipos de municipios se puede establecer el Concejo Abierto
+Hay Teniente de Alcade en todos los Ayuntamientos?
+Hay Junta de Gobierno Local en todos los Ayuntamientos

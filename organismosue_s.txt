@@ -12,6 +12,7 @@ Elegido entre los miembros por un periódo de 3 años renovable
 Son los Jefes de Estado y de Gobierno de los Estados miembros. Uno por estado (28), además del Presidente del Consejo E, Presidente de la Comisión E, y el Alto Representante de Asuntos Exteriores y Política de Seguridad
 Son representantes de rango ministerial de cada estado. Dependiendo del asunto, acudirá un ministro u otro. Además está el COREPER (Comité de Representantes Permanentes) I Y II.
 Tras la elección del Presidente de la Comisión, él designa a los candidatos de cada estado una cartera. Estos exponen sus propuestas ante el Parlamento, que es quien configura finalmente la Comisión Europea. Los comisarios aprobados en el Parlamento son luego nombrados por el Consejo Europeo. Para un periodo de 5 años
+El Consejo Europeo, por unanimidad decide la composición del Parlamento Europeo de acuerdo con los Tratados. Los representantes son elegidos por sufragio universal, directo y secreto
 Un nacional de cada Estado elegidos por el Consejo, previa consulta al Parlamento, y para un periodo de 6 años
 Cada 3 meses o dicho de otra forma dos reuniones semestrales
 En 10 Formaciones en funcion de la materia y el trabajo es preparado por el COREPER
@@ -26,3 +27,6 @@ Consejo de Asuntos Generales (preparar reuniones, coherencia) y Consejo de Asunt
 Comité de Representantes Permanentes. Prepara el trabajo del Consejo. COREPER I (adjuntos), COREPER II (jefes)
 El Presidente
 La Comisión
+Comité Económico y Social, Comité de las Regiones
+6 años
+El Consejo Europeo, por mayoría cualificada

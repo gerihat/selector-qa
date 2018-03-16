@@ -50,4 +50,5 @@ Tiempo máximo de la suspensión provisional
 Tiempo máximo de la suspensión firme de funciones en faltas muy graves
 Tiempo máximo de la suspensión firme de funciones en faltas graves
 Qué tiene derecho a percibir el funcionario supenso provisional
-Cómo se llama la pena de inhabilitación que produce lapérdida de la condición de funcionario
+Cómo se llama la pena de inhabilitación que produce la pérdida de la condición de funcionario
+Duración del Período de prueba de un expediente disciplinario

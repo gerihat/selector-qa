@@ -7,3 +7,4 @@ negociacion.txt
 promocion.txt
 retribuciones.txt
 indemnizaciones.txt
+mutualismo.txt

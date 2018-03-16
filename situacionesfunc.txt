@@ -32,3 +32,4 @@ Se reserva el puesto a un funcionario en excedencia por cuidado de familiares?
 Se reserva el puesto a un funcionario en excedencia por violencia de género?
 Se reserva el puesto a un funcionario en excedencia por violencia terrorista?
 La suspensión de funciones provoca la pérdida del puesto de trabajo en un plazo de...
+Un funcionario en suspensión provisional recibe cantidad alguna en concepto de gratificaciones por servicios extraordinarios?

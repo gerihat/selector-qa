@@ -23,6 +23,11 @@ En qué momento hay quórum en el Congreso
 Cuáles son los periodos de sesiones
 Quiénes pueden pedir sesión extraordinaria
 Qué no se puede delegar en las Comisiones Legislativas Permanentes
+Las leyes tributarias pueden ser aprobadas por una Comisión Legislativa?
+Las leyes relativas a la prerrogativa de gracia pueden ser aprobadas por una Comisión Legislativa?
+Las leyes de bases pueden ser aprobadas por una Comisión Legislativa?
+Las leyes orgánicas pueden ser aprobadas por una Comisión Legislativa?
+Una Reforma Constitucional pueden ser aprobada por una Comisión Legislativa?
 Cuántos miembros tiene la Diputación Permanente
 Qué es la Diputación Permanente
 Las sesiones de las Cámaras son públicas o privadas
@@ -30,4 +35,6 @@ Qué papel tiene el Senado en la moción de censura
 Qué papel tiene el Senado en la reforma constitucional
 Qué parte de la Constitución habla de la elaboración de las leyes
 Qué parte de la Constitución habla de los Tratatos Internacionales
-
+Es necesaria la sesión conjunta de las Cortes para autorizar al Rey declarar la guerra o hacer la paz?
+Es necesaria la sesión conjunta de las Cortes para reconocer la incapacidad del Rey?
+Es necesaria la sesión conjunta de las Cortes para nombrar la Regencia?

@@ -4,6 +4,9 @@ Los programas de carácter temporal para los que se nombran funcionarios interin
 En caso de exceso de tareas cuanto tiempo puede estar un interino ocupando el puesto
 Cita los cuerpos y escalas de los funcionarios
 Casos de pérdida de la condición de funcionario
+Si un funcionario renuncia, puede solicitar rehabilitación en la condición de funcionario?
+Si un funcionario obtiene la jubilación por incapacidad permanente, puede solicitar rehabilitación en la condición de funcionario?
+Si un funcionario es sancionado disciplinariamente con separación del servicio, puede solicitar rehabilitación en la condición de funcionario?
 Tipos de jubilación y edades
 En qué dos casos el funcionario puede solicitar la rehabilitación
 Es posible ofrecer plazas por encima de las comprometidas en OEP?

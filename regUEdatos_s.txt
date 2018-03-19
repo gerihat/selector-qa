@@ -3,7 +3,7 @@ Es el tratamiento de datos que no se pueden atribuar a un interesado sin informa
 72 horas al órgano de control o al interesado si existe alto riesgo
 Que desaparece. A partir de ahora la administración debe tener el consentimiento expreso del interesado para poder tratar sus datos
 Requiere autorización del interesado
-nombre, e-mail, dirección, IP, DNI, matrícula, teléfono, fecha nac, imágnes, huellas, voz, discapacidad, estado salud
+nombre, e-mail, dirección, IP, DNI, matrícula, teléfono, fecha nac, imágenes, huellas, voz, discapacidad, estado salud
 Los relativos a la salud, afiliación política, asociación sindical, datos genéticos
 Pueden llegar hasta los 20 millones o incluso un 4% sobre la facturación
 Agencia Estatal de Protección de Datos

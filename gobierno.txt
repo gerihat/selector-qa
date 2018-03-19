@@ -18,6 +18,9 @@ El Gobierno en funciones puede aprobar un Real Decreto legislativo?
 El Gobierno en funciones puede someterse al control parlamentario?
 El Gobierno en funciones puede presentar las medidas del artículo 155?
 El Presidente del Gobierno en funciones puede proponer al Rey un referéndum?
+El Presidente del Gobierno causa cese por incapacidad permanente?
+El Presidente del Gobierno causa cese por celebración de elecciones?
+El Presidente del Gobierno causa cese por aprobación de una moción de censura?
 En fase de Gobierno en funciones, se puede llevar a cabo una cuestión de confianza?
 En fase de Gobierno en funciones, se pueden disolver las Cámaras?
 En caso de enfermedad del Presidente se produce la dimisión del Gobierno?

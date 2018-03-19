@@ -10,7 +10,7 @@ Desobediencia abierta órdenes
 Beneficio indebido
 No libertad Derecho sindical
 Piquetes
-No Servicios esenciales
+No Servicios esenciales o mínimos
 No respetar Incompatibilidades
 Incomparecencia en comisión Investigación
 Acoso laboral
@@ -49,6 +49,7 @@ Posibles sanciones del personal laboral
 Tiempo máximo de la suspensión provisional
 Tiempo máximo de la suspensión firme de funciones en faltas muy graves
 Tiempo máximo de la suspensión firme de funciones en faltas graves
-Qué tiene derecho a percibir el funcionario supenso provisional
+Qué tiene derecho a percibir el funcionario suspenso provisional
 Cómo se llama la pena de inhabilitación que produce la pérdida de la condición de funcionario
-Duración del Período de prueba de un expediente disciplinario
+Duración del período de prueba de un expediente disciplinario
+Que duración tiene la sanción de traslado con cambio de residencia por la comisión de falta muy grave

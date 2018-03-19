@@ -4,6 +4,9 @@ Necesidad o urgencia, Plazas vacantes, Sustitución transitoria (3 años, amplia
 6 meses en un periodo de 12
 A1 y A2 (licenciado, grado), B (Técnico Sup), C1 (Bachiller), C2 (ESO), Subalterno
 Renuncia, pérdida de nacionalidad, Jubilación, Sanción disciplinaria, Pena inhabilitación
+No
+Si. Siempre que desaparezca la causa. En este caso la incapacidad permanente
+No
 Voluntaria, Forzosa (65 /prolog 70), incapacidad permanente. Para pensión 67 o 65 y 38 años 6 meses servicios
 Desaparece causa (nacionalidad o incapacidad permanente). Pena principal/accesoria según entidad delito
 Si, de hecho es obligatorio añadir un 10%

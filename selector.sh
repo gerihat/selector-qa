@@ -40,7 +40,6 @@ while getopts hlt opt; do
 			;;
 		l ) # mostrar numero de linea
 			nlflag=true
-			exit 0
 			;;
 		t ) # mostrar nombre de fichero (tema)
 			ntflag=true

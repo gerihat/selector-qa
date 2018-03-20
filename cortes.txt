@@ -9,7 +9,8 @@ Cuántos senadores se eligen en Ceuta y Melilla
 Cuál es el mínimo de diputados necesario para conformar un grupo parlamentario
 Cuál es el mínimo de senadoress necesario para conformar un grupo parlamentario
 Cuántos senadores se eligen en las islas mayores. Y qué islas se consideran mayores
-Cuántos senadores se eligen en las islas que no son mayores.
+Cuántos senadores se eligen en las islas que no son mayores
+Cuántos senadores se eligen en Ibiza y Formentera
 Cuántos senadores se eligen en las CA
 Quiénes componen la Mesa del Congreso
 Cuál es la circunscripción electoral, el municipio o la provincia?
@@ -38,3 +39,4 @@ Qué parte de la Constitución habla de los Tratatos Internacionales
 Es necesaria la sesión conjunta de las Cortes para autorizar al Rey declarar la guerra o hacer la paz?
 Es necesaria la sesión conjunta de las Cortes para reconocer la incapacidad del Rey?
 Es necesaria la sesión conjunta de las Cortes para nombrar la Regencia?
+Cuál es el órgano rector de las Cámaras

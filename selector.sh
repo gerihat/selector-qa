@@ -35,16 +35,21 @@ function echolinea {
 	return 0		
 }
 
+#Mostrar ayuda
+function ayuda {
+	echo "Usage: selector [-h] [-l] [-t] [-n NUM] <filename>.txt"
+}
+
 # Parser de opciones
 if [ "$#" -eq 0 ]; then
-	echo "Usage: selector [-h] [-l] [-t] <filename>.txt"
+	ayuda
 	exit 1
 fi
 
 while getopts hltn: opt; do
 	case ${opt} in
 		h ) # ayuda
-			echo "Usage: selector [-h] [-l] [-t] <filename>.txt"
+			ayuda
 			exit 0
 			;;
 		l ) # mostrar numero de linea
@@ -54,7 +59,12 @@ while getopts hltn: opt; do
 			ntflag=true
 			;;
 		n ) # numero de preguntas de un tema
-			nrepeat=$OPTARG
+			if [[ $OPTARG =~ ^[0-9]+$ ]]; then
+				nrepeat=$OPTARG
+			else
+				ayuda
+				exit 2
+			fi
 			;;
 	esac
 done
@@ -62,6 +72,19 @@ done
 shift $((OPTIND -1))
 
 # Main
+
+# Comprobar que se pasa un nombre válido de fichero
+if [[ $1 =~ \.!txt$ ]]; then
+	ayuda
+	exit 2;
+fi
+# Comprobar que el fichero existe
+if [[ ! -f $1 ]]; then
+	echo "Selector (E): Fichero no encontrado"
+	ayuda
+	exit 1;
+fi
+
 case "$1" in 
 	"modulo"*)
 		filename_modulo=$1

@@ -1,6 +1,17 @@
 #!/bin/bash
 # Selector aleatorio de preguntas y sus solucones
 
+#Colors
+green='\033[0;32m'
+blue='\033[1;34m'
+endColor='\033[0m'
+
+#Some configurations
+nrepeat=1
+nlflag=false #flag para mostrar numeros de linea
+ntflag=false #flag para mostrar nombre del fichero
+
+
 #Funcion selectlinea: Seleccion de una linea en fichero
 #Parametros: #$1: Nombre de fichero
 function selectlinea {
@@ -14,7 +25,7 @@ function selectlinea {
 function echolinea {
 	default_command=$(sed "$2!d" $1)
 	if [[ $4 = true ]]; then
-		echo -e "Tema: \033[0;32m${filename}\033[0m"
+		echo -e "Tema: ${green}${filename}${endColor}"
 	fi
 	if [[ $3 = true ]]; then
 		echo "[$2] "$default_command
@@ -29,10 +40,8 @@ if [ "$#" -eq 0 ]; then
 	echo "Usage: selector [-h] [-l] [-t] <filename>.txt"
 	exit 1
 fi
-nlflag=false #flag para mostrar numeros de linea
-ntflag=false #flag para mostrar nombre del fichero
 
-while getopts hlt opt; do
+while getopts hltn: opt; do
 	case ${opt} in
 		h ) # ayuda
 			echo "Usage: selector [-h] [-l] [-t] <filename>.txt"
@@ -43,6 +52,9 @@ while getopts hlt opt; do
 			;;
 		t ) # mostrar nombre de fichero (tema)
 			ntflag=true
+			;;
+		n ) # numero de preguntas de un tema
+			nrepeat=$OPTARG
 			;;
 	esac
 done
@@ -78,17 +90,21 @@ while [ true ] ; do
 		filename=$(echolinea $filename_tema $numlinea_tema false)
 		filename_solutions="${filename%.*}_s.${filename##*.}"
 	fi
-	numlinea=$(selectlinea $filename)
-	echolinea $filename $numlinea $nlflag $ntflag
-	read -n 1 -s input
-	
-	#repuesta
-	respuesta=$(sed "${numlinea}!d" ${filename_solutions})
-	echo -e "\033[1;34m${respuesta}\033[0m\n"
-	
-	#salir
-	if [[ $input = "q" ]] || [[ $input = "Q" ]] 
-		then exit 1
-	fi
 
+	for ((i =1;i<=$nrepeat;i++))
+	do
+
+		numlinea=$(selectlinea $filename)
+		echolinea $filename $numlinea $nlflag $ntflag
+		read -n 1 -s input
+		
+		#repuesta
+		respuesta=$(sed "${numlinea}!d" ${filename_solutions})
+		echo -e "${blue}${respuesta}${endColor}"
+		
+		#salir
+		if [[ $input = "q" ]] || [[ $input = "Q" ]] 
+			then exit 1
+		fi	
+	done
 done

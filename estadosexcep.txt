@@ -6,7 +6,7 @@ Tiempo máximo del estado de alarma
 Tiempo máximo del estado de excepción
 Tiempo máximo del estado de sitio
 Quién declara el estado de alarma
-Quién declara el estado de exepción
+Quién declara el estado de excepción
 Quién declara el estado de sitio
 Necesita autorización de las Cortes el estado de alarma?
 Necesita autorización de las Cortes el estado de excepción?

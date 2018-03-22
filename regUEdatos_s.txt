@@ -1,5 +1,5 @@
 A partir de 25 de mayo de 2018
-Es el tratamiento de datos que no se pueden atribuar a un interesado sin información adicionañl
+Es el tratamiento de datos que no se pueden atribuir a un interesado sin información adicional
 72 horas al órgano de control o al interesado si existe alto riesgo
 Que desaparece. A partir de ahora la administración debe tener el consentimiento expreso del interesado para poder tratar sus datos
 Requiere autorización del interesado
@@ -10,7 +10,7 @@ Agencia Estatal de Protección de Datos
 Vasca y catalana
 Derechos ARCO (Acceso, Rectificación, Cancelación, Oposición), Transparencia e Información, Portabilidad, Limitación del Tratamiento, Supresión u Olvido
 Acceso, Rectificación, Cancelación, Oposición
-Requiere consentimiento del titular de la patria potestad o tutor y sólo se autoriza en lo necesario (Limitración del tratamiento)
+Requiere consentimiento del titular de la patria potestad o tutor y sólo se autoriza en lo necesario (Limitación del tratamiento)
 El reglamento cita los 16 años, pero cada país puede establecer un mínimo que nunca podrá ser menos de 13 años. En España 14 años
 3 años
 Es una figura que contrata la empresa u organismo público para informar a los interesados, asesorar al responsable, supervisar el cumplimiento del reglamento, cooperar con las autoridades de control. Puede ser una figura interna o externa de la empresa.

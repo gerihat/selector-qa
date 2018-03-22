@@ -25,4 +25,4 @@ Grave
 Leve
 Leve
 Si el infractor es miembro Gobierno o Secretario de Estado -> C.Ministros, Si el infractor es personal AGE -> M. Hacienda, Si el infractor es Admin CA/Local -> Órgano CA7lOCAL
-Oficina de conflictos de intereres
+Oficina de conflictos de intereses

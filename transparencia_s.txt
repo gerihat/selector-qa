@@ -1,6 +1,6 @@
 AGE, CCAA, Ceuta, Melilla, Local, SS, mútuas, Univesidad Pública, Entidades derecho público vinculadas a Admin. Casa Rey, Congreso, Senado, TS, CGPJ, Banco España, Consejo Estado, Defensor Pueblo, TCuentas, Sociedades Mercantiles participación pública >50%, fundaciones sector público
 AGE, Gobierno, Secretario Estado, altos cargos, Juntas Gobierno entidades locales
-AGE, CCAA, Ceuta, Melilla, Local, Entidades derecho público vincualas a Admin
+AGE, CCAA, Ceuta, Melilla, Local, Entidades derecho público vinculadas a Admin
 Obligación de las Administraciones públicas de publicar de forma permanente información pública para garantizar transparencia de actividad
 Información AGE de mayor frecuencia
 En el art. 105 dice que la ley regula el acceso de los ciudadanos a los archivos y registros administrativos
@@ -9,7 +9,7 @@ identidad, información que se pide, contacto (preferente email), modo de acceso
 Mediante resolución motivada. Y cuando la información está en elaboración, es información auxiliar (notas, opiniones, etc), la información que se pide tendría que ser reelaborada, la información no está en poder del órgano al que se pide (en este caso el órgano se la reenvia al competente, la solicitud es abusiva
 En principio se admite, y se da 10 días para subsanarla
 Se da un plazo de 15 días para que esa tercera persona, presenta alegaciones
-Qué el órgano que recibe la solicitud la reenvía al creador de la información para decida su acceso
+Qué el órgano que recibe la solicitud la reenvía al creador de la información para que decida su acceso
 1 mes (ampliable otro mes). Si no se resuelve se considera la solicitud desestimada. Las resoluciones negativas deben ser motivadas y son recurribles en conte-admin. Si se incumple en la resolución es infracción grave
 Si
 Como los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación del título I y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones

@@ -25,7 +25,7 @@ function selectlinea {
 function echolinea {
 	default_command=$(sed "$2!d" $1)
 	if [[ $4 = true ]]; then
-		echo -e "Tema: ${green}${filename}${endColor}"
+		echo -e "Tema: ${green}$(basename ${filename})${endColor}"
 	fi
 	if [[ $3 = true ]]; then
 		echo "[$2] "$default_command
@@ -78,14 +78,18 @@ if [[ $1 =~ \.!txt$ ]]; then
 	ayuda
 	exit 2;
 fi
-# Comprobar que el fichero existe
+# Comprobar que el fichero pasado como parametro existe
 if [[ ! -f $1 ]]; then
 	echo "Selector (E): Fichero no encontrado"
 	ayuda
 	exit 1;
 fi
 
-case "$1" in 
+# Extrear path
+path=$(dirname $1)"/"
+bname=$(basename $1)
+
+case "$bname" in 
 	"modulo"*)
 		filename_modulo=$1
 		;;
@@ -105,13 +109,23 @@ while [ true ] ; do
 	if [[ ! -z "$filename_modulo" ]]; then
 		#Elegir tema dentro de modulo*.txt
 		numlinea_modulo=$(selectlinea $filename_modulo)		
-		filename_tema=$(echolinea $filename_modulo $numlinea_modulo false)
+		filename_tema=$path$(echolinea $filename_modulo $numlinea_modulo false)		
+		if [[ ! -f $filename_tema ]]; then
+			echo "Selector (E) ${filename_tema}: Fichero no encontrado"
+			ayuda
+			exit 1;
+		fi
 	fi
 	if [[ ! -z "$filename_tema" ]]; then
 		#Elegir fichero dentro de tema*.txt
 		numlinea_tema=$(selectlinea $filename_tema)		
-		filename=$(echolinea $filename_tema $numlinea_tema false)
+		filename=$path$(echolinea $filename_tema $numlinea_tema false)
 		filename_solutions="${filename%.*}_s.${filename##*.}"
+		if [[ ! -f $filename ]]; then
+			echo "Selector (E) ${filename}: Fichero no encontrado"
+			ayuda
+			exit 1;
+		fi
 	fi
 
 	for ((i =1;i<=$nrepeat;i++))

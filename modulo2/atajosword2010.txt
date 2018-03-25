@@ -1,0 +1,19 @@
+(Atajos Word 2010) Nuevo documento
+(Atajos Word 2010) Abrir documento
+(Atajos Word 2010) Cerrar documento
+(Atajos Word 2010) Guardar como
+(Atajos Word 2010) Imprimir
+(Atajos Word 2010) Seleccionar frase
+(Atajos Word 2010) Seleccionar palabras salteadas
+(Atajos Word 2010) Seleccionar Línea
+(Atajos Word 2010) Seleccionar todo el documento
+(Atajos Word 2010) Convertir mayúsculas a minúsculas y viceversa
+(Atajos Word 2010) Revisar ortografía
+(Atajos Word 2010) Insertar Link
+(Atajos Word 2010) Insertar salto de página
+(Atajos Word 2010) Insertar salto de columna
+(Atajos Word 2010) Abrir macros
+(Atajos Word 2010) Abrir Buscar
+(Atajos Word 2010) Abrir Reemplazar
+(Atajos Word 2010) Abrir Formato
+(Atajos Word 2010) Eliminar formato de párrafo

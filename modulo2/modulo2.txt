@@ -1,0 +1,12 @@
+tema16.txt
+tema17.txt
+tema18.txt
+tema19.txt
+tema20.txt
+tema21.txt
+tema22.txt
+tema23.txt
+tema24.txt
+tema25.txt
+tema26.txt
+tema27.txt

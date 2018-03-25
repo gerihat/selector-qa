@@ -1,0 +1,10 @@
+(Atajos Excel 2010) Abrir asistente de fórmulas
+(Atajos Excel 2010) Ocultar Fila
+(Atajos Excel 2010) Guardar como
+(Atajos Excel 2010) Hoja nueva
+(Atajos Excel 2010) Nueva línea dentro de celda
+(Atajos Excel 2010) Seleccionar fila
+(Atajos Excel 2010) Seleccionar columna
+(Atajos Excel 2010) Seleccionar todas las celdas
+(Atajos Excel 2010) Revisar ortografía
+(Atajos Excel 2010) Insertar comentario

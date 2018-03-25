@@ -1,0 +1,2 @@
+word2010.txt
+atajosword2010.txt

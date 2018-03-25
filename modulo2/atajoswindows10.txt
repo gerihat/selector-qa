@@ -1,0 +1,31 @@
+(Atajos Windows 10) Abrir área de notificaciones
+(Atajos Windows 10) Abrir Cortana modo escucha
+(Atajos Windows 10) Abrir Cortana modo texto o buscar
+(Atajos Windows 10) Ver u ocultar Escritorio o aplicación
+(Atajos Windows 10) Abrir configuración de Windows 10
+(Atajos Windows 10) Bloquear Escritorio
+(Atajos Windows 10) Miniminzar todo
+(Atajos Windows 10) Menú avanzado de Inicio
+(Atajos Windows 10) Cambiar idioma y alternar entre idiomas
+(Atajos Windows 10) Ver ventanas abiertas
+(Atajos Windows 10) Echar un vistazo a escritorio
+(Atajos Windows 10) Lupa
+(Atajos Windows 10) Crear escritorio virtual
+(Atajos Windows 10) Cambiar entre escritorios virtuales
+(Atajos Windows 10) Cerrar escritorio virtual
+(Atajos Windows 10) Capturar pantalla
+(Atajos Windows 10) Dónde se guarda la captura de pantalla realizada con W+PRINT
+(Atajos Windows 10) Capturar ventana
+(Atajos Windows 10) Cerrar ventana en programa
+(Atajos Windows 10) Cerrar programa
+(Atajos Windows 10) Minimizar ventanas no activas
+(Atajos Windows 10) Maximizar ventana
+(Atajos Windows 10) Minimizar ventana
+(Atajos Windows 10) Ejecutar programas de barra de tareas
+(Atajos Windows 10) Ir a barra de tareas
+(Atajos Windows 10) Menú Inicio
+(Atajos Windows 10) Renombrar
+(Atajos Windows 10) Administrador de tareas
+(Atajos Windows 10) Ver Propiedades
+(Atajos Windows 10) Minimizar todo
+(Atajos Windows 10) Borrar permanentemente un fichero

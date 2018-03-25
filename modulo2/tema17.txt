@@ -1,0 +1,3 @@
+informacion.txt
+reclamacionesquejas.txt
+peticiones.txt

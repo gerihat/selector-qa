@@ -1,0 +1,3 @@
+documento.txt
+registro.txt
+archivo.txt

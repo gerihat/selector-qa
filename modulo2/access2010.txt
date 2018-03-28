@@ -1,0 +1,6 @@
+Tipos de consultas
+Cuál es la extensión de un fichero de base de datos de Access 2010
+Cuál es la extensión de un fichero de base de datos de Access 2007
+Qué hace el tipo de datos [Datos adjuntos]
+Qué hace el tipo de datos [Calculado]
+Al introducir un nuevo registro se guarda automáticamente o hay que guardar la base de datos?

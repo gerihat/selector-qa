@@ -1,0 +1,10 @@
+Qué tipo de fuente utiliza Word 2010 por defecto, y a qué tamaño
+Qué extensión tienen las plantillas en Word 2010
+Cómo se llama la plantilla que usa por defecto Word para crear un documento nuevo
+Cuáles son las sangrías que existen en Word 2010
+Qué extensión tienen los archivos de importación/exportación de personalización de cintas de opciones en Word 2010
+La barra de acceso rápido se puede modificar de posición?
+Desde qué ficha se pueden crear las Macros
+Dónde se colocan los botones de Macros por defecto
+Qué dos fichas aparecen nuevas al crear una tabla
+Qué extensión tiene un documento habilitado con macros

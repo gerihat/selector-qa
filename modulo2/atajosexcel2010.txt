@@ -8,3 +8,8 @@
 (Atajos Excel 2010) Seleccionar todas las celdas
 (Atajos Excel 2010) Revisar ortografía
 (Atajos Excel 2010) Insertar comentario
+(Atajos Excel 2010) Cómo te desplazas a la celda superior sin usar las teclas de flecha ni el ratón
+(Atajos Excel 2010) Cómo te desplazas a la celda a la izquierda sin usar las teclas de flecha ni el ratón
+(Atajos Excel 2010) Cómo te desplazas dentro de un rango de celdas seleccionado
+(Atajos Excel 2010) Ir a... una celda
+(Atajos Excel 2010) CTRL+FIN lleva a la última celda de Excel?

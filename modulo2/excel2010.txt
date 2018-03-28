@@ -1,0 +1,6 @@
+Qué extensión tienen los documentos de Excel 2010
+Con qué extensión se guarda un área de trabajo
+Qué sigue a la columna Z
+Cómo se accede en la barra de fichas a una ficha mediante teclado
+Cómo se crea una serie de números multiplicados por 2 hasta el 1024 sin introducirlos manualmente
+Cómo se crean series personalizadas. Por ejemplo: Primavera, Verano, Otoño, Invierno

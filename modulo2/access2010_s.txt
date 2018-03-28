@@ -1,0 +1,6 @@
+Consulta de selección, de Acción y Específicas de SQL
+.accdb
+.mdb
+Parecido al tipo de dato Objeto OLE, pero permite añadir más de un objeto
+Es un cálculo de un dato de otro campo. Por ejemplo: Precio (dato en otro campo) * IVA
+Se guarda automáticamente

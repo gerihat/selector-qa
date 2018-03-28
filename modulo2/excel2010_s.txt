@@ -1,0 +1,6 @@
+.xlsx
+.xlw
+AA, AB, AC, etc...
+Pulsando ALT, y seguidamente pulsando la tecla correspondiente de la ficha a la que se quiere acceder
+Mediante la opción Rellenar->serie->geométrica, indicándo el Incrementeo en 2
+En Inicio-Opciones-Avanzada->Modificar listas personalizadas

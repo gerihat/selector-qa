@@ -1,5 +1,6 @@
 Cómo es la organización judicial del Estado
 Qué es un partido judicial
+Cuáles son los órdenes jurisdiccionales en España
 Cuáles son los territorios de la Jurisdicción Militar
 Cita los órganos jurisdiccionales
 En qué lugares existe un Juzgado de Paz
@@ -9,3 +10,5 @@ Cuáles son las Salas de la Audiencia Nacional
 En qué ámbito existe el Jurado Popular
 Qué órgano jurisdiccional conoce las cuestiones de competencias entre juzgados de los conte-admin con sede en la CA?
 Quién conoce en material penal de los recursos de casación, revisión y otros extraordinarios que establezca la ley
+Qué juzgado conoce del procedimiento de Habeas Corpus
+Periodo para el que son nombrados los Jueces de Paz

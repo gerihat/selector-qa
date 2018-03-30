@@ -1,5 +1,6 @@
 municipios, partidos (1 o más municipios de la misma provincia), provincias y TSJ en CCAA
 Es la zona formada por un o más municipios de una misma provincia
+Civil, Penal, Conte-Admin y Social. La jursidicción Militar no entra dentro del principio de unidad jurisdiccional, por lo que no se le considera como un orden jurisdiccional
 Madrid, Sevilla, Barcelona, A Coruña, Sta. Cruz Tenerife
 Juzgado de Paz, Juzgado de 1º instancia e Instrucción, Mercantil, de Violencia de la Mujer, Penal, Conte-Admin, Social, Vigilancia Penitenciaria, Menores, Audiencia Provincial, Tribunal Superior Justicia, Audiencia Nacional y Tribunal Supremo
 En los municipios sin Juzgado de 1ª instancia, y son elegidos por los Ayuntamientos
@@ -9,3 +10,5 @@ De Instrucción, Penal, Conte-Admin, Vigilancia Penitenciaria, Menores
 En las Audiencias Provinciales y para delitos penales (homicidio, amenazas, omision del deber de socorro, allanamiento, cohecho o malversacion de fondos públicos)
 El Tribuanl Superior de Jusicia
 La Sala de lo Penal del Tribunal Supremo
+Juzgado de Instrucción
+4 años

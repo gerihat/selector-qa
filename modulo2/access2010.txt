@@ -4,3 +4,24 @@ Cuál es la extensión de un fichero de base de datos de Access 2007
 Qué hace el tipo de datos [Datos adjuntos]
 Qué hace el tipo de datos [Calculado]
 Al introducir un nuevo registro se guarda automáticamente o hay que guardar la base de datos?
+Cuál es la longitud máxima de un nombre de campo
+Qué tipo de dato debe tener un campo relacionado con uno de autonumeración
+Cuáles son los tamaños de campo del tipo de dato numérico
+Qué rango comprende el tamaño de campo Byte en el tipo de dato numérico
+Para limitar el valor máximo de un campo numérico qué se utiliza: regla de validación o máscara de entrada
+Cómo convertir automáticamente texto introducido por el usuario en minúscula a mayúsculas
+(Máscara de entrada) L
+(Máscara de entrada) ?
+(Máscara de entrada) 0
+(Máscara de entrada) 9
+(Máscara de entrada) A
+(Máscara de entrada) a
+(Máscara de entrada) &
+(Máscara de entrada) C
+(Máscara de entrada) .,:;-/
+(Máscara de entrada) #
+(Máscara de entrada) \
+(Máscara de entrada) ""
+Qué es el modo IME en las propiedades de un campo
+Si en un campo queremos que sólo sea posible introducir tres valores (Barcelona, Madrid, Cádiz) qué haríamos
+

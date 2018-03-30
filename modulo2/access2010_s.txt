@@ -4,3 +4,24 @@ Consulta de selección, de Acción y Específicas de SQL
 Parecido al tipo de dato Objeto OLE, pero permite añadir más de un objeto
 Es un cálculo de un dato de otro campo. Por ejemplo: Precio (dato en otro campo) * IVA
 Se guarda automáticamente
+64 caracteres
+Entero largo
+Byte, Entero, Entero largo, Simple, Doble, Id. de réplica, Decimal
+0-255
+Regla de validación. Indicando por ejemplo: <100. Con una máscara de entrada podríamos especificar que el dato a introducir debe ser de 2 cifras o 3 cifras
+Colocando ">" en la propiedad Formato del campo. El carácter "<" haría lo contrario
+Debe escribir una letra
+Puede escribir una letra
+Debe escribir un dígito (0 a 9)
+Puede escribir un dígito (0 a 9)
+Debe escribir una letra o un dígito
+Puede escribir una letra o un dígito
+Debe escribir un carácter o un espacio
+Puede escribir caracteres o espacios
+Marcadores de posición de decimales y millares, separadores de fecha y hora. El carácter qu seleccione dependerá de la configuración regional
+Puede escribir un dígito, espacio, signo más o menos. Si se omite Access escribe espacio en blanco
+Los caracteres que le siguen inmediatamente se mostrarán literalmente
+Los caracteres que están entre comillas se mostrarán literalmente
+Controla el modo de conversión de caracteres en las versiones asiáticas de Windows
+En el tipo de datos del campo elegimos Asistente para búsquedas, a través del cual podemos introducir la lista de valores posibles o indicar el origen de datos para los valores posibles
+

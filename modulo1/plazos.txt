@@ -1,0 +1,104 @@
+Plazo máximo detención preventiva
+Plazo máximo estado de alarma
+Plazo máximo estado de excepción
+Plazo máximo estado de sitio
+Periodo miembros Tribunal Constitucional
+Periodo Presidente Tribunal Constitucional
+Experiencia exigible en los elegibles del turno de juristas para el Tribunal Constitucional
+Cuando el Gobierno impugna una diposición o resoluciuón de una CCAA, qué plazo tiene el Tribunal Constitucional para ratificar
+Plazo para interponer recurso de inconstitucionalidad
+Plazo para interponer recurso de amparo contra actos sin valor de ley de las Cortes o Asambleas CA
+Plazo para interponer recurso de amparo contra disposiciones, actos jurídicos del Gobierno, autoridades o funcionarios u org. ejec. CA
+Plazo para interponer recurso de amparo contra resoluciones judiciales
+Plazo en el que 1/10 de los diputados o senadores pueden solicitar referéndum en el procedimiento general de reforma de la Constitución
+Plazo que tiene el Rey para sancionar una ley
+Plazo en el que Rey convoca elecciones
+Tiempo de mandato de los diputados
+Plazo en el que se deben celebrar la elecciones tras la convocatoria según la Ley electoral
+Plazo en el que se debe convocar el Congreso desde la celebración de las elecciones
+Plazo en el que se debe celebrar la sesión de apertura legislativa
+Sesiones parlamentarias anuales
+Plazo del Consejo de Trans. y Buen Gob. para resolver y notificar una reclamación por una resolución expresa en materia de acceso a la info. pública
+Plazo para votar la moción de censura
+Plazo para presentar mociones alternativas a la principal
+Plazo en el que no se puede volver a presentar una moción de censura, tras haber sido rechazada la anterior
+Plazo en el que se deben conseguir las 500.000 firmas para la Iniciativa Popular legislativa
+Plazo en el que se pueden presentar enmiendas a un proyecto de ley
+Plazo que tiene el Senado para aprobar o vetar un proyecto de ley
+Plazo en el que el Congreso puede aprobar una ley orǵanica que ha sido vetada en el Senado
+Plazo en el que una ley entra en vigor
+Periodo de elección de Defensor del Pueblo
+Plazo para presentar una queja al Defensor del Pueblo
+Periodo de mandato de los miembros de CGPJ
+Periodo de mandato del Presidente del CGPJ
+Periodo de mandato de los miembros de Tribunal Supremo
+Periodo de mandato del Presidente del Tribunal Supremo
+Plazo en el que el CGPJ debe presentar un informe requerido
+Periodo por el que son nombrados los Jueces de Paz
+Plazo en el que se debe realizar una segunda votación para otorgar confianza al candidato a Presidente del Gobierno
+Plazo en el que el Rey disuelve las Cámaras, tras no conseguir el candidato a Presdiente del Gobierno, la confianza del Congreso
+Plazo en el que se deben cumplir los requisitos exigidos para la iniciativa autonómica por el procedimiento del artículo 143
+Plazo en el que no se puede reintentar la iniciativa autonómica o ampliación de competencias de una CA
+Plazo Presidente Consejo Europeo
+Cada cuánto se celebran reuniones en el Consejo Europeo
+Plazo Presidente Consejo de Europa
+Plazo miembros de Comisión Europea
+Plazo Presidente Comisión Europea
+Plazo miembros Parlamento Europeo
+Plazo Presidente Parlamento Europeo
+Plazo miembros Tribunal de Cuentas, Justicia y General
+Plazo Presidente Tribunal de Cuentas, Justicia y General
+Duracion del periodo de sesiones en el Parlamento Europeo
+Periodo de prueba en el proc. admin
+Trámite de audiencia en el proc. admin
+Plazo en el que deben estar las notificaciones del proc. admin cursadas
+Plazo en el que se debe notificar resolución expresa en proc. admin
+Plazo máximo que se puede suspender la resolución del proc. por solicitud de informe preceptivo
+Plazo en el que se realizan actuaciones complementarias para resolver
+Plazo para presentar recurso de alzada contra actos expresos
+Plazo para presentar recurso de alzada contra acto no expreso
+Plazo para dictar y notificar resolución de recurso de alzada
+Plazo para presentar recurso potestativo de reposición contra actos expresos
+Plazo para presentar recurso potestativo de reposición contra acto no expreso
+Plazo para dictar y notificar resolución de recurso potestativo de reposición
+Plazo para presentar recurso extraordinario de revisión contra actos firmes dictado con error de hecho en error en documentos
+Plazo para presentar recurso extraordinario de revisión contra actos firmes en los que aparecen nuevos documentos
+Plazo para presentar recurso extraordinario de revisión contra actos firmes en los se atestigua falsedad documental o testimonial
+Plazo para presentar recurso extraordinario de revisión contra actos firmes de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
+Plazo para dictar y notificar resolución de recurso extraordinario de revisión
+Plazo para presentar recurso conte-admin contra actos expresos
+Un acto queda suspendido si se solicita suspensión y no se resuelve en qué plazo
+La lesividad no se puede adoptar si han pasado...
+Se produce caducidad del procedimiento en acto dañino si no hay lesividad en...
+Plazo para presentar alegaciones previas en un recurso conte-admin
+Plazo de recibimiento a prueba de nuevos hechos tras contestación de demanda
+Plazo de ejecución de una Oferta de Empleo Público
+Plazo en el que se puede estar interino
+Plazo en el que se puede estar interino por exceso de tareas
+Plazo en el que se considera la incompatibilidad de actividades privadas del funcionario relacionadas con asuntos en los que se esté interviniendo, se vaya a intervenir o se haya intervenido
+Plazo para el cese y toma de posesión con cambio de residencia en movilidad por motivos de salud o rehabilitación
+Tiempo que debe transcurrir como mínimo entre ejercicios en una prueba selectiva
+Tiempo que se reserva un puesto en excedencia por cuidado de hijos en el supuesto de adopción
+Tiempo que se retribuye en excedencia por violencia de género
+Tiempo máximo que pueden existir las anotaciones provisionales en el Registro Central de Personal
+Plazo en el que se debe realizar el nombramiento por libre designación
+Plazo para el cese y toma de posesión en comisión de servicios sin cambio de residencia
+Plazo para el cese y toma de posesión en comisión de servicios voluntario con cambio de residencia
+Plazo para el cese y toma de posesión en comisión de servicios forzosa con cambio de residencia
+Plazo máximo que se puede estar en comisión de servicios en cooperación internacional
+Plazo máximo de suspensión firme de funciones en sanción disciplinaria por faltas muy graves
+Permiso por parto
+Ampliación máxima del permiso por parto con hospitalización del neonato
+Reducción de jornada por lactancia
+Reducción de jornada por hijos prematuros
+Prescripción de faltas leves
+Prescripción de faltas graves
+Prescripción de faltas muy graves
+Prescripción de sanciones por faltas leves
+Prescripción de sanciones por faltas graves
+Prescripción de sanciones por faltas muy graves
+Tiempo durante el cual se reciben las retribuciones íntegras por incapacidad temporal
+Plazo en el que se deben presentar los Presupuestos Generales
+Plazo de rendición de cuentas a justificar
+Plzo en el que el Tribunal de Cuentas examina las cuentas del Estado
+Plazo en el que la AGE presenta la Cuenta General del Estado

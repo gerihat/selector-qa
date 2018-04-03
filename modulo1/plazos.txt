@@ -102,3 +102,4 @@ Plazo en el que se deben presentar los Presupuestos Generales
 Plazo de rendición de cuentas a justificar
 Plzo en el que el Tribunal de Cuentas examina las cuentas del Estado
 Plazo en el que la AGE presenta la Cuenta General del Estado
+En el periodo de Información Pública que plazo hay para presentar alegaciones

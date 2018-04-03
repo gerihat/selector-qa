@@ -27,4 +27,3 @@ Si en un campo queremos que sólo sea posible introducir tres valores (Barcelona
 Qué es la zona QBE
 En la ventana de consultas cada columna de criterio corresponde a "Y" o "O"
 Qué implica exigir integridad referencial al relacionar dos tablas
-

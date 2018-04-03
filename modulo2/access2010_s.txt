@@ -27,4 +27,3 @@ En el tipo de datos del campo elegimos Asistente para búsquedas, a través del 
 En la ventana de consultas es la zona donde se especifican los criterios de la consulta. QBE=Query By Example
 Corresponde a "Y". La "O" es la siguiente fila después de Criterio
 Nos impide modificar un registro en la tabla secundaria si antes no hemos modificado el registro relacionado en la tabla principal
-

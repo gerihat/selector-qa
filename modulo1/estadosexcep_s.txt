@@ -9,7 +9,7 @@ El Gobierno, sin autorización del Congreso (solo informando)
 El Gobierno con autorización del Congreso
 El Congreso por mayoría absoluta, a propuesta del Gobierno
 No, solo se le informa
-Si
+No exactamente. Necesita autorización del Congreso, no de las Cortes
 De hecho es quién lo declara por mayoría absoluta a propuesta del Gobierno
 Si, no se indica tiempo de prórroga y requiere autorización del Congreso
 Si, no se indica tiempo de prórroga y requiere autorización del Congreso
@@ -33,5 +33,5 @@ No se puede disolver el Congreso en ningún de los estados excepcionales
 La Constitución sólo dice que no se puede disolver el Congreso en ningún estado excepcional. No dice nada del Senado.
 Sería la Diputacion Permanente quién haría las labores pertinentes
 Si. La funciones correspondiente al Congreso serian asumidas por la Diputación Permanente y está declararía el estado de sitio.
-El Gobierno. En todo caso es quién lo declara, con la autorización del Congreso
+El Gobierno. En todo caso es quién lo declara, con la autorización del Congreso, que en este caso sería su Diputación Permanente
 Lo acuerda el Gobierno, con autorización del Congreso

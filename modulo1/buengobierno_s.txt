@@ -1,9 +1,9 @@
-1 años
+1 año
 3 años
-3 año
-1 años
+5 años
+1 año
 3 años
-5 año
+5 años
 Exceso o mal uso fondos públicos, Comprometer gastos sin cŕedito, Omisión trámites previos gastos, no cumplir reducción duda pública, no rendir cuentas, no justificar desviación de capitales
 Muy grave
 Muy grave
@@ -24,5 +24,5 @@ Grave
 Grave
 Leve
 Leve
-Si el infractor es miembro Gobierno o Secretario de Estado -> C.Ministros, Si el infractor es personal AGE -> M. Hacienda, Si el infractor es Admin CA/Local -> Órgano CA7lOCAL
+Si el infractor es miembro Gobierno o Secretario de Estado -> C.Ministros, Si el infractor es personal AGE -> M. Hacienda, Si el infractor es Admin CA/Local -> Órgano CA o Local
 Oficina de conflictos de intereses

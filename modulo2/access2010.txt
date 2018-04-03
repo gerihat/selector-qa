@@ -1,4 +1,4 @@
-Tipos de consultas
+-sTipos de consultas
 Cuál es la extensión de un fichero de base de datos de Access 2010
 Cuál es la extensión de un fichero de base de datos de Access 2007
 Qué hace el tipo de datos [Datos adjuntos]
@@ -24,4 +24,7 @@ Cómo convertir automáticamente texto introducido por el usuario en minúscula 
 (Máscara de entrada) ""
 Qué es el modo IME en las propiedades de un campo
 Si en un campo queremos que sólo sea posible introducir tres valores (Barcelona, Madrid, Cádiz) qué haríamos
+Qué es la zona QBE
+En la ventana de consultas cada columna de criterio corresponde a "Y" o "O"
+Qué implica exigir integridad referencial al relacionar dos tablas
 

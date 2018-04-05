@@ -97,6 +97,12 @@ Prescripción de faltas muy graves
 Prescripción de sanciones por faltas leves
 Prescripción de sanciones por faltas graves
 Prescripción de sanciones por faltas muy graves
+Prescripción de faltas leves (alto cargo)
+Prescripción de faltas graves (alto cargo)
+Prescripción de faltas muy graves (alto cargo)
+Prescripción de sanciones por faltas leves (alto cargo)
+Prescripción de sanciones por faltas graves (alto cargo)
+Prescripción de sanciones por faltas muy graves (alto cargo)
 Tiempo durante el cual se reciben las retribuciones íntegras por incapacidad temporal
 Plazo en el que se deben presentar los Presupuestos Generales
 Plazo de rendición de cuentas a justificar

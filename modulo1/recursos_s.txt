@@ -26,3 +26,5 @@ El órgano administrativo que dictó el acto que se recurre
 3 meses
 Recurso potestativo de reposición. El extraordinario de revisión es sobre actos firmes
 Recuso de amparo (por vulnerar el derecho fundamental del artículo 28, de petición) y Recurso contencioso-administrativo
+Si, salvo que una ley establezca lo contrario
+Se declara su inadmisibilidad. Importante distinguir del término Desestimar. En este caso no se desestima ni tampoco se estima, puesto que para ello antes se debe haber admitido a trámite

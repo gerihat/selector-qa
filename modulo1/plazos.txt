@@ -41,7 +41,7 @@ Plazo en el que se deben cumplir los requisitos exigidos para la iniciativa auto
 Plazo en el que no se puede reintentar la iniciativa autonómica o ampliación de competencias de una CA
 Plazo Presidente Consejo Europeo
 Cada cuánto se celebran reuniones en el Consejo Europeo
-Plazo Presidente Consejo de Europa
+Plazo Presidente Consejo de Unión Europea
 Plazo miembros de Comisión Europea
 Plazo Presidente Comisión Europea
 Plazo miembros Parlamento Europeo
@@ -68,12 +68,12 @@ Plazo para presentar recurso extraordinario de revisión contra actos firmes de 
 Plazo para dictar y notificar resolución de recurso extraordinario de revisión
 Plazo para presentar recurso conte-admin contra actos expresos
 Un acto queda suspendido si se solicita suspensión y no se resuelve en qué plazo
-La lesividad no se puede adoptar si han pasado...
-Se produce caducidad del procedimiento en acto dañino si no hay lesividad en...
+La declaración de lesividad no se puede adoptar si han pasado... desde que se dictó el acto
+Se produce caducidad del procedimiento de declaración de lesividad si esta no se declara en...
 Plazo para presentar alegaciones previas en un recurso conte-admin
 Plazo de recibimiento a prueba de nuevos hechos tras contestación de demanda
 Plazo de ejecución de una Oferta de Empleo Público
-Plazo en el que se puede estar interino
+Plazo en el que se puede estar interino por ejecución de programas de carácter temporal
 Plazo en el que se puede estar interino por exceso de tareas
 Plazo en el que se considera la incompatibilidad de actividades privadas del funcionario relacionadas con asuntos en los que se esté interviniendo, se vaya a intervenir o se haya intervenido
 Plazo para el cese y toma de posesión con cambio de residencia en movilidad por motivos de salud o rehabilitación
@@ -87,10 +87,21 @@ Plazo para el cese y toma de posesión en comisión de servicios voluntario con 
 Plazo para el cese y toma de posesión en comisión de servicios forzosa con cambio de residencia
 Plazo máximo que se puede estar en comisión de servicios en cooperación internacional
 Plazo máximo de suspensión firme de funciones en sanción disciplinaria por faltas muy graves
+Periodo de vacaciones de funcionario de carrera
+Días mínimos seguidos que se deben disfrutar del periodo de vacaciones
+Permiso por fallecimiento de familiar en primer grado en misma localidad
+Permiso por fallecimiento de familiar en primer grado en distinta localidad
+Permiso por fallecimiento de familiar en segundo grado en misma localidad
+Permiso por fallecimiento de familiar en segundo grado en distinta localidad
+Permiso por traslado de domicilio
 Permiso por parto
 Ampliación máxima del permiso por parto con hospitalización del neonato
 Reducción de jornada por lactancia
 Reducción de jornada por hijos prematuros
+Permiso por asuntos particulares
+Permiso por matrimonio
+Semanas seguidas de permiso que debe tomar la funcionaria después del parto dentro del periodo de 16 semanas
+Permiso por paternidad
 Prescripción de faltas leves
 Prescripción de faltas graves
 Prescripción de faltas muy graves
@@ -106,6 +117,9 @@ Prescripción de sanciones por faltas muy graves (alto cargo)
 Tiempo durante el cual se reciben las retribuciones íntegras por incapacidad temporal
 Plazo en el que se deben presentar los Presupuestos Generales
 Plazo de rendición de cuentas a justificar
-Plzo en el que el Tribunal de Cuentas examina las cuentas del Estado
+Plazo en el que el Tribunal de Cuentas examina las cuentas del Estado
 Plazo en el que la AGE presenta la Cuenta General del Estado
 En el periodo de Información Pública que plazo hay para presentar alegaciones
+Plazo para alegaciones y audiencia que se concede al Ministerio Fiscal y a las partes, en caso de que se vaya a plantear una cuestión de inconstitucionalidad
+Plazo de resolución del juez que plantea cuestión de inconstitucionalidad, tras las alegaciones de las partes o del Ministerio Fiscal
+Plazo máximo de suspensión de resolución y notificación en el caso de que se esté a la espera de recibir informes preceptivos

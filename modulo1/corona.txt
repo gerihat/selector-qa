@@ -23,3 +23,5 @@ Qué plazo tiene el Rey para convocar las Cortes tras las elecciones generales
 Qué plazo tiene el Rey para convocar elecciones
 Quién refrenda el Decreto de convocatoria de elecciones
 Quién refrenda el Decreto de disolución de las Cortes
+En caso de que el Rey sea menor de edad, quién es Regente
+En caso de que se reconozca al Rey inhábil, quién es Regente

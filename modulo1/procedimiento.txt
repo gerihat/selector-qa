@@ -1,5 +1,5 @@
 Enumera las fases del procedimiento administrativo
-Los tŕamites que debe cumplimentar el interesado en cuántos días los debe hacer
+Los trámites que debe cumplimentar el interesado en cuántos días los debe hacer
 En qué casos se inicia un procedimiento de oficio
 Cuáles son los requisitos para la acumulación de procedimientos
 En una denuncia de una persona que además es infractor junto a otros que le ocurre
@@ -52,3 +52,5 @@ Qué es la compulsión sobre las personas
 El deshaucio administrativo en las fases del procedimiento donde se coloca
 Qué órgano puede acordar la apertura de un período de información pública
 En qué procedimiento la ampliación del plazo máximo permitido se aplica en todo caso
+Plazo máximo de suspensión de resolución y notificación en el caso de que se esté a la espera de recibir informes preceptivos
+Si el órgano que instruye y el que resuelve no son los mismos, que debe hacer el instructor

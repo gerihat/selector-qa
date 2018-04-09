@@ -3,8 +3,7 @@ tema17.txt
 tema18.txt
 tema19.txt
 tema20.txt
-tema21.txt
-tema22.txt
+tema2122.txt
 tema23.txt
 tema24.txt
 tema25.txt

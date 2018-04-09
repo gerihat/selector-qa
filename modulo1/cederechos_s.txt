@@ -22,7 +22,7 @@ La ley podrá limitar o exceptuar el derecho a las Fuerzas o Instituciones armad
 Si, en caso de estado de excepción y sitio
 Si, pero sólo en caso de estado de sitio
 Si, en caso de estado de excepción y sitio
-Si, en caso de estado de excepción y sitio
+Si, en caso de estado de excepción y sitio. Y también en investigación de bandas armadas
 La inviolabilidad del domicilio es uno de los derechos posibles de suspender en caso de estado de excepción y sitio
 No. Es el art. 22 (asociación). No confundirlo con el art. 21 (reunión-manifestación)
 17.libertad personal (-info y agado en excepción), 18. inviolabilidad domicilio, secreto comunicaciones, 19. libertad residencia y circulación, 20. libertad expresión, info, secuestro publicaciones, 21. reunión y manifestación, 28. huelga, 37. conflicto coletivo
@@ -35,7 +35,7 @@ Proceso para poner a disposición judicial un detenido ilegalmente de forma inme
 Social, económico y jurídico
 17. Detención 72 horas, 18. Inviolabilidad domicilio y secreto comunicaciones
 Los art. 14, 15-29 y el 30.2 (Objeción conciencia). Pero antes siempre por Tribunales ordinarios procedimiento basado en principios de preferencia y sumariedad
-Ley Orǵanica
+Ley Orgánica
 Autorización del titular, resolución judicial o flagrante delito
 Depende de la Ley de Enjuiciamiento Criminal. No confundir con detención provincial (72h)
 De las libertades públicas que garantiza el Titulo I de la Constitución, en los términos establecidos en los Tratados y en la Ley
@@ -59,3 +59,4 @@ Si
 Si
 No. El art. 53 dice que los derechos y libertades reconocidos en el Título I, Cap. II vinculan a todos los poderes públicos. El derecho a la protección de la salud está en el Cap. III.
 Privados
+No exactamente. Se debe comunicar a la autoridad y ésta sólo puede prohibirla cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes

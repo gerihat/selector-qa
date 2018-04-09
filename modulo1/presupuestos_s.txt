@@ -11,7 +11,7 @@ Tribunal de Cuentas
 Aprobación del gasto, Compromiso del gasto, Reconocimiento de la obligación, Ordenación del pago y Pago material
 Autorizar un gasto determinado reservando crédito
 Acordar realizar un gasto previamente aprobado. Acto con relevancia jurídica
-Declarar la existencia de un crédio exigible derviado de un gasto
+Declarar la existencia de un crédio exigible derivado de un gasto
 Con este acto se extingue la obligación de gasto
 Falte la documentación justificativa de las obligaciones o cuando los servicios o prestaciones sean en el extranjero
 3 meses

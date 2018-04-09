@@ -123,3 +123,5 @@ En el periodo de Información Pública que plazo hay para presentar alegaciones
 Plazo para alegaciones y audiencia que se concede al Ministerio Fiscal y a las partes, en caso de que se vaya a plantear una cuestión de inconstitucionalidad
 Plazo de resolución del juez que plantea cuestión de inconstitucionalidad, tras las alegaciones de las partes o del Ministerio Fiscal
 Plazo máximo de suspensión de resolución y notificación en el caso de que se esté a la espera de recibir informes preceptivos
+Plazo de reserva de puesto a un funcionario en excedencia por violencia terrorista
+Plazo que tiene un órgano para trasladar un recurso al órgano competente

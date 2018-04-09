@@ -1,7 +1,7 @@
-Progresión de grado, categoría o escalón. Sin cambio de puesto. Ej: En C2 pasar de Grado 14 a 16
-Progresión de puesto por provisión de puestos. Ej: De Ayudante a Jefe de Negociado
-Acceso a otro cuerpo o escala en el mismo Grupo o Subgrupo. Ej: C1 como Aux. AGE a C1 coo Aux. Informática
-Subir de Grupo o Subgrupo. Ej: De C2 a C1
+Progresión de grado, categoría o escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo. Ej: En C2 pasar de Grado 14 a 16
+Ascenso en la estructura de puestos de trabajo por procedimiento de provisión de puestos. Ej: De Ayudante a Jefe de Negociado
+Acceso a cuerpos o escalas del mismo Subgrupo profesional. Ej: C1 como Aux. AGE a C1 coo Aux. Informática
+Accenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional a otro superior. Subir de Grupo o Subgrupo. Ej: De C2 a C1
 2 años
 Los requisitos de ingreso al cuerpo correspondiente, además de 2 años de antigüedad y las pruebas selectivas
 30 niveles

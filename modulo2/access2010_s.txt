@@ -1,4 +1,4 @@
-Consulta de selección, de Acción y Específicas de SQL
+Consulta de selección, de agrupación, de cálculo, de Acción y Específicas de SQL
 .accdb
 .mdb
 Parecido al tipo de dato Objeto OLE, pero permite añadir más de un objeto
@@ -25,5 +25,12 @@ Los caracteres que están entre comillas se mostrarán literalmente
 Controla el modo de conversión de caracteres en las versiones asiáticas de Windows
 En el tipo de datos del campo elegimos Asistente para búsquedas, a través del cual podemos introducir la lista de valores posibles o indicar el origen de datos para los valores posibles
 En la ventana de consultas es la zona donde se especifican los criterios de la consulta. QBE=Query By Example
-Corresponde a "Y". La "O" es la siguiente fila después de Criterio
-Nos impide modificar un registro en la tabla secundaria si antes no hemos modificado el registro relacionado en la tabla principal
+Corresponde a "Y". La "O" se especifican en cada fila
+Un registro en la tabla secundaria solo puede existir si existe relacionado con un registro en la tabla principal
+Estamos definiendo una columna NUEVOPRECIO en la consulta para que en ella aparezca el valor del campo PRECIO multiplicado por 1.21. Es decir el PRECIO+IVA
+Entre corchetes: [NOMBRE_CAMPO]
+Entre almohadillas:  #4/5/2009#
+Mediante una macro creada cuyo nombre debe ser autoexec, o traveés de Opciones->Base de datos actual->Mostrar formulario
+autoexec
+Pulsando la tecla SHIFT al abrir la BD
+Switchboard Items

@@ -22,7 +22,7 @@ Qué dos grupos se mencionan en el derecho de sindicación y de qué forma
 El derecho a no permanecer preventivamente detenido por un plazo de 72 horas puede ser suspendido?
 El derecho a ser asistido por Abogado en las diliegencias policiales puede ser suspendido?
 El derecho a huelga puede ser suspendido?
-El secreto de las comunicaciones puede ser suspendido?
+El derecho al secreto de las comunicaciones puede ser suspendido?
 Se puede entrar en un domicilio sin autorización judicial en estado de expepción?
 El derecho de asociación puede ser suspendido?
 Cita los derechos que se suspenden en el estado de excepción
@@ -59,3 +59,4 @@ El derecho a la propiedad privada vincula a los poderes públicos?
 El derecho al matrimonio vincula a los poderes públicos?
 El derecho a la protección de la salud vincula a los poderes públicos?
 Los medios de producción según la Constitución son públicos o privados?
+La reuniones que se celebran en lugares de tránsito público requieren de autorización previa?

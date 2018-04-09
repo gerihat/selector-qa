@@ -1,4 +1,4 @@
--sTipos de consultas
+Tipos de consultas
 Cuál es la extensión de un fichero de base de datos de Access 2010
 Cuál es la extensión de un fichero de base de datos de Access 2007
 Qué hace el tipo de datos [Datos adjuntos]
@@ -27,3 +27,10 @@ Si en un campo queremos que sólo sea posible introducir tres valores (Barcelona
 Qué es la zona QBE
 En la ventana de consultas cada columna de criterio corresponde a "Y" o "O"
 Qué implica exigir integridad referencial al relacionar dos tablas
+Qué ocurre si en el criterio de una consulta aparece esto: NUEVOPRECIO:[PRECIO]*1.21
+Cómo se especifican los campos en los criterios de consulta
+Cómo se indican fechas en los criterios de consulta
+Cómo podemos decirle a Access que abra un formulario concreto al abrir la BD
+Qué nombre debe tener una macro para que se ejecute al abrir una BD
+Cómo podemos evitar que se ejecute código VBA al abrir una BD. Por ejemplo para evitar que se ejecuten macros al abrir la BD
+Qué nombre tiene la tabla que se crea al utilizar el Administrador del panel de control

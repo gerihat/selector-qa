@@ -34,3 +34,5 @@ Cómo podemos decirle a Access que abra un formulario concreto al abrir la BD
 Qué nombre debe tener una macro para que se ejecute al abrir una BD
 Cómo podemos evitar que se ejecute código VBA al abrir una BD. Por ejemplo para evitar que se ejecuten macros al abrir la BD
 Qué nombre tiene la tabla que se crea al utilizar el Administrador del panel de control
+Qué partes tiene el diseño de un formulario
+Qué partes tiene el diseño de un informe

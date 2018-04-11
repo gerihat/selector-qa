@@ -34,3 +34,5 @@ Mediante una macro creada cuyo nombre debe ser autoexec, o traveés de Opciones-
 autoexec
 Pulsando la tecla SHIFT al abrir la BD
 Switchboard Items
+Encabezado formulario, detalle y pie formulario
+Encabezado informe, encabezado página, detalle, pie de página y pie de informe

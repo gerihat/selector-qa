@@ -5,7 +5,7 @@ Plazo máximo estado de sitio
 Periodo miembros Tribunal Constitucional
 Periodo Presidente Tribunal Constitucional
 Experiencia exigible en los elegibles del turno de juristas para el Tribunal Constitucional
-Cuando el Gobierno impugna una diposición o resoluciuón de una CCAA, qué plazo tiene el Tribunal Constitucional para ratificar
+Cuando el Gobierno impugna una disposición o resolución de una CCAA, qué plazo tiene el Tribunal Constitucional para ratificar
 Plazo para interponer recurso de inconstitucionalidad
 Plazo para interponer recurso de amparo contra actos sin valor de ley de las Cortes o Asambleas CA
 Plazo para interponer recurso de amparo contra disposiciones, actos jurídicos del Gobierno, autoridades o funcionarios u org. ejec. CA
@@ -36,7 +36,7 @@ Periodo de mandato del Presidente del Tribunal Supremo
 Plazo en el que el CGPJ debe presentar un informe requerido
 Periodo por el que son nombrados los Jueces de Paz
 Plazo en el que se debe realizar una segunda votación para otorgar confianza al candidato a Presidente del Gobierno
-Plazo en el que el Rey disuelve las Cámaras, tras no conseguir el candidato a Presdiente del Gobierno, la confianza del Congreso
+Plazo en el que el Rey disuelve las Cámaras, tras no conseguir el candidato a Presidente del Gobierno, la confianza del Congreso
 Plazo en el que se deben cumplir los requisitos exigidos para la iniciativa autonómica por el procedimiento del artículo 143
 Plazo en el que no se puede reintentar la iniciativa autonómica o ampliación de competencias de una CA
 Plazo Presidente Consejo Europeo
@@ -125,3 +125,4 @@ Plazo de resolución del juez que plantea cuestión de inconstitucionalidad, tra
 Plazo máximo de suspensión de resolución y notificación en el caso de que se esté a la espera de recibir informes preceptivos
 Plazo de reserva de puesto a un funcionario en excedencia por violencia terrorista
 Plazo que tiene un órgano para trasladar un recurso al órgano competente
+Plazo para resolver y notificar una petición de un ciudadano

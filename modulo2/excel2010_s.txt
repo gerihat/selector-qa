@@ -1,4 +1,5 @@
 .xlsx
+.xlsm
 .xlw
 AA, AB, AC, etc...
 Pulsando ALT, y seguidamente pulsando la tecla correspondiente de la ficha a la que se quiere acceder

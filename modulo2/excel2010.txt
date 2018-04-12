@@ -1,4 +1,5 @@
 Qué extensión tienen los documentos de Excel 2010
+Qué extensión tienen los documentos de Excel 2010 con habilitación para macros
 Con qué extensión se guarda un área de trabajo
 Qué sigue a la columna Z
 Cómo se accede en la barra de fichas a una ficha mediante teclado

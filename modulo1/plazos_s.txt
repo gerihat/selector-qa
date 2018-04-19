@@ -29,11 +29,12 @@ Pasados 2 meses sin ser aprobada mayoría absoluta, el Congreso la puede aprobar
 Lo que la propia ley diga. De lo contrario 20 días
 5 años
 1 año, desde que se tuviera conocimiento de los hechos
+1 mes
 5 años
 5 años
 5 años
 5 años
-30 días (10 si urgente)
+30 días (15 si urgente)
 4 años
 48 horas
 2 meses
@@ -52,7 +53,7 @@ Lo que la propia ley diga. De lo contrario 20 días
 10-30 días
 10-15 días
 10 días
-6 meses como máximo. Y si la norma no dice nada serán 3 meses
+Lo que indique la norma, pero como máximo serán 6 meses. Y si la norma no dice nada serán 3 meses
 3 meses
 Máximo de 15 días
 1 mes
@@ -126,3 +127,6 @@ Cada año
 6 meses, prorrogables 3 meses y hasta un máximo de 18 meses
 10 días
 3 meses
+5 años
+2 meses
+2 meses

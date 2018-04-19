@@ -5,3 +5,12 @@ Qué sigue a la columna Z
 Cómo se accede en la barra de fichas a una ficha mediante teclado
 Cómo se crea una serie de números multiplicados por 2 hasta el 1024 sin introducirlos manualmente
 Cómo se crean series personalizadas. Por ejemplo: Primavera, Verano, Otoño, Invierno
+Diferencia entre las funciones CONTAR, CONTARA y CONTAR.SI
+Qué hace la herramienta Solver
+Dónde se encuentra la herramienta Solver
+Qué tres parámetros se piden siempre en una función de base de datos Excel
+Cómo se llaman las funciones de base de datos Excel
+Qué requisito es imprescindible para poder usar la herramienta Subtotal en una base de datos Excel
+En qué opción del menú se encuentra la herramienta Buscar Objetivo
+A qué nivel se crean los Escenarios, a nivel de hoja o a nivel de libreo
+Dónde se guardan las macros que tienen que estar disponibles para cualquier libro de Excel

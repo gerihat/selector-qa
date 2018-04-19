@@ -21,6 +21,7 @@ En el periodo de Información Pública que plazo hay para presentar alegaciones
 Presentar una alegación en el periodo de Información Pública da la condición de interesado?
 Qué pone fin al procedimiento administrativo
 La administración está obligada a resolver, salvo en qué casos
+En caso de renuncia o caducidad del procedimiento, la Administración está obligada a resolver y notificar la resolución?
 Qué se considera como terminación convencional
 Cuál es el plazo para notificar la resolución expresa de un procedimiento
 En el procedimiento iniciado por el interesado, el plazo para notifcar la resolución se empieza a contar desde
@@ -54,3 +55,9 @@ Qué órgano puede acordar la apertura de un período de información pública
 En qué procedimiento la ampliación del plazo máximo permitido se aplica en todo caso
 Plazo máximo de suspensión de resolución y notificación en el caso de que se esté a la espera de recibir informes preceptivos
 Si el órgano que instruye y el que resuelve no son los mismos, que debe hacer el instructor
+En tramitación de urgencia se reducen los plazos de todo el procedimiento a la mitad o hay excepciones?
+Cómo se inicia un procedimiento de responsabilidad patrimonial, de oficio o a solicitud del interesado?
+Plazo de prescripción del derecho a reclamar por responsabilidad patrimonial de la Administración
+Qué debe contener una solicitud de iniciación de un procedimiento de responsabilidad patrimonial a instancia del interesado
+En procedimiento sancionadores se puede producir la terminación del procedimiento por reconocimiento de la responsabilidad?
+Quién resuelve procedimiento de responsabilidad patrimonial

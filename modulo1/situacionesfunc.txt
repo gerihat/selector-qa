@@ -36,3 +36,5 @@ Un funcionario en suspensión provisional recibe cantidad alguna en concepto de 
 Un excedente forzoso puede desempeñar puestos de trabajo en el sector público?
 Un funcionario interino puede pedir excedencia voluntaria?
 Un personal laboral fijo puede pedir excedencia voluntaria?
+En qué casos se genera la excedencia voluntaria incentivada?
+Duración máxima de la excedencia voluntaria incentivada

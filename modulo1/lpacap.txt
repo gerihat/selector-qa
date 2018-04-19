@@ -1,12 +1,14 @@
 Cuáles son los principios de actuación de la Administración Pública según la Constitución
 Qué se considera como Sector Público
 Qué se considera como Administración Pública
+Las Universidades Públicas se rigen por la ley de procedimiento 39/2015?
 Cual es la ley de procedimiento actual
 Cuáles son los principales derechos de los interesados ante la Administración
 En relación con los medios electrónicos cuáles son los principales derechos del interesado ante la Administración
 Quiénes están obligados a la tramitación electrónica
 A quién se le considera como interesado en un procedimiento
 Aquellos cuyos intereses legítimos puedan resultar afectados por la resolución, se le considera interesado en el procedimiento?
+Cuándo es necesaria la firma del interesado en el procedimiento
 Si en un plazo por meses no hay día equivalente en el fin del plazo, que día se cuenta?
 Si un día es inhábil en la sede del organismo pero hábil donde reside el interesado que pasa
 Si en el procedimiento no se indica, los días son hábiles o naturales
@@ -17,8 +19,9 @@ Quién es el poderdante
 Quién es el apoderado
 En qué casos un representante debe presentar acreditación
 Qué es el apud acta
-Si un procedimiento falta acreditación, cuántos días tiene el interesado o el representante para subsanarlo
+Si en un procedimiento falta acreditación, cuántos días tiene el interesado o el representante para subsanarlo
 Si en un procedimiento intervienen varios interesados haciadfsdfa  quién van dirigidas las actuaciones de la Administración
+Qué procedimientos sancionadores se rigen por su normativa específica, y no por la ley 39/2015
 El procedimiento sancionador de tráfico se rige por la Ley 39/2015?
 Tienen capacidad de obrar los grupos de afectados?
 Qué ocurre con los documentos o información cuyo régimen especial establece una forma de presentación distinta a la que se haya utilizado

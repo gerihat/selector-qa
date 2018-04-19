@@ -10,10 +10,10 @@ Ley Orgánica
 1º. orden primogenitura, 2º linea anterior a posterior, 3º. misma linea->grado próximo a remoto. 4º. mismo grado->hombre a mujer. 5º. mismo sexo->mayor a menor. 6º. no lineas->Cortes Generales
 Permiso no necesita, pero si lo tiene expresamente prohibido perderá por si mismo y sus descendientes su derecho de sucesión
 Si, desde nacimiento o desde el hecho que origine su llamamiento (su padre se convierte en Rey)
-Dos casos. Rey menor o inhábil. Rey Menor: padre/madre, pariente+18 sucesión. Rey Inhábil: Principe heredero+18. Ningún regente: Cortes, español (nac o no)+18, 1,3,5 personas
+Dos casos. Rey menor o inhábil. Rey Menor: padre/madre, pariente+18 sucesión. Rey Inhábil: Principe heredero+18. Si es menor de 18, el padre/madre o pariente+18 sucesión. Ningún regente: Cortes, español (nac o no)+18, 1,3,5 personas
 Opcion 1. Testamento,español nac+18, Opcion 2. Padre-madre, viudo, Opcion 3. Cortes
 Sólo el padre o la madre o ascendientes
-Desempeñar fielmente funciones, Guardar y hacer guardar la Constituciones y las Leyes, Respetar los derechos de los ciudadanos y de las Comunidades Autónomas
+Desempeñar fielmente funciones, Guardar y hacer guardar la Constitución y las Leyes, Respetar los derechos de los ciudadanos y de las Comunidades Autónomas
 La realiza el Rey previa autorización de las Cortes Generales
 Si, pero no así las leyes dictadas por la Asamblea CA, que las sanciona el presidente de la CA
 Si
@@ -24,4 +24,4 @@ La Ley Orgánica del Régimen Electoral General dice que se debe convocar 25 dí
 El Presidente del Gobierno
 El Presidente del Congreso
 El padre, la madre o el pariente de mayor edad en orden de sucesión
-El Príncipe heredero si es mayor de edad
+El Príncipe heredero si es mayor de edad. Si es menor de edad, entonce el padre/madre o pariente mayor de edad en orden de sucesión

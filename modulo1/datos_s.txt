@@ -63,6 +63,7 @@ De Instrucción, Penal, Conte-Admin, Vigilancia Penitenciaria, Menores
 4 Salas. Primera. Apelación (recursos contra lo Penal), Segunda. Penal. Tercera. Conte-Admin. Cuarta. Social. (NOTA: No hay Civil)
 Pueden existir 0,1,2,3
 Mayoría absoluta en primera votación, mayoría simple en segunda votación
+Mayoría simple (OJO: no confundir con otorgar confianza a un candidato a Presidente del Gobierno)
 1/4
 1/10
 Un mínimo semanal
@@ -88,3 +89,4 @@ Los de más de 5.000 habitantes o por reglamento
 28 países
 RF.Alemania, Francia, Italia, Bélgica, Países Bajos, Luxemburgo
 Iniciación, Instrucción, Finalización, Ejecución. (+Ordenación durante todo el procedimiento, +Información antes del procedimiento para decidir si iniciar o no, +Medidas provisionales, para asegurar intereses implicados)
+50.000 €

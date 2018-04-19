@@ -3,7 +3,7 @@ El derecho al trabajo es un derecho fundamental?
 El derecho a la huelga es un derecho fundamental?
 El derecho al matrimonio es un derecho fundamental?
 El derecho a la vivienda es un derecho fundamental?
-El derecho a la salud es un derecho fundamental?
+El derecho a la protección de la salud es un derecho fundamental?
 El derecho a la propiedad privada es un derecho fundamental?
 El derecho de fundación es un derecho fundamental?
 El secreto de las comunicaciones es un derecho fundamental?
@@ -20,18 +20,18 @@ En qué ámbito se prohíben los Tribunales de Honor
 Quién designa al Defensor del Pueblo
 Qué dos grupos se mencionan en el derecho de sindicación y de qué forma
 El derecho a no permanecer preventivamente detenido por un plazo de 72 horas puede ser suspendido?
-El derecho a ser asistido por Abogado en las diliegencias policiales puede ser suspendido?
+El derecho a ser asistido por abogado en las diligencias policiales puede ser suspendido?
 El derecho a huelga puede ser suspendido?
 El derecho al secreto de las comunicaciones puede ser suspendido?
-Se puede entrar en un domicilio sin autorización judicial en estado de expepción?
+Se puede entrar en un domicilio sin autorización judicial en estado de excepción?
 El derecho de asociación puede ser suspendido?
 Cita los derechos que se suspenden en el estado de excepción
-Qué artículo habla de las manifestación, es un derecho fundamental?
+Qué artículo habla de las manifestaciones. Es un derecho fundamental?
 Tiempo máximo de detención preventiva
 Qué asociaciones están prohibidas
-Puede la Administración vicil imponer penas de privación de libertad?
+Puede la Administración civil imponer penas de privación de libertad?
 Quién tiene derecho a la tutela judicial, los españoles, las personas o los ciudadanos?
-Qué es el Hábeas Corpus
+Qué es el Habeas Corpus
 En qué ámbitos garantizan la protección de la familia los poderes públicos
 Qué derechos se pueden suspender de forma individual en investigaciones de bandas armadas y terroristas
 Qué derechos pueden ser tutelados ante el Tribunal Constitucional mediante recurso de amparo
@@ -42,7 +42,7 @@ De qué derecho gozan los extranjeros en España
 El derecho de petición se ejerce de forma individual o colectiva?
 El derecho de petición es atribuido a los ciudadanos, los españoles o las personas?
 A qué órgano le encomienda el art 124 la defensa de los derechos de los ciudadanos
-Se puede privar a una persona de sus bienes y derechos aún no estando en estado excepción o sitio?
+Se puede privar a una persona de sus bienes y derechos aún no estando en estado de excepción o sitio?
 Qué asociaciones son ilegales
 Cuál de estos dos derechos no se recoge en el art. 18: Intimidad familiar, Imagen pública
 Qué artículo recoge el principio de igualdad jurídica de los españoles ante la ley
@@ -51,7 +51,7 @@ Con qué mayoría se adoptan decisiones en la Comisión Mixta Congreso-Senado pa
 La asistencia de Abogado al detenido desde que momento se garantiza
 Las asociaciones paramilitares están prohibidas o son ilegales?
 El art. 14 debe ser desarrolado mediante Ley Orgánica?
-Un detenido puede ser obligado a declara sólo en presencia de su abogado. Es cierto?
+Un detenido puede ser obligado a declarar sólo en presencia de su abogado. Es cierto?
 Principios en los que se basa la tutela de los derechos fundamentales por los Tribunales ordinarios
 Qué artículos vinculan a los poderes públicos
 El derecho al trabajo vincula a los poderes públicos?

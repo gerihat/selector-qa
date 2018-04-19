@@ -25,8 +25,9 @@ function selectlinea {
 function echolinea {
 	default_command=$(sed "$2!d" $1)
 	if [[ $4 = true ]]; then
-		echo -e "Tema: ${green}$(basename ${filename})${endColor}"
+		echo -en "Tema: ${green}$(basename ${filename})${endColor} "
 	fi
+	echo -e "Pregunta: ${green}$((++cont))${endColor}"
 	if [[ $3 = true ]]; then
 		echo "[$2] "$default_command
 	else
@@ -85,7 +86,7 @@ if [[ ! -f $1 ]]; then
 	exit 1;
 fi
 
-# Extrear path
+# Extraer path
 path=$(dirname $1)"/"
 bname=$(basename $1)
 
@@ -105,6 +106,7 @@ esac
 
 echo -e "Iniciando test"
 
+cont=0
 while [ true ] ; do
 	if [[ ! -z "$filename_modulo" ]]; then
 		#Elegir tema dentro de modulo*.txt
@@ -127,10 +129,8 @@ while [ true ] ; do
 			exit 1;
 		fi
 	fi
-
 	for ((i =1;i<=$nrepeat;i++))
 	do
-
 		numlinea=$(selectlinea $filename)
 		echolinea $filename $numlinea $nlflag $ntflag
 		read -n 1 -s input

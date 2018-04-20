@@ -14,8 +14,8 @@ Cómo son los informes en el procedimiento si no se indica nada
 Cuál es el plazo para la emisión de un informe
 Qué le ocurre a un informe emitido fuera de plazo
 Si termina el plazo para emitir un informe se suspende el plazo para resolver el procedimiento?
-En que fase del procedimiento puede presentar alegaciones el interesado
-En que fase del procedimiento puede aportar documentos u otros elementos el interesado
+En qué fase del procedimiento puede presentar alegaciones el interesado
+En qué fase del procedimiento puede aportar documentos u otros elementos el interesado
 Qué es el periodo de Información Pública en el procedimiento
 En el periodo de Información Pública que plazo hay para presentar alegaciones
 Presentar una alegación en el periodo de Información Pública da la condición de interesado?
@@ -24,8 +24,8 @@ La administración está obligada a resolver, salvo en qué casos
 En caso de renuncia o caducidad del procedimiento, la Administración está obligada a resolver y notificar la resolución?
 Qué se considera como terminación convencional
 Cuál es el plazo para notificar la resolución expresa de un procedimiento
-En el procedimiento iniciado por el interesado, el plazo para notifcar la resolución se empieza a contar desde
-En el procedimiento iniciado de oficio, el plazo para notifcar la resolución se empieza a contar desde
+En el procedimiento iniciado por el interesado, el plazo para notificar la resolución se empieza a contar desde
+En el procedimiento iniciado de oficio, el plazo para notificar la resolución se empieza a contar desde
 En qué casos se puede suspender el plazo para resolver
 En qué casos se suspende si o si el plazo para resolver
 Se puede ampliar el plazo para resolver un procedimiento?
@@ -40,7 +40,7 @@ Una tramitación simplificada la puede pedir el interesado?
 Qué puede hacer el interesado si la administración decide de oficio la tramitación simplificada de un procedimiento?
 Qué plazo se tiene de Alegaciones en la tramitación simplificada
 Existe trámite de audiencia en los procedimiento con tramitación simplificada?
-Existe periodo de prueba en los procedimiento con tramitación simplificada?
+Existe periodo de prueba en los procedimientos con tramitación simplificada?
 Un acto de ejecución material se puede suspender?
 Un acto de ejecución material de naturaleza sancionadora es de directa aplicación?
 El procedimiento sancionador es una especialidad del procedimiento o un procedimiento especial

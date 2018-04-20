@@ -1,10 +1,10 @@
 Iniciación, Instrucción, Finalización, Ejecución. (+Ordenación durante todo el procedimiento, +Información antes del procedimiento para decidir si iniciar o no, +Medidas provisionales, para asegurar intereses implicados)
 10 días, si el procedimiento no indica otro plazo
-Por iniciativa del órgano al conocer los hechos, por orden superior, a petición de otro órgano (aunque no es vinculante y no obliga a iniciar, por denuncia de una persona
+Por iniciativa del órgano al conocer los hechos, por orden superior, a petición de otro órgano (aunque no es vinculante y no obliga a iniciar), por denuncia de una persona
 Procedimiento con íntima conexión y que sea el mismo órgano quien deba tramitar y resolver. No cabe recurso alguno
 No inicia por si sólo el procedimiento, sino que es el órgano el que lo inicia de oficio, y además si el denunciante participa en la infracción, quedaría eximido del pago de la multa si es el primero en aportar elementos de juicio y no persiste en el delito
 ID interesado/representante, medio electrónico o no para notificaciones, hechos y razones para la petición, lugar y fecha, firma y órgano de destino
-10 días
+Si, en 10 días
 Es el reconocimiento o ejercicio de un derecho, o inicio de actividad desde su presentación en la que el interesado bajo su responsabilidad asegura que cumple requisitos, tiene la documentación acreditativa, que la proporcionará a la Administración si asi lo pide y que jura mantener el cumplimiento de todo lo anterior
 Es el documento por el cual se reconoce un derecho o inicio de actividad y se pone en conocimiento de la administración los datos de identificación para el inicio de la actividad. Si se incurre en falsedad o inexactitud, se considera que el interesado no continúa el procedimiento
 Actos de Instrucción, Alegaciones, Periodo de prueba, Trámite de audiencia, Información pública
@@ -24,12 +24,12 @@ Terminación en pacto o convenio y en aquellos relativos al ejercicio de derecho
 Si, y la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables
 Acuerdo, pacto, convenio o contrato con personas derecho público o privado, que no sean contrarios al ord. jur, satisface interés público y es aprobado por Consejo de Ministros u órgano CCAA en su competencia
 El que dicte el procedimiento, si no indica nada 3 meses y como máximo 6 meses
-La fecha de acuerdo de iniciación
 La entrada de la solicitud en el registro electrónico
+La fecha de acuerdo de iniciación
 Falta de documentación, Pronunciamiento necesario de la UE, existe procedimiento no finalizado igual en la UE, informe preceptivo (3 meses), pruebas técnicas, negociaciones pacto, pronunciamiento de organismo judisdiccional
 1. Por requerimiento de otra Administración Pública porque un acto considera que es ilegal y ese acto es base para sus competencias. 2. Por actuaciones complementarias. 3. Por recusación del interesado
 Si cuando falten medios, y el plazo no puede ser superior al establecido para la tramitación del propio procedimiento. No cabe recurso contra la ampliación
-La decisión (motivada en su caso) y los recursos admisibles (organo para presentarlos y plazos)
+La decisión (motivada en su caso) y los recursos admisibles (órgano para presentarlos y plazos)
 No, la debe aceptar de plano, salvo que terceros interesados pidan la continuación en 10 días o por interés general
 El interesado pierde el derecho al referido trámite
 En procedimiento iniciados por el interesado, paralizados por su culpa y que hayan pasado 3 meses desde el aviso de caducidad. En procedimiento sancionadores sin resolución en plazo
@@ -49,7 +49,7 @@ Proporcionalidad, medio menos restrictivo de la libertad individual, autorizaci�
 "Amenaza" de embargo. Apremiar=obligar a hacer algo prontamente. Es el medio principal en actos ejecutivos de índole económico
 Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración. ¿No lo quieres hacer? Lo hago yo (admin)
 Imposición de obligaciones pecunarias adicionales (a parte de la principal). Para forzar cumplimiento. Multas reiteradas en lapsos
-Aplicación de la fuerza sobre las personas. Prohibir entrada, Desplazar a otro lugar, Desahucio, Privación libertad, vacunación obligatoria
+Aplicación de la fuerza sobre las personas. Obligaciones personalísimas de no hacer o de soportar. Prohibir entrada, Desplazar a otro lugar, Desahucio, Privación momentánea de libertad, vacunación obligatoria
 Es una ejecución forzosa de compulsión sobre las personas
 El órgano competente para resolver
 En aquellos que exijan cumplimentar algún trámite en el extranjero

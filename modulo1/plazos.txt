@@ -68,6 +68,7 @@ Plazo para presentar recurso extraordinario de revisión contra actos firmes en 
 Plazo para presentar recurso extraordinario de revisión contra actos firmes de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
 Plazo para dictar y notificar resolución de recurso extraordinario de revisión
 Plazo para presentar recurso conte-admin contra actos expresos
+Plazo para presentar recurso conte-admin contra actos no expresos
 Un acto queda suspendido si se solicita suspensión y no se resuelve en qué plazo
 La declaración de lesividad no se puede adoptar si han pasado... desde que se dictó el acto
 Se produce caducidad del procedimiento de declaración de lesividad si esta no se declara en...
@@ -130,3 +131,4 @@ Plazo para resolver y notificar una petición de un ciudadano
 Duración máxima de la excedencia voluntaria incentivada
 Plazo para el informe preceptivo del CGPJ en reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia
 Plazo para el dictámen del Consejo de Estado en reclamaciones en materia de responabilidad patrimonial del Estado por funcionamiento anormal de la Administración de Justicia cuando la cuantía a indemnizar supera los 50.000 € 
+Plazo por el que se concede el Sello Europeo de Protección de Datos

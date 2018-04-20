@@ -68,6 +68,7 @@ Desde día siguiente al acto presunto
 3 meses
 3 meses
 2 meses
+6 meses
 1 mes
 4 años
 6 meses
@@ -130,3 +131,4 @@ Cada año
 5 años
 2 meses
 2 meses
+3 años

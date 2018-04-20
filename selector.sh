@@ -10,7 +10,7 @@ endColor='\033[0m'
 nrepeat=1
 nlflag=false #flag para mostrar numeros de linea
 ntflag=false #flag para mostrar nombre del fichero
-
+npflag=true  #flag para mostrar contador de preguntas
 
 #Funcion selectlinea: Seleccion de una linea en fichero
 #Parametros: #$1: Nombre de fichero
@@ -21,13 +21,16 @@ function selectlinea {
 }
 
 #Funcion echolinea: Mostrar linea del fichero en salida estandar
-#Parametros: $1: filename, #$2: numlinea, #$3: nlflag, mostrar numero linea
+#Parametros: $1: filename, $2: numlinea, 
+#	$3: nlflag, mostrar numero linea, $4: ntflag, mostrar fichero tema, $5: npflag, mostrar numero pregunta
 function echolinea {
 	default_command=$(sed "$2!d" $1)
 	if [[ $4 = true ]]; then
 		echo -en "Tema: ${green}$(basename ${filename})${endColor} "
 	fi
-	echo -e "Pregunta: ${green}$((++cont))${endColor}"
+	if [[ $5 = true ]]; then
+		echo -e "Pregunta: ${green}$((++cont))${endColor}"
+	fi
 	if [[ $3 = true ]]; then
 		echo "[$2] "$default_command
 	else
@@ -121,7 +124,7 @@ while [ true ] ; do
 	if [[ ! -z "$filename_tema" ]]; then
 		#Elegir fichero dentro de tema*.txt
 		numlinea_tema=$(selectlinea $filename_tema)		
-		filename=$path$(echolinea $filename_tema $numlinea_tema false)
+		filename=$path$(echolinea $filename_tema $numlinea_tema)
 		filename_solutions="${filename%.*}_s.${filename##*.}"
 		if [[ ! -f $filename ]]; then
 			echo "Selector (E) ${filename}: Fichero no encontrado"
@@ -132,7 +135,7 @@ while [ true ] ; do
 	for ((i =1;i<=$nrepeat;i++))
 	do
 		numlinea=$(selectlinea $filename)
-		echolinea $filename $numlinea $nlflag $ntflag
+		echolinea $filename $numlinea $nlflag $ntflag $npflag
 		read -n 1 -s input
 		
 		#repuesta

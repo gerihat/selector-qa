@@ -13,3 +13,4 @@ Donde se reciben las notificaciones electrónicas de forma genérica
 Cuándo se considera practicada la notificación electrónica
 Cuándo se considera rechazada la notificación electrónica
 Si el interesado no tiene los medios electrónicos necesarios para comunicarse qué ocurre
+Requisitos mínimos que deben tener los documentos electrónicos para ser considerados válidos

@@ -1,7 +1,7 @@
 Calibri, 11
 .dotx y .dotm (con macros)
 Normal.dotm
-Sangría izquierda, derecha y las especiales: Primera ĺínea, Sangría francesa
+Sangría izquierda, derecha y las especiales: Primera línea, Sangría francesa
 .exportedUI
 Si. Por defecto aparece arriba a la derecha. Pero a través de Archivo-Opciones-Barra de herramientas de acceso rápido, podemos activar la opción Mostrar la barra de herramientas de acceso rápido por debajo de la cinta de opciones.
 Desde la ficha Vista o la ficha Programador (esta segunda ficha esta deshabilitada por defecto)

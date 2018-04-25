@@ -4,13 +4,13 @@ Necesidad o urgencia, Plazas vacantes, Sustitución transitoria (3 años, amplia
 6 meses en un periodo de 12
 A1 y A2 (licenciado, grado), B (Técnico Sup), C1 (Bachiller), C2 (ESO), Subalterno
 Renuncia, pérdida de nacionalidad, Jubilación, Sanción disciplinaria, Pena inhabilitación
-No
+No puede pedir rehabilitación. Pero si puede ingresar de nuevo a través el proceso selectivo
 Si. Siempre que desaparezca la causa. En este caso la incapacidad permanente
 No
 Voluntaria, Forzosa (65 /prolog 70), incapacidad permanente. Para pensión 67 o 65 y 38 años 6 meses servicios
 Desaparece causa (nacionalidad o incapacidad permanente). Pena principal/accesoria según entidad delito
 Si, de hecho es obligatorio añadir un 10%
-Como mucho cada 3 años y la OEP se aprueba de forma anual
+Como mucho cada 3 años y la OEP se aprueba de forma anual por el órgano de Gobierno de la Administración Pública. En la Administración del Estado se aprueba por el Gobierno, a propuesta del Ministerio de Hacienda y Función Pública
 Ordinarias, provisionales (con defectos, max: 90 días), marginales
 Inscripción en el Registro Central de Personal
 Mediante una anotación ordinaria
@@ -36,7 +36,9 @@ Un mes a contar desde la publicación del nombramiento
 Es adscrito provisionalmente a un puesto de trabajo de su cuerpo o escala no inferior a dos niveles de su grado
 Nombrado (y cesados) de forma libre y no permanente a través de cŕedito presupuestario, para funciones de confianza o asesoramiento
 Mérito y Capacidad (Notar que no se indica Igualdad)
-Todas las que entren menos la paga extraordinaria que śolo puede recibirse por uno de los puestos. Además la suma de los dos puestos no debe superar el máximo previsto en los PGE para Director General, ni superar la retribución de puesto principal.
+Todas las que entren menos las pagas extraordinarias y las prestaciones de carácter familiar que sólo pueden recibirse por uno de los puestos. Además la suma de los dos puestos no debe superar el máximo previsto en los PGE para el cargo de Director General, ni superar la retribución de puesto principal, estimada en régimen de dedicación ordinaria. Los servicios prestados en el segundo puesto no computan a efectos de trienios ni derechos pasivos.
+4 meses
 Siempre va acompañada de un informe de impacto de género, salvo por razones de urgencias
 No, si dichas tareas las hizo en los 5 años anteriores a la publicación de la convocatoria
 Si, salvo que la suma de los dos puestos suponga realizar una jornada igual o superior a las 40 horas semanales
+Excepcionalmente, en virtud de ley

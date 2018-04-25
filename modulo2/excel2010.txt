@@ -12,5 +12,5 @@ Qué tres parámetros se piden siempre en una función de base de datos Excel
 Cómo se llaman las funciones de base de datos Excel
 Qué requisito es imprescindible para poder usar la herramienta Subtotal en una base de datos Excel
 En qué opción del menú se encuentra la herramienta Buscar Objetivo
-A qué nivel se crean los Escenarios, a nivel de hoja o a nivel de libreo
+A qué nivel se crean los Escenarios, a nivel de hoja o a nivel de libro
 Dónde se guardan las macros que tienen que estar disponibles para cualquier libro de Excel

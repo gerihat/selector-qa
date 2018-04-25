@@ -79,6 +79,7 @@ Desde día siguiente al acto presunto
 6 meses (periodo 12 meses)
 2 años
 1 mes
+2 años
 72 horas
 2 años como mínimo
 2 meses
@@ -88,6 +89,7 @@ Desde día siguiente al acto presunto
 8 días
 30 días
 6 meses
+2 años
 6 años
 22 días hábiles
 Minimo 5 días seguidos
@@ -132,3 +134,5 @@ Cada año
 2 meses
 2 meses
 3 años
+3 años, prorrogables
+5 años, de los cuales dos deberán ser inmediatamente anteriores a la presentación de la solicitud

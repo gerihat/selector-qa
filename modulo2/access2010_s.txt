@@ -30,7 +30,7 @@ Un registro en la tabla secundaria solo puede existir si existe relacionado con 
 Estamos definiendo una columna NUEVOPRECIO en la consulta para que en ella aparezca el valor del campo PRECIO multiplicado por 1.21. Es decir el PRECIO+IVA
 Entre corchetes: [NOMBRE_CAMPO]
 Entre almohadillas:  #4/5/2009#
-Mediante una macro creada cuyo nombre debe ser autoexec, o traveés de Opciones->Base de datos actual->Mostrar formulario
+Mediante una macro creada cuyo nombre debe ser autoexec, o través de Opciones->Base de datos actual->Mostrar formulario
 autoexec
 Pulsando la tecla SHIFT al abrir la BD
 Switchboard Items

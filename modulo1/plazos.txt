@@ -25,7 +25,7 @@ Plazo en el que no se puede volver a presentar una moción de censura, tras habe
 Plazo en el que se deben conseguir las 500.000 firmas para la Iniciativa Popular legislativa
 Plazo en el que se pueden presentar enmiendas a un proyecto de ley
 Plazo que tiene el Senado para aprobar o vetar un proyecto de ley
-Plazo en el que el Congreso puede aprobar una ley orǵanica que ha sido vetada en el Senado
+Plazo en el que el Congreso puede aprobar una ley orgánica que ha sido vetada en el Senado
 Plazo en el que una ley entra en vigor
 Periodo de elección de Defensor del Pueblo
 Plazo para presentar una queja al Defensor del Pueblo
@@ -62,7 +62,7 @@ Plazo para dictar y notificar resolución de recurso de alzada
 Plazo para presentar recurso potestativo de reposición contra actos expresos
 Plazo para presentar recurso potestativo de reposición contra acto no expreso
 Plazo para dictar y notificar resolución de recurso potestativo de reposición
-Plazo para presentar recurso extraordinario de revisión contra actos firmes dictado con error de hecho en error en documentos
+Plazo para presentar recurso extraordinario de revisión contra actos firmes dictado con error de hecho, que resulte de los propios documentos incorporados al expediente
 Plazo para presentar recurso extraordinario de revisión contra actos firmes en los que aparecen nuevos documentos
 Plazo para presentar recurso extraordinario de revisión contra actos firmes en los se atestigua falsedad documental o testimonial
 Plazo para presentar recurso extraordinario de revisión contra actos firmes de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
@@ -79,6 +79,7 @@ Plazo en el que se puede estar interino por ejecución de programas de carácter
 Plazo en el que se puede estar interino por exceso de tareas
 Plazo en el que se considera la incompatibilidad de actividades privadas del funcionario relacionadas con asuntos en los que se esté interviniendo, se vaya a intervenir o se haya intervenido
 Plazo para el cese y toma de posesión con cambio de residencia en movilidad por motivos de salud o rehabilitación
+Pazo en movilidad por salud o rehabilitación, para que la adscripción al nuevo puesto tenga carácter definitivo
 Tiempo que debe transcurrir como mínimo entre ejercicios en una prueba selectiva
 Tiempo que se reserva un puesto en excedencia por cuidado de hijos en el supuesto de adopción
 Tiempo que se retribuye en excedencia por violencia de género
@@ -88,6 +89,7 @@ Plazo para el cese y toma de posesión en comisión de servicios sin cambio de r
 Plazo para el cese y toma de posesión en comisión de servicios voluntario con cambio de residencia
 Plazo para el cese y toma de posesión en comisión de servicios forzosa con cambio de residencia
 Plazo máximo que se puede estar en comisión de servicios en cooperación internacional
+Plazo máximo que se puede estar en comisión de servicios en las CCAA
 Plazo máximo de suspensión firme de funciones en sanción disciplinaria por faltas muy graves
 Periodo de vacaciones de funcionario de carrera
 Días mínimos seguidos que se deben disfrutar del periodo de vacaciones
@@ -132,3 +134,5 @@ Duración máxima de la excedencia voluntaria incentivada
 Plazo para el informe preceptivo del CGPJ en reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia
 Plazo para el dictámen del Consejo de Estado en reclamaciones en materia de responabilidad patrimonial del Estado por funcionamiento anormal de la Administración de Justicia cuando la cuantía a indemnizar supera los 50.000 € 
 Plazo por el que se concede el Sello Europeo de Protección de Datos
+Por cuánto tiempos se concede el distintivo empresarial de Igualdad en la Empresa
+Cuántos años como mínimo debe haber residido un español en territorio español para poder ser titular de los derechos propios de las personas en situación de dependencia

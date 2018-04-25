@@ -1,5 +1,8 @@
 clasificaciones de la estructura de gastos
 clasificaciones de la estructura de ingresos
+clasificación económica de la estructura de gastos
+Tipos de créditos en operaciones corrientes en la clasificación económica del estado de gastos
+Tipos de créditos en operacines de capital en la clasificación económica del estado de gastos
 gastos de personal (gastos)
 bienes y servicios (gastos)
 transferencias corrientes (gastos)
@@ -19,3 +22,9 @@ transferencias de capital (ingresos)
 activos o pasivos financieros (ingresos)
 Qué clasificación nos informa del objetivo del gasto
 La adquisición de inmuebles qué clase de gasto es
+Qué es el Fondo de Contingencia
+Importe en porcentaje, que se destina al Fondo de Contingencia
+En qué es posible aplicar el Fondo de Contingencia
+Quién aprueba la aplicación del Fondo de Contingencia
+Plazo en el que se remite a las Cortes, por parte del Gobierno, el informe de utilización del Fondo de Contingencia
+Los ingresos por emisión de deuda pública qué clasificación económica tienen

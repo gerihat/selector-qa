@@ -6,7 +6,7 @@ Un funcionario que realiza una misión en un org. internacional en qué situaci�
 Un funcionario que es adscrito al Defensor del Pueblo en qué situación administrativa se encuentra
 Un funcionario que es adscrito al Tribunal Constitucional en qué situación administrativa se encuentra
 Un funcionario designado como personal eventual para asesoramiento político en qué situación administraiva se encuentra
-Un funcionario que es adscrito a una Administración Pública distinta
+Un funcionario que es adscrito a una Administración Pública distinta en qué situación administrativa se encuentra
 Un funcionario en situación de servicio en otra Administración Pública, en que situación se encuentra en el destino
 Tipos de excedencia
 Mínimo de tiempo que permite la excedencia por interés particular

@@ -1,0 +1,2 @@
+Qué es el ASCII
+Qué es UTF-8

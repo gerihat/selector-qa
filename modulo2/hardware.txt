@@ -1,0 +1,2 @@
+Qué es la CMOS
+Qué son el Northbridge y el Southbridge

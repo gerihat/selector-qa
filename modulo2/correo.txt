@@ -1,0 +1,7 @@
+Cómo se llaman los correos electrónicos que tratan de conseguir información confidencial de forma fraudulenta
+Protocolo de envío de correo
+Protocolo de recepción de correo
+Registro asociado al dominio que gestiona las direcciones de correo
+Qué es MIME
+Diferencias entre IMAP y POP3
+Con qué protocolo trabajan las cuentas de Gmail

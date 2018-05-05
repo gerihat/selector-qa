@@ -30,8 +30,8 @@ Qué tiempo debe pasar para que un funcionario pueda participar en los concursos
 Quiénes están facultados para realizar la Libre Designación
 Qué puestos se pueden cubrir por Libre Designación
 Qué plazo hay para presentar una solicitud a una Libre Designación
-En qué plazo se debe tomar posesión en un puesto de Libreo Designación sin cambio de residencia
-En qué plazo se debe tomar posesión en un puesto de Libreo Designación con cambio de residencia
+En qué plazo se debe tomar posesión en un puesto de Libre Designación sin cambio de residencia
+En qué plazo se debe tomar posesión en un puesto de Libre Designación con cambio de residencia
 En qué plazo se debe tomar posesión del cargo, para adquirir condición de funcionario de carrera
 Qué le ocurre a un funcionario que es cesado en un puesto de Libre Designación
 Qué es el personal eventual

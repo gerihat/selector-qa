@@ -1,0 +1,18 @@
+En Windows 10 existe Internet Explorer?
+Qué es el Powershell
+Qué es el Powershell ISE
+Cómo se llaman los comandos en Powershell
+Cómo se llama el Windows 10 para dispositivos móviles
+Qué es Windows Hello
+Qué versión de librerías DirectX incluye Windows 10
+Qué es WVDDM en Windows 10
+Qué nombre recibe la interfaz gráfica de Windows 10
+Requisitos mínimos de memoria para Windows 10 en modo 32 bits
+Requisitos mínimos de memoria para Windows 10 en modo 64 bits
+Qué es la interfaz Metro
+Cómo se crean los escritorios virtuales
+Cómo se llama el espacio de información y configuración que aparece a la derecha de la pantalla
+Con qué comando tecleado se puede abrir el antiguo panel de control en Windows 10
+Qué aplicación a sustituido al Media Center en Windows 10
+Una unidad de diskettes funciona en Windows 10?
+Cuál es el núcleo de Windows 10

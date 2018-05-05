@@ -1,0 +1,4 @@
+tema16.txt
+tema17.txt
+tema18.txt
+tema19.txt

@@ -1,0 +1,9 @@
+Cómo se llaman las normas de comportamiento general en internet
+Qué sistema vincula las direcciones IP con un nombre
+Cómo se llama la pequeña información enviada por un sitio web y que se almacena en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del usuario
+Protocolo de comunicación entre computadoras de una red
+Qué es el servicio DHCP
+Qué protocolos está usando una dirección web que empieza por https://
+Qué es un ISP
+Cómo es una dirección IPv6
+Con qué otro nombre se le conoce a las direcciones IPv6

@@ -82,6 +82,8 @@ Plazo para el cese y toma de posesión con cambio de residencia en movilidad por
 Pazo en movilidad por salud o rehabilitación, para que la adscripción al nuevo puesto tenga carácter definitivo
 Tiempo que debe transcurrir como mínimo entre ejercicios en una prueba selectiva
 Tiempo que se reserva un puesto en excedencia por cuidado de hijos en el supuesto de adopción
+Mínimo de tiempo que permite la excedencia por agrupación familiar
+Máximo de tiempo que permite la excedencia por agrpuación familiar
 Tiempo que se retribuye en excedencia por violencia de género
 Tiempo máximo que pueden existir las anotaciones provisionales en el Registro Central de Personal
 Plazo en el que se debe realizar el nombramiento por libre designación
@@ -93,6 +95,7 @@ Plazo máximo que se puede estar en comisión de servicios en las CCAA
 Plazo máximo de suspensión firme de funciones en sanción disciplinaria por faltas muy graves
 Periodo de vacaciones de funcionario de carrera
 Días mínimos seguidos que se deben disfrutar del periodo de vacaciones
+Cuántos días adicionales de vacaciones como máximo puede establecer cada Administración Pública
 Permiso por fallecimiento de familiar en primer grado en misma localidad
 Permiso por fallecimiento de familiar en primer grado en distinta localidad
 Permiso por fallecimiento de familiar en segundo grado en misma localidad
@@ -136,3 +139,4 @@ Plazo para el dictámen del Consejo de Estado en reclamaciones en materia de res
 Plazo por el que se concede el Sello Europeo de Protección de Datos
 Por cuánto tiempos se concede el distintivo empresarial de Igualdad en la Empresa
 Cuántos años como mínimo debe haber residido un español en territorio español para poder ser titular de los derechos propios de las personas en situación de dependencia
+Plazo en el que se debe informar al ciudadano sobre las actuaciones realizadas y medidas adoptadas tras la recepción de una queja o sugerencia

@@ -1,0 +1,7 @@
+Phising
+SMTP
+POP3 o IMAP
+Registro MX
+Es un conjunto de especificaciones para el intercambio de archivos con soporte para distintos idiomas y alfabetos
+Ambos son protocolos para obtener mensajes de correo desde el servidor. IMAP almacena los mensajes en el servidor, mientras que POP3 los decarga y almacena en local
+Puede utilizarse acceso web mediante HTTP, o con cliente POP3 o IMAP

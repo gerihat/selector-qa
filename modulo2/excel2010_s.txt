@@ -4,6 +4,7 @@
 AA, AB, AC, etc...
 Pulsando ALT, y seguidamente pulsando la tecla correspondiente de la ficha a la que se quiere acceder
 Mediante la opción Rellenar->serie->geométrica, indicándo el Incrementeo en 2
+Lineal, Geométrica, Cronológica y Autorellenar
 En Inicio-Opciones-Avanzada->Modificar listas personalizadas
 CONTAR: cuenta el número de celdas que tienen valor numérico, CONTARA: cuenta el número del celdas que no están en blanco, CONTARSI: Permite especificar una condición o criterio
 Es una mejora de la herramienta Buscar Objetivo. Buscar Objetivo, permite fijar un objetivo a conseguir y muestra qué cambio habría que hacer en una celda para cumplir ese objetivo. Solver: También permite fijar un objetivo a conseguir, pero en este caso permite poder elegir un conjunto de celdas (hasta 32) a modificar para cumplir ese objetivo
@@ -14,3 +15,29 @@ El campo por el que se vaya a calcular el Subtotal debe estar ordenado
 En el menú Datos->Grupo Herramienas de datos->Análisis Y si
 Por defecto a nivel de hoja, pero mediante la opción Combinar Escenarios del Administrador de Escenarios permite llevar escenarios de una hoja a otra siempre y cuando ambas hojas tengan el contenido del escenario en la misma posición
 En el libro de macros personal. Que es un libro oculto que se carga cada vez que se inicia Excel, en el que sólo estarán las macros grabadas de esa forma
+Si a través de Archivo>Opciones>General>Incluir este numero de hojas
+En Inicio>Formato>Ocultar y mostrar>Ocultar hoja
+En Vista>Inmovilizar
+El valor es más grande que el ancho de la columna, o se introduce una fecha negativa
+Se introduce un valor numérico no válido en una fórmula o el número es demasiado grande o pequeño
+El nombre de la fórmula esta mal o no existe
+La celda hace referencia a otra que no es válida
+Se ha dividido por 0
+Los párametros pasados a la fórmula no son correctos. Por ejemplo se espera un número y se pasa un texto, o se espera un número y se pasa un rango
+Se especifica una intersección de dos áreas que no forman intersección. Este error suele ocurrir al no incluir los dos puntos (:) al especificar un rango
+Faltan datos o el dato buscado no existe. Por ejemplo en las funciones BUSCARV y BUSCARH, si no encuentra el valor buscado devolvería #N/A
+#¡VALOR!
+No la fecha mínima que se puede introducir es 1/1/1900
+Sería 1/1/1930, las fechas así introducidas llegan hasta 2029
+Sería 1/1/2029, las fechas así introducidas llegan hasta 2029
+General, Izquierda (con sangría), Derecha (con sangría), Centrar, Rellenar, Justificar, Centrar en la selección, Distribuido
+Aparece el error ######
+Relativa, absoluta, mixtas, 3D (a hoja) y 4D (a libro)
+OLAP (Online Analytical Processing) es una estructura de datos que supera las limitaciones de las bases de datos relacionales y permite trabajar con datos multidimensionales
+Financieras, Fecha y Hora, Matemáticas y Trigonométricas, Estadísticas, Búsqueda y referencia, Bases de datos, Texto, Lógicas, Información, Ingenería, Cubo
+BDCONTAR, BDCONTARA, BDDESVEST, BDDESVESTP, BDEXTRAER, BDMAX, BDMIN, BDPRODUCTO, BDPROMEDIO, BDSUMA, BDVAR, BDVARP
+Extrae un registro (el campo indicado) de la BD de Excel, según el criterio indicado
+Base_de_datos, nombre de campo y criterios
+Se replica primero la cabecera de la base de datos con los nombres de los campos y bajo ella se indican los criterios para el filtro en los campos. Si ponemos criterios en la misma fila sería un AND, si están en filas distintas sería OR. Luego en la ficha Datos, pinchamso en Avanzados e introducimos los parámetros que solicita
+Que la base de datos Excel esté ordenada para que pueda agrupar registros correctamente
+Buscar objetivo, Escenarios, Tablas de datos y el complemento Solver

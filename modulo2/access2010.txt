@@ -22,6 +22,16 @@ Cómo convertir automáticamente texto introducido por el usuario en minúscula 
 (Máscara de entrada) #
 (Máscara de entrada) \
 (Máscara de entrada) ""
+Qué hace la máscara de entrada (000) 000-0000
+Qué hace la máscara de entrada (999) 999-9999!
+Qué hace la máscara de entrada (000) AAA-AAAA
+Qué hace la máscara de entrada #999
+Qué hace la máscara de entrada >L????L?000L0
+Qué hace la máscara de entrada >L0L 0L0
+Qué hace la máscara de entrada 00000-999
+Qué hace la máscara de entrada >L<????????????
+Qué hace la máscara de entrada ISBN 0-&&&&&&&&&-0
+Qué hace la máscara de entrada >LL00000-0000
 Qué es el modo IME en las propiedades de un campo
 Si en un campo queremos que sólo sea posible introducir tres valores (Barcelona, Madrid, Cádiz) qué haríamos
 Qué es la zona QBE
@@ -36,3 +46,25 @@ Cómo podemos evitar que se ejecute código VBA al abrir una BD. Por ejemplo par
 Qué nombre tiene la tabla que se crea al utilizar el Administrador del panel de control
 Qué partes tiene el diseño de un formulario
 Qué partes tiene el diseño de un informe
+Qué lenguaje se utiliza en las consultas de bases de datos
+Qué significan las siglas SQL
+Cuántos caracteres como máximo puede tener el nombre de una consulta o tabla
+De qué tipo de datos puede ser la clave principal
+Qué es una clave foránea o externa
+Cómo se llama la clave principal compuesta por más de un campo
+Máscaras de entrada
+Existen plantillas en Access?
+Qué es el fichero .ldb que se crea al abrir una base de datos
+Qué extensión tiene un fichero compatible con la versión Access 2007
+Qué es un fichero .accde
+Qué es Microsoft SharePoint o Access Services y que utilidad tiene en Microsoft Access
+Para guardar la BD para que sea compatible con una versión anterior de Access usamos Guardar como?
+Tipos de datos posibles en el diseño de un campo
+Para determinar que los datos posibles en un campo sea una lista de valores constante, qué tipo de datos debemos usar
+Qué es un campo calculado
+Qué es una base de datos ODBC
+Qué es una tupla
+Qué es OLE
+Qué es un DBMS
+Qué es un SGBD
+Condición necesaria para poder cifrar con contraseña una base de datos Access

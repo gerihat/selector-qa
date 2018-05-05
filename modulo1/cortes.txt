@@ -1,13 +1,13 @@
 Para qué periodo se eligen los diputados del Congreso
 Para qué periodo se eligen los senadores
-Qué números minimos y máximos hay de diputados
+Qué números mínimos y máximos hay de diputados
 Cuántos diputados se eligen por provincia
 Cuántos senadores se eligen por provincia
 Cuántos diputados hay actualmente
 Cuántos diputados se eligen en Ceuta y Melilla
 Cuántos senadores se eligen en Ceuta y Melilla
 Cuál es el mínimo de diputados necesario para conformar un grupo parlamentario
-Cuál es el mínimo de senadoress necesario para conformar un grupo parlamentario
+Cuál es el mínimo de senadores necesario para conformar un grupo parlamentario
 Cuántos senadores se eligen en las islas mayores. Y qué islas se consideran mayores
 Cuántos senadores se eligen en las islas que no son mayores
 Cuántos senadores se eligen en Ibiza y Formentera
@@ -16,7 +16,7 @@ Quiénes componen la Mesa del Congreso
 Cuál es la circunscripción electoral, el municipio o la provincia?
 Cómo se eligen a los diputados
 Se puede ser senador y miembro de una Asamblea CA?
-se puede ser diputado y miembro de una Asamble CA?
+Se puede ser diputado y miembro de una Asamble CA?
 Un diputado puede ser detenido?
 Un diputado puede ser inculpado o procesado?
 En qué plazo se debe celebrar la sesión de apertura legislativa

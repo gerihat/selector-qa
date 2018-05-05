@@ -1,0 +1,2 @@
+American Standard Code for Information Interchange. Es un código de representación de caracteres utilizando 8 bits, pudiendo así llegar a 256 caracteres
+8-bit Unicode Transformation Format. Es un formato de codificación de caracteres UNICODE. Especialmente recomendada para ser utilizada en correos electrónicos y páginas web

@@ -1,0 +1,18 @@
+El navegador por defecto es Microsoft Edge, pero Internet Explorer en su versión 11, sigue acompañándose en la instalación
+Es la interfaz de consola para la administración del sistema por línea de comandos. Mucho más rica e interactiva que la herramienta tradicional del Simbolo de sistema (CMD)
+Es un entorno de desarrollo para Powershell, ISE=Integrated Scripting Environment
+Cmdlets
+Windows 10 Mobile
+Es un sistema de reconocimiento facial para inicio de sesión en Windows 10
+DirectX 12
+Es la arquitectura de controladores gráficos de la tarjeta de vídeo
+Microsoft Fluent Design
+1 Gb RAM
+2 Gb RAM
+Es el tipo de interfaz de aplicaciones que se introdujo en Windows 8 y que ahora aparece integrada en el escritorio, no como un elemento aparte
+Desde el botón Vista de tareas que se ecuentra junto al cuadro de búsqueda en la barra de tareas. Aparecerán las tareas activas y a la derecha un botón (+) para crear un escritorio virtual
+Centro de actividades
+control
+Groove Música, aunque el Media Center no existe, si que permanece el Reproductor de Windows Media
+Los controladores para unidades de disquete ya no están integrados en Windows 10, deben descargarse por separado
+NT 10.0

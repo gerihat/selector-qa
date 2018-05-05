@@ -4,6 +4,7 @@ Con qué extensión se guarda un área de trabajo
 Qué sigue a la columna Z
 Cómo se accede en la barra de fichas a una ficha mediante teclado
 Cómo se crea una serie de números multiplicados por 2 hasta el 1024 sin introducirlos manualmente
+Qué tipos de series permite Excel 2010
 Cómo se crean series personalizadas. Por ejemplo: Primavera, Verano, Otoño, Invierno
 Diferencia entre las funciones CONTAR, CONTARA y CONTAR.SI
 Qué hace la herramienta Solver
@@ -14,3 +15,29 @@ Qué requisito es imprescindible para poder usar la herramienta Subtotal en una 
 En qué opción del menú se encuentra la herramienta Buscar Objetivo
 A qué nivel se crean los Escenarios, a nivel de hoja o a nivel de libro
 Dónde se guardan las macros que tienen que estar disponibles para cualquier libro de Excel
+Se puede cambiar el número de hojas que aparecen por defecto en un libro nuevo?
+Dónde se encuentra la opción de ocultar hoja de cálculo
+Dónde se encuentra la opción de inmovilizar paneles
+Qué significa el error #####
+Qué significa el error #¡NUM!
+Qué significa el error #¿NOMBRE?
+Qué significa el error #¡REF!
+Qué significa el error ¡DIV/0!
+Qué significa el error #¡VALOR!
+Qué significa el error #¡NULO!
+Qué significa el error #N/A
+La operacion =A1+B2, donde A1=5 y B2="hola", qué error devuelve
+Es válida esta fecha: 12/8/1492?
+Qué ocurre si introducimos 1/1/30, sería 1/1/1930 ó 1/1/2030
+Qué ocurre si introducimos 1/1/29, sería 1/1/1929 ó 1/1/2029
+Tipos de alineación horizontal que permite Excel 2010
+Qué tipo de error aparece si introducimos un número negativo y le damos formato Fecha
+Tipos de referencias de celda en Excel 2010
+Qué es un cubo OLAP
+Tipos de funciones disponibles en Excel 2010
+Funciones de bases de datos disponbiles en Excel 2010
+Qué hace la función BDEXTRAER
+Qué tres parámetros se solicitan siempre en las funciones de bases de datos
+Cómo se hace un filtro avanzado en una base de datos
+Qué condición es necesaria para poder utilizar la herramienta Subtotales
+Cuáles son las herramientas de análisis de Excel 2010

@@ -1,0 +1,9 @@
+NETIQUETA
+DNS
+Cookie
+TCP/IP
+Proporciona IPs automáticas a los dispositivos conectados a la red
+HTTP y SSL
+Es un Proveedor de Servicios de Internet (Internet Service Provider)
+Son 8 octetos de 16 bits, pudiendo así alcanzar direcciones de 128 bits (IPv4 utiliza direcciones de 32 bits)
+IPng (IP next generation)

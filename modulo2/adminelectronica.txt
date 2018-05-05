@@ -9,7 +9,7 @@ Con respecto al cómputo de plazos en el registro electrónico, si se presenta u
 Qué ocurre si no accedemos a una notificación electrónica en el plazo correspondiente
 Qué plazo hay para acceder a una notificación electrónica antes de que sea considerada como rechazada
 Edad mínima admisible para entregar en domicilio y que sea recogida una notifiación en papel
-Donde se reciben las notificaciones electrónicas de forma genérica
+Dónde se reciben las notificaciones electrónicas de forma genérica
 Cuándo se considera practicada la notificación electrónica
 Cuándo se considera rechazada la notificación electrónica
 Si el interesado no tiene los medios electrónicos necesarios para comunicarse qué ocurre

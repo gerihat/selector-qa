@@ -1,6 +1,7 @@
 Cuántos días de vacaciones tiene un funcionario
 Cuántos días seguidos como mínimo debe coger un funcionario de vacaciones
-Si no se disfrutan las vacaciones en el mismo año, se puden disfrtar el año siguiente?
+Cuántos días adicionales de vacaciones como máximo puede establecer cada Administración Pública
+Si no se disfrutan las vacaciones en el mismo año, se pueden disfrutar el año siguiente?
 Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en misma localidad
 Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en disntinta localidad
 Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en misma localidad

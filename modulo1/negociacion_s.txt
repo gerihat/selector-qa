@@ -6,3 +6,7 @@ Delegados de Personal, Juntas de Personal, Comité de Empresa y Empleados públi
 50-100 func (5 m), 101-250 func (9 m), 251-500 func (13 m), 501-750 func (17 m), 751-1000 func (21m), +1000 func (2/1000) 
 6 mínimo, 75 máximo
 -100 (15h), 101-250 (20h), 251-500 (30h), 501-750 (35h), +750 (40h)
+Listas cerradas y sistema proporcional corregido
+Listas abiertas y sistema mayoritario
+Sufragio PERSONAL, directo, libre y secreto que podrá ser emitido por correo o por otros medios telemáticos
+30 miembros (15 y 15)

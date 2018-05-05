@@ -16,12 +16,22 @@ Debe escribir un dígito (0 a 9)
 Puede escribir un dígito (0 a 9)
 Debe escribir una letra o un dígito
 Puede escribir una letra o un dígito
-Debe escribir un carácter o un espacio
-Puede escribir caracteres o espacios
+Debe escribir carácter o un espacio
+Puede escribir carácter o espacio
 Marcadores de posición de decimales y millares, separadores de fecha y hora. El carácter qu seleccione dependerá de la configuración regional
 Puede escribir un dígito, espacio, signo más o menos. Si se omite Access escribe espacio en blanco
 Los caracteres que le siguen inmediatamente se mostrarán literalmente
 Los caracteres que están entre comillas se mostrarán literalmente
+Permite (206) 555-0248, se deben escribir dígitos
+Permite (206) 555-0248 ó ( ) 555-0248, se pueden o no escribir dígitos
+Permite (206) 555-TELE, se debe escribir o dígitos (555) o letras (TELE)
+Permite -20 ó 2000, con # se puede escribir un caracter o número, +,- o espacio y luego puede escribir o no tres dígitos
+Permite GREENGR339M3 ó MAY R 452B7, > Pone en mayúsculas la entrada, (>L) obliga una letra, luego pueden introducirse cuatro letras (>L????), sigue otra letra obligatoria (>L????l), sigue otra letra no obligatoria (>L????L?), siguen tres dígitos obligatorios (>L????>?000), sigue otra letra obligatoria (>L????L?000L), y por último un dígito obligarorio
+Permite T2F 8M4, aquí obliga tanto a introducir letra (L) o dígito (0). Y con el caracter >, convierte la entrada a mayúsculas
+Permite 98115- ó 98115-3007, los primeros dígitos son obligarorios (00000), los segundos dígitos son opcionales (9999)
+Permite Elena ó Manuel. Convierte la primera letra que se introduce en mayúsculas y el resto que es opcional a minúsculas
+Permite ISBN 1-55615-507-7 ó ISBN 0-13-964262-5, a parte de ISBN que es constante, el primer 0 obliga a introducir un dígitos, los caracteres &, obligan a escribir cualquier carácter o espacio y por último se obliga a escribir otro dígito
+Permite DB51392-0493, > Convierte a mayúsculas y luego LL obliga a escribir dos letras seguidas de 5 dígitos, guión y 4 dígitos. Todos obligatorios
 Controla el modo de conversión de caracteres en las versiones asiáticas de Windows
 En el tipo de datos del campo elegimos Asistente para búsquedas, a través del cual podemos introducir la lista de valores posibles o indicar el origen de datos para los valores posibles
 En la ventana de consultas es la zona donde se especifican los criterios de la consulta. QBE=Query By Example
@@ -36,3 +46,25 @@ Pulsando la tecla SHIFT al abrir la BD
 Switchboard Items
 Encabezado formulario, detalle y pie formulario
 Encabezado informe, encabezado página, detalle, pie de página y pie de informe
+SQL
+Structured Query Language
+64 caracteres
+Puede ser de cualquier tipo, pero siempre y cuando vayan a tener contenido único. Por este motivo es habitual y por defecto Access así lo hace, usar el tipo de datos Autonumeración
+Es un campo en una tabla que contiene la referencia a una clave principal de otra tabla y por tanto relaciona las dos tablas
+Clave compuesta
+L: Debe escribir una letra, ?: Puede escribir una letra, 0: Debe escribir un dígito (0 a 9) 9: Puede escribir un dígito (0 a 9), A: Debe escribir una letra o un dígito a: Puede escribir una letra o un dígito &: Debe escribir un carácter o un espacio, C: Puede escribir caracteres o espacios #: Puede escribir un dígito, espacio, signo más o menos, \: Los caracteres que le siguen se mostrarán literalmente, "": Los caracteres entre comillas se mostrarán literalmente
+Si, tienen extensión .accdt y permite crear una estructura de base de datos inicial con la que trabajar
+Es un fichero de bloqueo de acceso que contiene los usuarios que usan la base de datos
+.accdb, Esta versión del fichero va de 2007-2010, .mdb va de 2000-2003
+Es un fichero de base de datos Access compilado, semiejecutable. Se sigue necesitan Access para abrirlo y podemos modificar la estructra de la DB, pero no podemos cambiar el código puesto que estará compilado
+Es una forma de compartir la base de datos en un servidor (Sharepoint) para poder tener acceso por web
+No, guardar como permitirá guardar la BD con otro nombre pero misma extensión y versión. Para guadarla en otra versión debemos usar Guardar & Publicar
+Texto, Memo, Número, Fecha/Hora, Moneda, Autonumeracion, Si/No, Objeto OLE, Hipervinculo, Datos adjuntos, Calculado, Asistente para búsqueda
+Usaremos Asistente para búsqueda que nos permitirá obtener la lista de valores de una fuente externa, o crear in situ la lista posible de valores
+Es un campo cuyo valor es calculado con respecto a una fórmula que usualmente hace referencia a otro campo. Por ejemplo: PRECIO CON IVA sería [campo precio]*1.21
+ODBC (Open Database Connectiviy) no es exactamente una base de datos, es un estándar de acceso a bases de datos que permite abstraer a un aplicación el acceso independientemente del motor que use la BD, usando controladores OBDC
+Un registro. En matemáticas se le conoce como a una secuencia de valores agrupados
+OLE (Object Linking and Embedding) es un modo de incrustar objetos de varios tipos (multimedia, pdfs, ect..) en un campo
+DBMS (Database Management System) o en español SGBD, Sistema Gestor de Bases de Datos. Es el conjunto de aplicaciones para manejar y administrar la base datos. Access es una RDBMS (Relational DBMS)
+Es DBMS (Database Management Sytem) en español. SGBD, Sistema Gestor de Base de Datos. Conjunto de aplicaciones para el manejo y administración de bases de datos. Access es una SGBD Relacional
+Se debe abrir en modo exclusivo. Para ello en el cuadro de diálogo de Abrir, debemos usar el boton Abrir en modo exclusivo

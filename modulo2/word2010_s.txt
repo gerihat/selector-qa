@@ -1,5 +1,6 @@
 Calibri, 11
 .dotx y .dotm (con macros)
+.asd
 Normal.dotm
 Sangría izquierda, derecha y las especiales: Primera línea, Sangría francesa
 .exportedUI
@@ -8,3 +9,10 @@ Desde la ficha Vista o la ficha Programador (esta segunda ficha esta deshabilita
 En la barra de herramientas de acceso rápido
 Diseño y Presentación (herramientas de tabla)
 .docm
+24 elementos
+El comando es winword (que introduciríamos en la ventana Ejecutar -Win+R- de Windows 10)
+Word 14
+Si, en insertar>captura, hay una opción para capturar un trozo de pantalla e insertarla en el documento
+Si
+=rand(x,y) Donde x=nº de párrafos, y=nº de frases. También se puede usar sin parámetros. O usar =lorem() para mostrar el texto latino "Lorem ipsum..."
+Office Open XML

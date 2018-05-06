@@ -41,3 +41,13 @@ Base_de_datos, nombre de campo y criterios
 Se replica primero la cabecera de la base de datos con los nombres de los campos y bajo ella se indican los criterios para el filtro en los campos. Si ponemos criterios en la misma fila sería un AND, si están en filas distintas sería OR. Luego en la ficha Datos, pinchamso en Avanzados e introducimos los parámetros que solicita
 Que la base de datos Excel esté ordenada para que pueda agrupar registros correctamente
 Buscar objetivo, Escenarios, Tablas de datos y el complemento Solver
+01.345,
+100
+101
+100.8
+100.25 (con tres espacios en blanco a la derecha)
+100.25000 (Añade tres ceros la izquierda donde no haya digito de entrada)
+00100.3 (Añade 2 ceros a la derecha, que es lo que falta para completar el formato requerido)
+Estamos asegurando que ese espacio sea ocupado por un número. Si el número tiene menos dígitos no muestra nada. En números decimales los números a la izquierda de la coma basta con poner #, los números a la derecha de la coma, un # representa 1 sólo dígito
+Obliga a mostrar ceros no significativos tanto a derecha como a izquierda de la coma
+Obliga a mostrar espacios en el lugar de ceros no significativos a ambos lados de la coma decimal para que las comas queden alineadas

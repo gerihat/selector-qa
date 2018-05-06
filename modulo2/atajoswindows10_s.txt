@@ -29,3 +29,5 @@ CTRL+SHIFT+ESC
 ALT+INTRO
 Tecla Windows+M
 MAY+SUPR
+Tecla Windows+PAUSA
+Se activan las teclas de alternancia. Pitido que indica que se ha pulsado una tecla especial (BLOQ MAY, BLOQ NUMÉRICO, BLOQ DESPL)

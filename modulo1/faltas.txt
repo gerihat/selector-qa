@@ -36,6 +36,7 @@ Falta de asistencia
 Incorrección
 Descuido o negligencia
 Incumplimiento del deber (no grave/muy grave)
+Incumplimiento injustificado de la jornada de trabajo (5 horas/mes)
 Prescripción de faltas muy graves
 Prescripción de faltas graves
 Prescripción de faltas leves

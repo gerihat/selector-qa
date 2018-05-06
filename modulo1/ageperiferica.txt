@@ -16,3 +16,5 @@ Un Ayuntamiento es Administración Periférica del Estado?
 Una Diputación Provincial es Administración Periférica del Estado?
 Las Delegaciones Provinciales de Economía y Hacienda son Administración Periférica del Estado?
 Las Secretarías de Estado son Administración Periférica del Estado?
+Quién representa temporalmente a los Delegados del Gobierno en caso de ausencia, vacante o enfermedad del mismo.
+A quién corresponde la suplencia del Delegado del Gobierno en una CA uniprovincial, cuando en ella no exista Subdelegado del Gobierno

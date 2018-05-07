@@ -1,7 +1,7 @@
 La Corona es un órgano del Estado?
 Qué parte de la Constitución trata de la Corona
 Enumera los artículos que tratan de la Corona
-Quién refrende al Rey
+Quién refrenda al Rey
 Qué organismo judicial tiene potestad para enjuiciar los actos del Rey
 La reina consorte es inviolable?
 Qué funciones puede desempeñar la Reina Consorte
@@ -14,7 +14,7 @@ Cómo se lleva a cabo la Regencia
 Cómo se lleva a cabo la Tutela del Rey
 Se puede ser Regente y Tutor del Rey al mismo tiempo
 Cómo es el Juramento del Rey
-Quién y como hace una declaración de guerra en España
+Quién y cómo hace una declaración de guerra en España
 El Rey sanciona los Estatutos de Autonomía?
 El Rey nombra al presidente de una Comunidad Autónoma?
 El Rey sanciona las leyes de las Comunidades Autónomas?
@@ -25,3 +25,6 @@ Quién refrenda el Decreto de convocatoria de elecciones
 Quién refrenda el Decreto de disolución de las Cortes
 En caso de que el Rey sea menor de edad, quién es Regente
 En caso de que se reconozca al Rey inhábil, quién es Regente
+Qué nombre recibe la firma que realiza el Presidente del Gobierno para refrendar al rey en la sanción de una ley
+Quiénes además del Rey, deben prestar su mismo juramento según el art. 61.2 de la Constitución
+Quién refrenda la sanción y promulgación de un estatuto de autonomía

@@ -5,7 +5,6 @@ Qué potestades derivadas de la Administración Pública pueden tener en el ámb
 Cuáles son los principios constitucionales de la Administración Local
 Quién elige a los Alcaldes
 Qué mayoría se requiere para que los Concejales elijan al Alcalde
-Se pueden modificar los límites provinciales
 Cómo se eligen a los Concejales
 Cuántos Concejales existen en Ayuntamientos que tengan entre 101 y 250 habitantes
 Cuántos Concejales existe en un Ayuntamiento común
@@ -20,10 +19,11 @@ Cita otras entidades locales distintas a municipio, provincia e isla
 Qué órganos existen en todas las Diputaciones
 Cómo se elige al presidente de la Diputación
 Qué se considera municipio de gran población
-Qué municipos deben tener de forma obligatorioa una Junta de Gobierno local
+Qué municipios deben tener de forma obligatorioa una Junta de Gobierno local
 Qué órganos existen en todos los Municipios
 En qué tipos de municipios se puede establecer el Concejo Abierto
 Cómo son elegidos los Alcaldes en los municipios que funcionan en régimen de Concejo Abierto
+Qué órganos existen en un Concejo Abierto
 Hay Teniente de Alcade en todos los Ayuntamientos?
 Hay Junta de Gobierno Local en todos los Ayuntamientos
 Un Alcalde puede plantear la cuestión de confianza sobre aprobación o modificación de los presupuestos anuales?

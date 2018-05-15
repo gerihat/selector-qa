@@ -5,8 +5,8 @@ Procedimiento con íntima conexión y que sea el mismo órgano quien deba tramit
 No inicia por si sólo el procedimiento, sino que es el órgano el que lo inicia de oficio, y además si el denunciante participa en la infracción, quedaría eximido del pago de la multa si es el primero en aportar elementos de juicio y no persiste en el delito
 ID interesado/representante, medio electrónico o no para notificaciones, hechos y razones para la petición, lugar y fecha, firma y órgano de destino
 Si, en 10 días
-Es el reconocimiento o ejercicio de un derecho, o inicio de actividad desde su presentación en la que el interesado bajo su responsabilidad asegura que cumple requisitos, tiene la documentación acreditativa, que la proporcionará a la Administración si asi lo pide y que jura mantener el cumplimiento de todo lo anterior
-Es el documento por el cual se reconoce un derecho o inicio de actividad y se pone en conocimiento de la administración los datos de identificación para el inicio de la actividad. Si se incurre en falsedad o inexactitud, se considera que el interesado no continúa el procedimiento
+Es el documento por el cual se manifiesta, bajo su responsabildiad, que cumple los requisitos en la normativa vigente para el reconocimiento o ejercicio de un derecho o factultad, y que dispone de la documentación que lo acredita, que la proporcionará a la Administración si asi lo pide y que jura mantener el cumplimiento de todo lo anterior
+Es el documento por el cual un interesado pone en conocimiento de la administración sus datos de identificación y demás requisitos exigibles para el ejercicio de un derecho o el inicio de una actividad. Si se incurre en falsedad o inexactitud, se considera que el interesado no continúa el procedimiento
 Actos de Instrucción, Alegaciones, Periodo de prueba, Trámite de audiencia, Información pública
 10-30 días el periodo normal y el instructor puede abir otro periodo extraordinario de 10 días
 10-15 días y es prescindible
@@ -19,7 +19,7 @@ En cualquier momento antes del trámite de audiencia. Si son sobre defectos de t
 Es acordado por el órgano que resuelve y se produce en la fase de Instrucción cuando la naturaleza del proc. lo requiera
 20 días como mínimo
 No, pero la Administración tiene la obligación de dar respuesta razonada
-Resolución, Desistimiento, Renuncia Derecho, Caducidad, Imposibilidad material
+Resolución, Desistimiento, Renuncia Derecho, Caducidad, Imposibilidad material, estimación por silencio
 Terminación en pacto o convenio y en aquellos relativos al ejercicio de derechos a través de declaración responsable y comunicación
 Si, y la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables
 Acuerdo, pacto, convenio o contrato con personas derecho público o privado, que no sean contrarios al ord. jur, satisface interés público y es aprobado por Consejo de Ministros u órgano CCAA en su competencia
@@ -47,7 +47,7 @@ Es una especialidad del procedimiento
 Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva, compulsión sobre las personas
 Proporcionalidad, medio menos restrictivo de la libertad individual, autorización titular o judicial en caso de entrar en domicilio
 "Amenaza" de embargo. Apremiar=obligar a hacer algo prontamente. Es el medio principal en actos ejecutivos de índole económico
-Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración. ¿No lo quieres hacer? Lo hago yo (admin)
+Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración, y a costas del obligado. ¿No lo quieres hacer? Lo hago yo (admin)
 Imposición de obligaciones pecunarias adicionales (a parte de la principal). Para forzar cumplimiento. Multas reiteradas en lapsos
 Aplicación de la fuerza sobre las personas. Obligaciones personalísimas de no hacer o de soportar. Prohibir entrada, Desplazar a otro lugar, Desahucio, Privación momentánea de libertad, vacunación obligatoria
 Es una ejecución forzosa de compulsión sobre las personas

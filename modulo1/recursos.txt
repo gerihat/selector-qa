@@ -1,10 +1,10 @@
 Qué actos pueden ser objeto de recurso
 Qué datos debe incluir un recurso
-En que casos un recurso administrativo no se admite de pleno
+En qué casos un recurso administrativo no se admite de pleno
 Un recurso suspende la ejecución de un acto?
 Tienen posibilidad los interesados de presentar alegaciones a la presentación de un recurso
 Qué plazo tiene un órgano para trasladar un recurso al órgano competente
-Si un recurso tiene un error de calificació qué debe hacer el órgano que lo recibe
+Si un recurso tiene un error de calificación, qué debe hacer el órgano que lo recibe
 Se pueden rechazar pruebas propuestas por los interesados?
 Se puede presentar recurso contra la acumulación de procedimientos?
 Ante quién se interpone el recurso de alzada
@@ -20,10 +20,10 @@ Plazo para dictar y notificar resolución de recurso potestativo de reposición
 Ante quién se presenta el recurso extraordinario de revisión
 Contra qué tiene sentido el recurso extraordinario de revisión
 Qué órgano es competente para resolver el recurso extraordinario de revisión
-Plazo para interponer recurso extraordinario de revisión contra actos dictados con error de hecho
+Plazo para interponer recurso extraordinario de revisión contra actos dictados con error de hecho en los propios documentos incorporados al expediente
 Plazo para interponer recurso extraordinario de revisión contra actos en los que aparecen nuevos documentos
 Plazo para interponer recurso extraordinario de revisión contra actos en los los testimonios o documentos son declarados falsos
-Plazo para interponer recurso extraordinario de revisión contra actos que son consecuencia de prevariación, cohecho
+Plazo para interponer recurso extraordinario de revisión contra actos que son consecuencia de prevaricación, cohecho
 Contra actos administrativos que ponen fin a la vía administrativo qué tipo de recursos se pueden interponer
 Omitir de la obligación de contestar en el plazo establecido a una petición qué tipo de recurso admite
 Las resoluciones de los órganos administrativos que carezcan de superior jerárquico ponen fin a la vía administrativa?

@@ -1,4 +1,4 @@
-orgánica, por programas, económica
+orgánica, por programas, económica. Además existen subclasificaciones funcionales y por territorio
 orgánica, económica
 gastos corrientes, gastos de capital, gastos financieros y Fondo de Contingencia
 gastos de personal, bienes y servicios, gastos financierios y transferencias corrientes
@@ -22,7 +22,7 @@ ingresos de capital
 ingresos financieros
 Clasificación por programas
 Es inversión real, gastos de capital en la clasificación económica
-Es una partida presupuestaria prevista en la Ley General Prespuestaria a fin de hacer frente durante el ejercicio presupuestario a necesidades inaplazables, de carácter no discrecional para las que no se hiciera en todo o en parte, la adecuada dotación de crédito
+Es una partida presupuestaria prevista en la Ley General Presupuestaria a fin de hacer frente durante el ejercicio presupuestario a necesidades inaplazables, de carácter no discrecional para las que no se hiciera en todo o en parte, la adecuada dotación de crédito
 2% del total de gastos para operaciones no financieras, excluidos los destinados a financiar las CCAA y entidades locales
 Ampliación de créditos, créditos extraordinarios y suplementos de créditos, incorporaciones de créditos
 El Consejo de Ministros, a propuesta del Ministro de Hacienda y Función Pública

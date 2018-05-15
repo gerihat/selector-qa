@@ -1,4 +1,4 @@
-Las resoluciones administrativas (no las disposiciones), los actos de tŕamite si deciden sobre el fondo del asunto, dan lugar a indefensión o perjuicio irreparable o suponen la imposibilidad de continuar procedimiento
+Las resoluciones administrativas (no las disposiciones), los actos de trámite si deciden sobre el fondo del asunto, dan lugar a indefensión o perjuicio irreparable o suponen la imposibilidad de continuar procedimiento
 Id recurrente, acto que se recurre y razón, lugar, fecha, firma, órgano al que se dirige el recurso
 1. Se presenta ante órgano incompetente, cuando el competente perteneciera a otra Admin. Pub., 2. Carecer de legitimación el recurrente, 3. Tratarse de un acto no susceptible de recurso, 4. Haber transcurrido el plazo para la interposición del recurso, 5. Carecer el recurso manifiestamente de fundamento
 No, salvo que la ejecución cause perjuicio irreparable, impugnación de causas de nulidad de pleno derecho, o ha pasado 1 mes sin decísión sobre la impugnación
@@ -7,7 +7,7 @@ Si pueden aportar documentación y presentar alegaciones en un plazo de 10-15 d�
 Tramitar el recurso, siempre que se deduzca su verdadero carácter
 Si, si son manifiestamente improcedentes o innecesarias
 No
-Ante el órgano que dictó el acto (lo pasa a competente) o ante el órgano competente para resolver. IMPORTANTE: No confundir con Ante quien se recurre, que en este caso, es ante el superior jerárquico que dictó el acto
+Ante el órgano que dictó el acto (lo pasa a competente) o ante el órgano competente para resolver. IMPORTANTE: No confundir con Ante quien se recurre, que en este caso, es ante el superior jerárquico que dictó el acto. Es decir el recurso se puede presentar ante el órgano recurrido o su superior, pero en cualquier caso será el órgano superior quien dictará resolución
 Recursos de alzada
 1 mes para acto expreso o desde el día siguiente al silencio administrativo en actos no expresos
 3 meses, si pasa el plazo, el recurso es desestimado. Pero si el recurso se presentó contra un silencio negativo, el recurso es estimado
@@ -18,7 +18,7 @@ Recurso potestativo de reposición e impugnar ante contencioso-administrativo un
 1 mes para acto expreso o desde el día siguiente al acto presunto. Si fin plazo, solo se puede recurrir a conte-admin
 1 mes
 Ante el mismo órgano y que dará resolución. También ante él se recurre
-Es un recurso excepcional que va ciertos actos que han ganado firmeza. Contra actos firmes en vía administrativa cuando: El acto fue dictado con error de hecho en los propios documentos incoporados al expediente, aparecen nuevos documentos, o los que había son falsos o los testimonios eran falsos, que la resolución es consecuencia de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
+Es un recurso excepcional que va contra ciertos actos que han ganado firmeza. Contra actos firmes en vía administrativa cuando: El acto fue dictado con error de hecho en los propios documentos incorporados al expediente, aparecen nuevos documentos, o los que había son falsos o los testimonios eran falsos, que la resolución es consecuencia de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
 El órgano administrativo que dictó el acto que se recurre
 4 años
 3 meses
@@ -29,4 +29,4 @@ Recuso de amparo (por vulnerar el derecho fundamental del artículo 28, de petic
 Si, salvo que una ley establezca lo contrario
 Se declara su inadmisibilidad. Importante distinguir del término Desestimar. En este caso no se desestima ni tampoco se estima, puesto que para ello antes se debe haber admitido a trámite
 Recurso en vía contencioso-administrativa
-6 meses. Expirado el plazo sin dictarse resolución producierá la caducidad del procedimiento si se inicio de oficio. Si se inició a solicitud de interesado, se podrá entender desestimada la solicitud de revisión por silencio administrativo
+6 meses. Expirado el plazo sin dictarse resolución producirá la caducidad del procedimiento si se inició de oficio. Si se inició a solicitud de interesado, se podrá entender desestimada la solicitud de revisión por silencio administrativo

@@ -1,4 +1,4 @@
-Título I. Capítulo V. Suspensión derechos y libertades. art. 55. Y sobre todo Título V. Relaciones Gobierno y Cortes. art. 116 (aquí explica cómo se hace)
+Título I. Capítulo V. Suspensión derechos y libertades. art. 55. Y también Título V. Relaciones Gobierno y Cortes. art. 116 (aquí explica cómo se hace)
 Declarado por el Gobierno, informando al Congreso (no necesita autorización), en casos de calamidad, catástrofes, por 15 días (prorrogable sin indicar plazo, con autorización del Congreso). No se suspenden derechos. Consecuencias: requisar bienes, prestaciones obligaroios, intervención industrial, fábricas, locales (no domicilios), racionalización
 Declarado por el Gobierno, autorizado por el Congreso en caso de alteraciones graves de derechos, orden público, por 30 días (prorrogable por otro plazo igual, con autorización del Congreso). Se suspenden derechos: art. 17 (excepto info detenido y abogado), 18 (domicilio, secreto comunic), 19. Libertad circulación, 20 (expresión, secuestro public), 21. Reunión y manifestación, 28. Huelga, 37. Conflicto colectivo
 Declarado por el Congreso por mayoría absoluta, a propuesta del Gobierno en caso de insurrección, alteraciones graves de soberanía España. Se suspenden derechos: todos excepción + art. 17 info detenido y abogado
@@ -26,13 +26,13 @@ Estado de sitio
 Estado de sitio
 Estado de sitio
 Ninguno. Sólo se da autoridad para intervenir fábricas, industrias, locales, para racionalizar, para requisar bienes
-Art. 17, Detención 72h (no info detenido y abogado), art. 18, inviolabilidad domicilio y secreto de comunicaciones, art. 19, libertad circulación y residencia. art. 20, libertad expresión y secuestro de publicaciones, art. 21, reunión y manifestación, art. 28. Huelga, art. 37. Conflicto colectivo
-Art. 17, Detención 72h (incluído info detenido y abogado), art. 18, inviolabilidad domicilio y secreto de comunicaciones, art. 19, libertad circulación y residencia. art. 20, libertad expresión y secuestro de publicaciones, art. 21, reunión y manifestación, art. 28. Huelga, art. 37. Conflicto colectivo
-Ley Orgánica
+Art. 17, Detención 72h (no incluye info detenido y abogado), art. 18, inviolabilidad domicilio y secreto de comunicaciones, art. 19, libertad circulación y residencia. art. 20, libertad expresión y secuestro de publicaciones, art. 21, reunión y manifestación (excluídas las realizadas por partidos políticos, sindicatos y organizaciones empresariales), art. 28. Huelga, art. 37. Conflicto colectivo
+Art. 17, Detención 72h (incluído info detenido y abogado), art. 18, inviolabilidad domicilio y secreto de comunicaciones, art. 19, libertad circulación y residencia. art. 20, libertad expresión y secuestro de publicaciones, art. 21, reunión y manifestación (excluídas las realizadas por partidos políticos, sindicatos y organizaciones empresariales), art. 28. Huelga, art. 37. Conflicto colectivo
+Se regulan por Ley Orgánica y se acuerda mediante Decreto en Consejo de Ministros en el caso de alarma y excepción, y mediante mayoría absolute del Congreso en el estado de sitio
 No se puede disolver el Congreso en ningún de los estados excepcionales
 La Constitución sólo dice que no se puede disolver el Congreso en ningún estado excepcional. No dice nada del Senado.
 Sería la Diputacion Permanente quién haría las labores pertinentes
 Si. La funciones correspondiente al Congreso serian asumidas por la Diputación Permanente y está declararía el estado de sitio.
 El Gobierno. En todo caso es quién lo declara, con la autorización del Congreso, que en este caso sería su Diputación Permanente
-Lo acuerda el Gobierno, con autorización del Congreso
 Art. 17.2 Detención 72 horas, Art. 18 (2,3). Inviolabilidad del domicilio y secreto de comunicaciones
+Si. La suspensión del derecho de Libertad y Seguridad no afecta a este procedimiento

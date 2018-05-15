@@ -3,13 +3,13 @@ Cuántos días seguidos como mínimo debe coger un funcionario de vacaciones
 Cuántos días adicionales de vacaciones como máximo puede establecer cada Administración Pública
 Si no se disfrutan las vacaciones en el mismo año, se pueden disfrutar el año siguiente?
 Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en misma localidad
-Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en disntinta localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en distinta localidad
 Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en misma localidad
 Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en distinta localidad
-Permiso por traslado de domicilio
-Permiso por Exámenes finales
-Permiso por Lactancia
-Permiso por hijos prematuros con hospitalización
+Permiso por traslado de domicilio, sin cambio de residencia
+Permiso por exámenes finales
+Permiso por lactancia de un hijo menor de 12 meses
+Permiso para visitar hijos prematuros o con hospitalización después de parto
 Permiso por cuidado directo de menor de 12 años o persona mayor o discapacitado
 Permiso por cuidado de familiar en primer grado por enfermedad muy grave
 Permiso por asuntos particulares

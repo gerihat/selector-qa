@@ -4,6 +4,7 @@ Formado representantes de Estados de rango ministerial, representa a los Estados
 También llamado, Colegio de Comisarios, y apodada "Guardiana de los Tratatos". Representa los intereses de la Unión Europea en su conjunto. Únicos habilitados para proponer legislación. Insitución ejecutiva. Cada comisario tendrá su cartera de competencias
 Es el órgano de representación ciudadana de la Unión Europea. Junto con el Consejo, aprueba legislación y presupuesto de la UE. Representantes elegidos por sufragio universal, directo y secreto. Realiza control democrático de las instituciones EU
 Órgano de control fiscal y económico de la UE
+No pertenece como organismo a la UE, es una organización internacional de carácter regional para la educación, cultura y defensa de los derechos humanos
 Presidente elegido por mayoría cualificada para un periodo de 2 años y medio
 Presidencia rotatoria de 6 meses (cada 18 meses 3 países)
 En elecciones al Parlamento E, salen los candidatos. El Consejo Europeo propone el candidato según esas elecciones y el Parlamento vota por mayoría su elección. Para un periodo de 5 años
@@ -15,7 +16,7 @@ Tras la elección del Presidente de la Comisión, él designa a los candidatos d
 El Consejo Europeo, por unanimidad decide la composición del Parlamento Europeo de acuerdo con los Tratados. Los representantes son elegidos por sufragio universal, directo y secreto
 Un nacional de cada Estado elegidos por el Consejo, previa consulta al Parlamento, y para un periodo de 6 años
 Cada 3 meses o dicho de otra forma dos reuniones semestrales
-En 10 Formaciones en funcion de la materia y el trabajo es preparado por el COREPER
+En 10 Formaciones en funcion de la materia y el trabajo es preparado por el COREPER. De las 10, hay 2 de obligada existencia, Consejo de Asuntos Generales y Consejo de Asuntos Exteriores
 B. Bruselas
 BL. Bruselas y a veces Luxemburgo
 B. Bruselas
@@ -24,7 +25,7 @@ L. Luxemburgo
 L. Luxemburgo
 F. Frankfurt
 Consejo de Asuntos Generales (preparar reuniones, coherencia) y Consejo de Asuntos Exteriores
-Comité de Representantes Permanentes. Prepara el trabajo del Consejo. COREPER I (adjuntos), COREPER II (jefes)
+Comité de Representantes Permanentes constituido por los representantes de los países de la UE con rango de Embajador. Prepara el trabajo del Consejo. COREPER I (jefes de misión adjuntos) se ocupan de cuestiones sociales, COREPER II (jefes de misión) se ocupan de cuestiones políticas, económicas, politica financiera y extranjería. En el COREPER se pueden llegar a acuerdos previos sobre los expedientes del orden del día del Consejo de forma que cuando estos son tomados en consideración en el consejo pueden llegar de dos formas: Sin debate (con acuerdo previo en el COREPER), a debate (sin acuerdo previo en el COREPER)
 El Presidente
 La Comisión
 Comité Económico y Social, Comité de las Regiones
@@ -32,3 +33,5 @@ Comité Económico y Social, Comité de las Regiones
 El Consejo Europeo, por mayoría cualificada
 La Comisión Europea
 El Parlamento Europeo y el Consejo
+Es un órgano informal que reúne mensualmente a los ministros de economía y finanzas de la zona Euro, al presidente del Banco Central Europeo y al comisario de asuntos económicos, para analizar la eurozona, adoptar conclusiones y poner en común políticas y estrategias económicas
+Por consenso

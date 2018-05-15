@@ -16,8 +16,8 @@ Cuántas disposiciones transitorias hay
 Cuántas disposiciones adicionales hay
 Qué mayoría es necesaria para elección de los miembros del Tribunal Constitucional
 Cuántas salas tiene el Tribunal Constitucional
-Que mayoría es necesaria para aprobar un proyecto de reforma por el procedimiento general
-Que mayoría es necesaria para aprobar un proyecto de reforma por el procedimiento excepcional
+Que mayoría es necesaria para aprobar un proyecto de reforma constitucional por el procedimiento general
+Que mayoría es necesaria para aprobar un proyecto de reforma constitucional por el procedimiento excepcional
 Cuántos diputados o senadores deben solicitar la celebración de referéndum en el procedimiento general
 Qué números minimos y máximos hay de diputados
 Cuántos diputados se eligen por provincia
@@ -26,7 +26,7 @@ Cuántos diputados hay actualmente
 Cuántos diputados se eligen en Ceuta y Melilla
 Cuántos senadores se eligen en Ceuta y Melilla
 Cuál es el mínimo de diputados necesario para conformar un grupo parlamentario
-Cuál es el mínimo de senadoress necesario para conformar un grupo parlamentario
+Cuál es el mínimo de senadores necesario para conformar un grupo parlamentario
 Cuántos senadores se eligen en las islas mayores. Y qué islas se consideran mayores
 Cuántos senadores se eligen en las islas que no son mayores
 Cuántos senadores se eligen en Ibiza y Formentera
@@ -64,7 +64,7 @@ Cuáles son las Salas de la Audiencia Nacional
 Cuántos Vicepresidentes del Gobierno existen en España
 Qué mayoría es necesaria para otorgar confianza a un candidato a Presidente del Gobierno
 Qué mayoría es necesaria para aprobar una cuestión de confianza al Presidente del Gobierno
-Cuántos miembros del Congreso deben proponer que el Presidente sea juzgdo por traición o en materia criminal
+Cuántos miembros del Congreso deben proponer que el Presidente sea juzgado por traición o en materia criminal
 Cuántos diputados son necesarios para presentar una moción de censura
 Cada cuánto esta obligado el Gobierno a someterse a las interpelaciones y preguntas
 Qué derechos se pueden suprimir en estado de alarma
@@ -81,14 +81,15 @@ Cómo se desarrolla el acceso a autonomía por la vía especial del art. 151 aun
 Cómo se desarrolla el acceso a autonomía por la vía especial del art. 151 de territorios que plebiscitaron y con régimen provisional de autonomía
 Cuántas CCAA hay en España
 Cuántas CCAA pluriprovinciales hay en España
-Cuántas CCaa uniprovinciales hay en España. Cuáles son
+Cuántas CCAA uniprovinciales hay en España. Cuáles son
 Qué mayoría se requiere para que los Concejales elijan al Alcalde
 Cuántos Concejales existen en Ayuntamientos que tengan entre 101 y 250 habitantes
 Qué se considera municipio de gran población
-Qué municipos deben tener de forma obligatorioa una Junta de Gobierno local
+Qué municipios deben tener de forma obligatoria una Junta de Gobierno local
 Cuántos países forman la Unión Europea actualmente
 Quiénes intervinieron en el tratado CECA, germen de la actual Unión Europea
 Enumera las fases del procedimiento administrativo
 Cuantía mínima de indemnización que hace preceptiva solicitud de dictámen del Consejo de Estado en reclamaciones en materia de responsabilidad patrimonial del Estado por funcionamiento anormal de la Administración de Justicia
-Qué se entiende por composición equilibrada de mujeres y hombres seg'n la Ley para la Igualdad efectiva entre Mujeres y Hombres
+Qué se entiende por composición equilibrada de mujeres y hombres según la Ley para la Igualdad efectiva entre Mujeres y Hombres
 Cuántos trabajadores cómo mínimo debe tener una empresa para estar obligada a tener un Plan de Igualdad
+Qué porcentaje de reducción como mínimo aplica el órgano competente para resolver en procedimiento sancionadores cuando el interesado realiza pago voluntario

@@ -12,9 +12,9 @@ Tecla Windows+,
 Tecla Windows+ + ó -
 Tecla Windows+CTRL+D
 Tecla Windows+CTRL+Flechas izquierda o derecha
-Tecla Windows+ctrl+F4
+Tecla Windows+CTRL+F4
 Tecla Windows+PRINT
-Este equio/imágenes/Capturas
+Este equipo/imágenes/Capturas
 ALT+PRINT
 CTRL+F4
 ALT+F4
@@ -27,7 +27,6 @@ CTRL+ESC
 F2
 CTRL+SHIFT+ESC
 ALT+INTRO
-Tecla Windows+M
 MAY+SUPR
 Tecla Windows+PAUSA
 Se activan las teclas de alternancia. Pitido que indica que se ha pulsado una tecla especial (BLOQ MAY, BLOQ NUMÉRICO, BLOQ DESPL)

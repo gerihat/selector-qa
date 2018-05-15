@@ -17,3 +17,7 @@
 (Atajos Word 2010) Abrir Reemplazar
 (Atajos Word 2010) Abrir Formato
 (Atajos Word 2010) Eliminar formato de párrafo
+(Atajos Word 2010) Selección extendida
+(Atajos Word 2010) Ventana de sinónimos
+(Atajos Word 2010) Disminuir tamaño de fuente
+(Atajos Word 2010) Aumentar tamaño de fuente

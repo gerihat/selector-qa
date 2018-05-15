@@ -20,7 +20,7 @@ Dónde se encuentra la opción de ocultar hoja de cálculo
 Dónde se encuentra la opción de inmovilizar paneles
 (Error) #####
 (Error) #¡NUM!
-(Error #¿NOMBRE?
+(Error) #¿NOMBRE?
 (Error) #¡REF!
 (Error) ¡DIV/0!
 (Error) #¡VALOR!
@@ -48,6 +48,7 @@ Cuáles son las herramientas de análisis de Excel 2010
 (Formato de número personalizado) Entrada: 100.75 Formato: ?.?????
 (Formato de número personalizado) Entrada: 100.25 Formato: 0.00000
 (Formato de número personalizado) Entrada: 100.75 Formato: 00000.0
-Qué hace el código # en el formato de número pesonalizado
+Qué hace el código # en el formato de número personalizado
 Qué hace el código 0 en el formato de número personalizado
 Qué hace el código ? en el formato de número personalizado
+Cómo se vería el número 1000,24 en una celda con formato científico

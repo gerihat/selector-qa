@@ -5,3 +5,5 @@ Plazo en el que se acuerda y notifica al peticionario la declaración de inadmis
 Si transcurre el plazo sin resolver sobre la admisión de una petición, qué ocurre
 Cabe recurso alguno contra la declaración de inadmisibilidad de una petición?
 Cabe recurso alguno contra la omisión de la obligación de constestar en plazo a una petición
+Plazo para subsanar los defectos advertidos en una petición relacionados con los requisitos o datos necesarios
+Causas de inadmisión de una petición

@@ -7,3 +7,16 @@ Qué protocolos está usando una dirección web que empieza por https://
 Qué es un ISP
 Cómo es una dirección IPv6
 Con qué otro nombre se le conoce a las direcciones IPv6
+Cómo se busca por tipo de fichero en Google
+Cómo se busca por sitio en Google
+Cuáles son los tipos de WIFI que existen
+(Puertos) TCP 21
+(Puertos) TCP 22
+(Puertos) TCP 23
+(Puertos) TCP 25
+(Puertos) TCP 53
+(Puertos) TCP 80
+(Puertos) TCP 110
+(Puertos) TCP 443
+Qué es ICMP
+Qué es un ataque DoS

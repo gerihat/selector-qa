@@ -16,3 +16,7 @@ Si, en insertar>captura, hay una opción para capturar un trozo de pantalla e in
 Si
 =rand(x,y) Donde x=nº de párrafos, y=nº de frases. También se puede usar sin parámetros. O usar =lorem() para mostrar el texto latino "Lorem ipsum..."
 Office Open XML
+Espacio horizontal entre letras consecutivas en base a la formología de la fuente  o Interletraje para fuentes. Se configura en la ventana Avanzado de las propiedades Fuente
+Espacio horizontal entre caracteres en una palabra, frase o párrafo. Todos el mismo espacio. En Word se ajusta con Espaciado entre caracteres
+24 puntos
+Periodísticas

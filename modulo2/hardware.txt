@@ -1,2 +1,6 @@
 Qué es la CMOS
 Qué son el Northbridge y el Southbridge
+Diferencia entre BIOS y UEFI
+Qué es MBR
+Qué es GPT
+Cuáles son los tipos de USB existentes

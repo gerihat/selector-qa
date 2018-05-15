@@ -5,3 +5,16 @@ Registro asociado al dominio que gestiona las direcciones de correo
 Qué es MIME
 Diferencias entre IMAP y POP3
 Con qué protocolo trabajan las cuentas de Gmail
+Al reenviar un mensaje, el original se mueve a la carpeta de Elementos Enviados?
+La opción Responder a todos, incluye los e-mails que estuvieran en el campo CC del original?
+Para eliminar el correo de spam automáticamente qué es mejor usar
+Un destinatario que está en el campo CCO, puede ver al recibir el mensaje las direcciones de los destinatarios de los campos Destinatario y CC que utilizó el Remitente
+Al activar la confirmación de lectura, está se envía automáticamente al abrir el destinatario el mensaje?
+Qué recibimos al activar una confirmación de lectura y ser está aceptada por el destinatario
+En la ventana de Mensaje Nuevo, si le damos a Archivo>Guardar, en qué carpeta se guardará el mensaje
+En la ventana de Mensaje Nuevo, si le damos a Archivo>Guardar como, que ocurrirá
+Qué extensión tienen las plantillas en Outlook 2010
+Qué extensión tiene un fichero de un mensaje en formato Unicode
+Qué extensión tiene un fichero almacén de correso electrónicos en Outlook 2010
+Cómo se puede firmar digitalmente un correo electrónico
+Dónde de guarda un correo nuevo en el que se ha usado la opción, Enviar más tarde o Retrasar entrega

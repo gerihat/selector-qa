@@ -1,6 +1,6 @@
 Tipos de consultas
 Cuál es la extensión de un fichero de base de datos de Access 2010
-Cuál es la extensión de un fichero de base de datos de Access 2007
+Cuál es la extensión de un fichero de base de datos de Access 2003
 Qué hace el tipo de datos [Datos adjuntos]
 Qué hace el tipo de datos [Calculado]
 Al introducir un nuevo registro se guarda automáticamente o hay que guardar la base de datos?
@@ -23,7 +23,7 @@ Cómo convertir automáticamente texto introducido por el usuario en minúscula 
 (Máscara de entrada) \
 (Máscara de entrada) ""
 Qué hace la máscara de entrada (000) 000-0000
-Qué hace la máscara de entrada (999) 999-9999!
+Qué hace la máscara de entrada (999) 999-9999
 Qué hace la máscara de entrada (000) AAA-AAAA
 Qué hace la máscara de entrada #999
 Qué hace la máscara de entrada >L????L?000L0
@@ -54,7 +54,7 @@ Qué es una clave foránea o externa
 Cómo se llama la clave principal compuesta por más de un campo
 Máscaras de entrada
 Existen plantillas en Access?
-Qué es el fichero .ldb que se crea al abrir una base de datos
+Qué es el fichero .ldb o laccdb que se crea al abrir una base de datos
 Qué extensión tiene un fichero compatible con la versión Access 2007
 Qué es un fichero .accde
 Qué es Microsoft SharePoint o Access Services y que utilidad tiene en Microsoft Access
@@ -67,4 +67,14 @@ Qué es una tupla
 Qué es OLE
 Qué es un DBMS
 Qué es un SGBD
+Qué es DAO
+Qué es ADO
 Condición necesaria para poder cifrar con contraseña una base de datos Access
+Qué herramienta semejante a los desencadenadores o TRIGGERS de SQL Server, existen en Access
+Se puede abrir una base de datos Access sin tener instalado Microsoft Access 2010?
+Qué es ACE
+Qué es Microsoft Jet Database Engine
+Cómo se cifra una base de datos Access 2010
+Dónde se introduce de forma predeterminada en el diseño de un formulario si usamos insertar Fecha y hora
+Una tabla y una consulta pueden tener el mismo nombre?
+Qué otros valores son equivalente a "Si" en un campo Si/No

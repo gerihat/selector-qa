@@ -1,1 +1,2 @@
 Programas de sistema (o sistemas operativos), programas de aplicación y lenguajes de programación
+Es lo que podríamos llamar, el virus de las BIOS. Un malware que se ejecuta al iniciar Windows. El sistema Secure Boot de las placas UEFI, pretende impedir la ejecución de estos programas, al no estar firmados

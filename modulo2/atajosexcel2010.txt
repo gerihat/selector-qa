@@ -14,3 +14,4 @@
 (Atajos Excel 2010) Ir a... una celda
 (Atajos Excel 2010) CTRL+FIN lleva a la última celda de Excel?
 (Atajos Excel 2010) Cómo se abre el editor VBA
+(Atajos Excel 2010) Estando seleccionada una celda, seleccionar el resto de valores de la columna

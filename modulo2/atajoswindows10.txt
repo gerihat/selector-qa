@@ -26,8 +26,7 @@
 (Atajos Windows 10) Menú Inicio
 (Atajos Windows 10) Renombrar
 (Atajos Windows 10) Administrador de tareas
-(Atajos Windows 10) Ver Propiedades
-(Atajos Windows 10) Minimizar todo
+(Atajos Windows 10) Ver Propiedades de archivo
 (Atajos Windows 10) Borrar permanentemente un fichero
 (Atajos Windows 10) Abrir propiedades de sistema del panel de control
 (Atajos Windows 10) Qué ocurre si pulsamos durante 5 seg la tecla BLOQ NUM

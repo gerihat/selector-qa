@@ -10,9 +10,21 @@ Microsoft Fluent Design
 1 Gb RAM
 2 Gb RAM
 Es el tipo de interfaz de aplicaciones que se introdujo en Windows 8 y que ahora aparece integrada en el escritorio, no como un elemento aparte
-Desde el botón Vista de tareas que se ecuentra junto al cuadro de búsqueda en la barra de tareas. Aparecerán las tareas activas y a la derecha un botón (+) para crear un escritorio virtual
+Desde el botón Vista de tareas que se encuentra junto al cuadro de búsqueda en la barra de tareas. Aparecerán las tareas activas y a la derecha un botón (+) para crear un escritorio virtual
 Centro de actividades
 control
 Groove Música, aunque el Media Center no existe, si que permanece el Reproductor de Windows Media
 Los controladores para unidades de disquete ya no están integrados en Windows 10, deben descargarse por separado
 NT 10.0
+"Hola Cortana"
+En un personaje del videojuego HALO
+Cortana apareció en Windows Phone 8.1, y en escritorio desde Windows 10
+CTRL+Arrastar el fichero a su nueva ubicación
+Arrastrar el fichero a su nueva ubicación. Si la nueva ubicación es otra unidad se copia, no se mueve
+ALT+Arrastrar el fichero a su nueva ubicación
+.rtf Richt Text Format
+Hyper-V
+Hay que entrar con Configuración de Windows>Actualización y Seguridad>Recuperación>Inicio Avanzado>Reinicar ahora. Una vez que se reinicie eligir la opción Solucionar problemas>Opciones avanzadas>Configuración de inicio>Reiniciar. Cuando se vuelva a Reiniciar elegir la opción Modo seguro o Modo seguro con funciones de red
+Es un sistema de arranque seguro, que sólo permite ejecutar software firmado en el arranque del sistema. Incorporado en las placas UEFI, a través de Microsoft.
+Es una herramienta de línea de comandos que permite administrar datos de la configuración de arranque (BCD)
+No simultáneamente. Ambos hacen uso del conjunto de instruccciones de virtualización del microprocesador (INTEL-VT o AMD-V) y esto sólo lo puede usar uno, de forma que abría que desactivar Hyper-v para poder usar VirtualBox (BCDedit /set hypervisorlaunchtype off)

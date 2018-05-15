@@ -13,6 +13,18 @@ Qué es la interfaz Metro
 Cómo se crean los escritorios virtuales
 Cómo se llama el espacio de información y configuración que aparece a la derecha de la pantalla
 Con qué comando tecleado se puede abrir el antiguo panel de control en Windows 10
-Qué aplicación a sustituido al Media Center en Windows 10
+Qué aplicación ha sustituido al Media Center en Windows 10
 Una unidad de diskettes funciona en Windows 10?
 Cuál es el núcleo de Windows 10
+Qué comando de voz hay que decir para que Cortana nos atienda
+En qué esta basado el nombre Cortana de Windows 10
+Desde qué versión está disponible Cortana en Windows
+Cómo se copia un fichero mediante el ratón en el Explorador de Windows
+Cómo se mueve un fichero mediante el ratón en el Explorador de Windows
+Cómo se crear un enlace a un fichero mediante el Explorador de Windows
+Que extensión y formato por defecto tienen los fichero de Wordpad
+Cómo se llama la herramienta de virtualización de Windows 10
+Cómo se inicia el modo seguro en Windows 10
+Qué es Secure Boot
+Para qué sirve BCEedit
+Se puede ejecutar sistemas de virtualización cómo Hyper-V y VirtualBox al mismo tiempo?

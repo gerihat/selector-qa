@@ -14,3 +14,4 @@ ENTER hacia abajo y TAB hacia la derecha (SHIFT en sentido contrario). Notar que
 CTRL+i
 No. LLeva a la última celda ocupada. Para ir a la última fila o columna este ocupada o no: CTRL+Flecha abajo y derecha respectivamente
 ALTF+F11
+CTR+SHIFT+Tecla de dirección

@@ -7,3 +7,16 @@ HTTP y SSL
 Es un Proveedor de Servicios de Internet (Internet Service Provider)
 Son 8 octetos de 16 bits, pudiendo así alcanzar direcciones de 128 bits (IPv4 utiliza direcciones de 32 bits)
 IPng (IP next generation)
+filetype:txt <búsqueda>
+site:sitio.es <búsqueda>
+IEEE 802.11, IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac. A partir del n, el Wifi podía operar en dos bandas 2.4GHz y 5GHz
+FTP
+SSH
+Telnet
+SMTP
+DNS
+HTTP
+POP
+SSL
+ICMP: Internet Control Message Protocol, Protocolo de Mensajes de Control. A través de este protocolo se realiza el control y notificación de errores del protocolo IP. Los Ping son mensajes ICMP
+DoS: Denial of Service. Es un ataque de Denegación de Servicio, en el cual se cae un servicio, estando no disponible por exceso de peticiones al mismo

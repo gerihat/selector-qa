@@ -10,9 +10,13 @@ Dónde se colocan los botones de Macros por defecto
 Qué dos fichas aparecen nuevas al crear una tabla
 Qué extensión tiene un documento habilitado con macros
 Cuántos elementos se pueden almacenar en el portapapeles de Office 2010 como máximo
-Con qué comando se puede ejecuar Word 2010 mediante teclado
+Con qué comando se puede ejecutar Word 2010 mediante teclado
 Cuál es el nombre en código de Office 2010
 Se puede hacer una captura de pantalla con Word 2010?
 Se puede guardar un documento como pdf en Word 2010?
-Qué instrucción hay que introducir en la página para mostar un texto aleatorio
+Qué instrucción hay que introducir en la página para mostrar un texto aleatorio
 Qué nombre recibe el formato de documento que utiliza Word 2010
+Qué es el Kerning
+Qué es el Tracking
+Si utilizamos una fuente de tamaño de 12 puntos, con interlineado doble, el espaciado de cuánto es
+De qué tipo son las columnas por defecto en Word

@@ -23,8 +23,8 @@ Artículo 8.1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la 
 8.2. Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.
 
 Artículo 9.1. Los ciudadanos y los poderes públicos están sujetos a Ia Constitución y al resto del ordenamiento jurídico.
-9.2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan () dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
-9.3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables () restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
+9.2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+9.3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
 
 TÍTULO |
 Artículo 10.1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
@@ -33,12 +33,12 @@ Artículo 10.1. La dignidad de la persona, los derechos inviolables que le son i
 CAPÍTULO PRIMERO. De los españoles y los extranjeros
 Artículo 11.1. La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.
 11.2. Ningún español de origen podrá ser privado de su nacionalidad.
-11.3. El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos () con aquellos que hayan tenido () tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen.
+11.3. El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen.
 
 Artículo 12. Los españoles son mayores de edad a los 18 años.
 
 Artículo 13.1. Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.
-13.2. Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado () ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
+13.2. Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
 13.3. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.
 13.4. La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.
 
@@ -48,7 +48,7 @@ Artículo 14. Los españoles son iguales ante la ley, sin que pueda prevalecer d
 
 SECCIÓN 1. De los derechos fundamentales y de las libertades públicas
 
-Artículo 15. Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas () tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.
+Artículo 15. Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.
 
 Artículo 16.1. Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley.
 16.2. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.
@@ -119,7 +119,7 @@ SECCIÓN 2. De los derechos y deberes de los ciudadanos
 Artículo 30.1. Los españoles tienen el derecho y el deber de defender a España.
 30.2. La ley fijará las obligaciones militares de los españoles y regulará, con las debidas garantías, la objeción de conciencia, así como las demás causas de exención del servicio militar obligatorio, pudiendo imponer, en su caso, una prestación social sustitutoria.
 30.3. Podrá establecerse un servicio civil para el cumplimiento de fines de interés general.
-30.4. Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe () calamidad pública.
+30.4. Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.
 
 Artículo 31.1. Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.
 31.2. El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía.
@@ -196,7 +196,7 @@ Artículo 54. Una ley orgánica regulará la institución del Defensor del Puebl
 
 CAPÍTULO QUINTO. De la suspensión de los derechos y libertades
 
-Artículo 55.1. Los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artícqu 37, apartado 2, podrán ser suspendidos cuando se acuerde Ia declaración del estado de excepción () de sitio en los términos previstos en la Constitución. Se exceptúa de lo establecido anteriormente el apartado 3 del artícqu 17 para el supuesto de declaración de estado de excepción.
+Artículo 55.1. Los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artícqu 37, apartado 2, podrán ser suspendidos cuando se acuerde Ia declaración del estado de excepción o de sitio en los términos previstos en la Constitución. Se exceptúa de lo establecido anteriormente el apartado 3 del artícqu 17 para el supuesto de declaración de estado de excepción.
 55.2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas. La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.
 
 TÍTULO II. De la Corona
@@ -268,7 +268,7 @@ Artículo 68.1. El Congreso se compone de un mínimo de 300 y un máximo de 400 
 
 Artículo 69.1. El Senado es la Cámara de representación territorial.
 69.2. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.
-69.3. En las provincias insulares, cada isla () agrupación de ellas, con Cabildo () Consejo Insular, constituirá una Circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores —Gran Canaria, Mallorca yTenerife— y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.
+69.3. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una Circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores —Gran Canaria, Mallorca yTenerife— y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.
 69.4. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores.
 69.5. Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio. La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos, que asegurarán, en todo caso, la adecuada representación proporcional.
 69.6. El Senado es elegido por cuatro años. El mandato de los Senadores termina cuatro años después de su elección o el día de Ia disolución de la Cámara.
@@ -309,8 +309,8 @@ Artículo 77.1. Las Cámaras pueden recibir peticiones individuales y colectivas
 77.2. Las Cámaras pueden remitir al Gobierno las peticiones que reciban. El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cámaras Io exijan.
 
 Artículo 78.1. En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.
-78.2. Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva y tendrán como funciones la prevista en el artícqu 73, la de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículos 86 y 116, en caso de que éstas hubieren sido disueltas () hubiere expirado su mandato, y la de velar por los poderes de las Cámaras cuando éstas no estén reunidas.
-78.3. Expirado el mandato () en caso de disolución, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales.
+78.2. Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva y tendrán como funciones la prevista en el artícqu 73, la de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículos 86 y 116, en caso de que éstas hubieren sido disueltas o hubiere expirado su mandato, y la de velar por los poderes de las Cámaras cuando éstas no estén reunidas.
+78.3. Expirado el mandato o en caso de disolución, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales.
 78.4. Reunida la Cámara correspondiente, la Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones.
 
 Artículo 79.1. Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.
@@ -326,7 +326,7 @@ Artículo 81.1. Son leyes orgánicas las relativas al desarrollo de los derechos
 
 Artículo 82.1. Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias determinadas no incluidas en el artícqu anterior.
 82.2. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.
-82.3. La delegación legislativa habrá de otorgarse al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio. La delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse concedida de modo implícito () por tiempo indeterminado.Tampoco podrá permitir la subdelegación a autoridades distintas del propio Gobierno.
+82.3. La delegación legislativa habrá de otorgarse al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio. La delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse concedida de modo implícito o por tiempo indeterminado.Tampoco podrá permitir la subdelegación a autoridades distintas del propio Gobierno.
 82.4. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.
 82.5. La autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único o si se incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
 82.6. Sin perjuicio de la competencia propia de IosTribunales, las leyes de delegación podrán establecer en cada caso fórmulas adicionales de control.
@@ -397,11 +397,11 @@ Artículo 99.1. Después de cada renovación del Congreso de los Diputados, y en
 
 Artículo 100. Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.
 
-Artículo 101.1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión () fallecimiento de su Presidente.
+Artículo 101.1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.
 101.2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.
 
 Artículo 102.1. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.
-102.2. Si la acusación fuere por traición () por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.
+102.2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.
 102.3. La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo.
 
 Artículo 103.1. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.

@@ -1,3 +1,4 @@
+Qué regulta las relaciones externas entre la Administración y los ciudadanos
 Eficacia, jerarquía, descentralización, desconcentración y coordinación
 AGE, Admin CCAA, Entidedes Admin. Local, Sector público institucional (entidades derecho público/privado vinculadas, universidades, etc)
 AGE, Admin CCAA, Entidades Locales, Entidades derecho público
@@ -6,6 +7,7 @@ Ley 39/2015 1-oct
 Conocer estado tramitación, sentido del silencio administrativo, órgano competente e identifiación de intervinientes, no presentar doc. original salvo norma, no presentar doc. no exigida o ya en poder de la Admin, actuar con asesor, presentar doc. en cualquier fase antes de audiencia, pago electrónico
 Elegir medio electrónico o no (si no obligado), pago electrónico, notificación electrónica
 Personas júrídicas y entidades sin personalidad jurídica, profesionales colegiados (notarios, registradores, etc..), representantes de los interesados que estén obligados, empleados Admin.
+1. Personas físicas y jurídicas con capacidad de obrar según normas civiles, 2. Menores de edad en el ejercicio y defensa de sus derechos, 3. Los grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos
 Al que lo promueve, al que tiene derechos afectados por la decisión siempre que se persone en el procedimiento antes de haber recaído resolución definitiva
 No exactamente, es incompleto. Los citados, son interesados siempre que se personen en el procedimiento antes de haber recaído resolución definitiva
 Como regla general, para realizar cualquier actuación en el procedimiento, es suficiente acreditar la identidad a través de cualquiera de los medios de identificación previsto. Pero es obligatorio firma del interesado en solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos y desistir o renunciar a acciones
@@ -17,11 +19,20 @@ Se cuenta el siguiente día hábil
 No puede ser mayor que la mitad del plazo
 El interesado que otorga poderes de representación
 El representante que recibe el poder de representación del interesado. Puede ser persona física o jurídica (si así lo permiten sus Estatutos)
-Para presentar solicitudes, declaracioens responsables, recursos, desistir de acciones y renunciar a derechos
+Para presentar solicitudes, declaracioens responsables, recursos, desistir de acciones y renunciar a derechos. No es necesaria acreditación para actos y gestión de mero trámite (se presumirá aquella representación)
+A través de cualquier medio válido en Derecho que deje constancia fidedigna de su existencia
+Incorporar la acreditación al expediente y los poderes que tiene reconocidos
+No impedirá que se tenga por realizado el acto, siempre y cuando se subsane el defecto en 10 días
 Es un apoderamiento que se otorga a un procurador para que represente al interesado. Utilizado sobre todo en el ámbito jurídico
+AGE, CCAA y Entidades Locales que tendrán registros generales y a parte cada Organismo puede tener su registro particular. Los generales y particulares deben ser totalmente interoperables entre sí
+id poderdante, id apoderado, fecha, tiempo que se otorga el poder, tipo de poder
+Poder general sobre cualquier actuación en cualquier Administración, Poder general sobre sobre cualquier actuación ante una Administración en concreto, poder sobre determinados trámitos especificados en el poder
+5 años máximo
 10 días
 Hacía el indicado en el propio procedimiento, hacia el representante o el primero de la lista
 Los instruidos en materia tributaria y aduanera, en el orden social, en materia de tráfico y seguridad vial y en materia de extranjería
 No, seguirá su normativa específica y de forma supletoria por la Ley 39/2015
 Si, pero siempre que la ley así lo declare expresamente
 Que no se tendrán por presentados
+1. La que haya elaborado la propia Administración, siempreq que no exista oposición expresa del interesado a su contulta por parte de la Administración. 2. Documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario. 3. Datos o documentos no exigidos por la normativa o ya en poder de la Administración
+Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia

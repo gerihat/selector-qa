@@ -77,7 +77,7 @@ Artículo 20. 1. Se reconocen y protegen los derechos:
 20.5. Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
 
 Artículo 21.1. Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa.
-20.2. En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.
+21.2. En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.
 
 Artículo 22.1. Se reconoce el derecho de asociación.
 22.2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ¡legales.
@@ -343,7 +343,7 @@ Artículo 86.1. En caso de extraordinaria y urgente necesidad, el Gobierno podr�
 86.2. Los Decretos-Ieyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación. El Congreso habrá de pronunciarse expresamente dentro de dicho plazo sobre su convalidación o derogación, para lo cual el Reglamento establecerá un procedimiento especial y sumario.
 86.3. Durante el plazo establecido en el apartado anterior las Cortes podrán tramitarlos como proyectos de ley por el procedimiento de urgencia.
 
-Artícqu 87.1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
+Artículo 87.1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
 87.2. Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.
 87.3. Una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley. En todo caso se exigirán no menos de 500.000 firmas acreditadas. No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a Ia prerrogativa de gracia.
 
@@ -364,7 +364,7 @@ Artículo 92. 1. Las decisiones políticas de especial trascendencia podrán ser
 
 CAPÍTULO TERCERO. De Ios Tratados Internacionales
 
-Artículo 93. Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución interna- cional el ejercicio de competencias derivadas de la Constitución. Corresponde a las Cortes Generales 0 al Gobierno, según los casos, la garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos internacionales o supranacionaIes titulares de la cesión.
+Artículo 93. Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución. Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos internacionales o supranacionaIes titulares de la cesión.
 
 Artículo 94.1. La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales, en los siguientes casos:
 94.a) Tratados de carácter político.

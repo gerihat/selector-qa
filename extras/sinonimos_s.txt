@@ -1,20 +1,20 @@
 embetunar
 mezclar
 madero
-renegar, renunciar, retractar
+renegar, renunciar, retractar. La víctima podía elegir entre abjurar públicamente de su postura o huir del país.
 abolir, revocar
-dejadez
+dejadez, pasividad, desinterés, falta de voluntad.
 bajeza, envilecimiento
-cruel, áspero, agrio
+cruel, áspero, agrio. Oídas tan acerbas acusaciones, ordenó prenderlos y meterlos a la tortura
 patrimonio, montón, cúmulo
-Auxilio
+auxilio
 serio
 ganancia
-Amanecer
-Destino
+amanecer
+destino
 subasta, licitación, compraventa
 repetición
-Contradicción dos leyes
+contradicción de dos leyes
 consentimiento, aquiescencia
 consentimiento, concesión
 apropiarse, atribuirse
@@ -25,13 +25,13 @@ aventurado, aciago
 tosca
 alboroto, bulla
 malo, pícaro, ruín, astuto, sagaz
-Claro
-Zanjas
+claro
+zanjas
 prebenda, privilegio
 anulación, derogación
-Báculo
-Chapucero
-represivo, inhibitorio
+báculo
+chapucero
+represivo, inhibitorio. Multa coercitiva impuesta sobre el interesado en ejecución forzosa
 deducir, reunir
 arrepentimiento, contrición
 preeminente, ilustre, insigne
@@ -41,25 +41,25 @@ camaradas
 correduría, comisión
 afligido
 obsequio
-Deserción
+deserción
 acceder, respetar
 denuncia, acusación
-Letal
+letal. Marx señaló la función deletérea de la economía capitalista
 ética, moral
 insipido, insulso, soso
-Vulnerar
+vulnerar
 terminación
 disolver, deshacer
 injuria, sátira, invectiva
 derivar
-Alcoholismo
+alcoholismo
 derroche
 indiferente
 conciliador, comedido
 universal
-evasiva, salida, subterfugio
+evasiva, salida, subterfugio. El derecho a la libre determinación no debe ser efugio para dividir el Estado
 protección, amparo, patrocinio
-frustrar, suprimir
+frustrar, suprimir. También es elidir eliminar una de las dos vocales de dos palabras seguidas tipo (de + el = del)
 suavizante
 rival, competidor
 hinchado, afectado, insistente
@@ -67,13 +67,13 @@ apuntalar, aegurar, apoyar
 busca placer sin dolor, sibarita
 compendio, sumario, resumen
 engañoso, aparente, falso
-falso, bastardo, ilegítimo
+falso, bastardo, ilegítimo. Semejantes declaraciones del Presidente invitan a un uso espurio de las Instituciones del Estado
 necedad
 causa, razón, motivo
 base craneo
-Desarrollo
-Requerimiento
-Exasperar
+desarrollo
+requerimiento
+exasperar
 agotado,muerto
 desmayado
 explicación, interpetación
@@ -102,19 +102,19 @@ sagrado, solemne
 oprobio, afrenta, deshonra
 innoble
 relación, consecuencia, nexo
-rogar, suplicar
+rogar, suplicar. Las sesiones del Congreso se inauguracion depués de oficiarse una misa para impetrar la ayuda divina
 trabajo, esfuerzo
 inico  actuación legal
 funesto
 vanidad
 injusto, malvado
-colérico, soberbio
+colérico, soberbio. Ten cuidado con Krato, es un hombre iracundo, se mosquea con nada
 seña, marca, mojón
 merienda
 estandarte, bandera, enseña
 conciso, breve
 astuto, taimado
-Lodo
+lodo
 extenso, dilatado
 heredero, beneficiario
 panfleto, folleto, difamación
@@ -122,15 +122,15 @@ usurero, prestamista
 liberar
 inmovilidad, paralización
 rótulo, etiqueta
-crecer
+crecer. Esa especie puede medrar en entornos donde perecería otra planta cualquiera
 mentiroso, falso
 obsequio
 odio al ser humano
 arisco, uraño, egoista
 tímido, solitario, insociable
-favoritismo
+favoritismo. Normalmente relacionado con la concesión de empleos públicos a parientes
 excéptico
-Joven
+joven
 representante, mensajero
 ofrenda, sacrificio
 obstruir, taponar, cerrar
@@ -144,13 +144,13 @@ fardo
 amplificación, comentario, interpretación
 sofisma, argucia, razonamiento falso
 exaltación, exacerbación
-Atenuar
-Voto popular a una persona o no ley
+atenuar
+voto popular a una persona o no ley
 dinero, patrimonio
 dinero, caudal, hacienda
 Inculto
 decisivo, concluyente, urgente
-Traidor
+traidor
 declinar, decaer. Juramento en falso
 empeñar, hipotecar
 fiebre
@@ -167,16 +167,16 @@ tormentoso, tempestuoso
 despilfarro, derroche
 esmerado
 obligatoriedad
-Manual
+manual
 viejo
 disposición anticipada, cuidado de Dios
 esencia, motivo
-Humillar
+humillar
 separado
 almacén
-Rentar
-Plural de Referéndum
-Voto popular a una ley
+rentar
+plural de Referéndum
+voto popular a una ley
 oponer, rebatir, impugnar
 emular, imitar
 sofreir, acometer, sobrevenir
@@ -196,15 +196,15 @@ enaltecer, exaltar
 sustituir
 pretexto, evasiva, medio
 amparar, ayudar
-trastornar, alterar
+trastornar, alterar. Subvertir el orden constitucional es ilegal
 oprimir, fascinar
 astuto, ladino
-Prodigio
+prodigio
 tuberculoso, hético
 nombres de lugares
 amenazadora
 veneno
-Corral
+corral
 abundante, fecundo, fértil
 devoción, fervor
 enyugar, atar, sujetar
@@ -216,9 +216,9 @@ extenso
 poeta, rapsoda, juglar
 capricho, versatilidad, inestabilidad
 inconstante, mudable
-vendible
+vendible. El valor venal de un coche es de 100.000 €, precio que podemos percibir por el coche tras su venta o indemnización tras siniestro
 hermosura
-nativo, local
+nativo, local. Lengua vernácula o lengua nativa
 venganza
 examinar, refrendar, firmar, reconocer
 voluntad

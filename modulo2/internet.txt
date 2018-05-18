@@ -20,3 +20,5 @@ Cuáles son los tipos de WIFI que existen
 (Puertos) TCP 443
 Qué es ICMP
 Qué es un ataque DoS
+Con qué códigos se distinguen los errores de cliente al acceder a un sitio web
+Con qué códigos se distinguen los errores de servidor al acceder a un sitio web

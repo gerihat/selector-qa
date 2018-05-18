@@ -17,4 +17,4 @@ Qué extensión tienen las plantillas en Outlook 2010
 Qué extensión tiene un fichero de un mensaje en formato Unicode
 Qué extensión tiene un fichero almacén de correso electrónicos en Outlook 2010
 Cómo se puede firmar digitalmente un correo electrónico
-Dónde de guarda un correo nuevo en el que se ha usado la opción, Enviar más tarde o Retrasar entrega
+Dónde se guarda un correo nuevo en el que se ha usado la opción, Enviar más tarde o Retrasar entrega

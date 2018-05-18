@@ -1,0 +1,241 @@
+1. REPRESENTACIÓN
+Interesado presenta solicitud ante la Consejería de Medio Ambiente
+1. Desea actuar con representante ¿quién puede representarlo?
+R: Puede actuar como representante persona física con capacidad de obrar y jurídicas si está previsto en sus Estatutos
+
+2. Se presenta su cónyuge como representante para renunciar a la solicitud ¿debe acreditar su representación?
+R: Si. La representación se debe acreditar para formular solicitudes, presentar declaraciones responsables y comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos
+
+3. Qué hace el órgano con la acreditación de la representación
+R: La debe incorporar al expediente
+
+4. Si el representante no presenta acreditación en el momento de la renuncia ¿impide que se tenga por realizada la renuncia?
+R: No lo impedirá siempre que se aporte posteriormente en un plazo de 10 días, o un plazo superior cuando las circunstancia así lo requieran
+
+5. Puede el interesado realizar determinadas transacciones en el expediente a través de una S.L.
+R: Si, si en los Estatutos de la S.L. viene reflejada su capacidad para actuar como representante
+
+2. REGISTRO ELECTRÓNICO DE APODERAMIENTOS
+El Ayuntamiento decide disponer de un registro electrónico general de apoderamientos
+1. Puede un Ayuntamiento tener registro electrónico general de apoderamientos?
+R: Si. La AGE, la CCAA y las Entidades Local tienen registro electrónico general de apoderamientos
+
+2. Debe ser interoperable este registro con los registro de otras admin. pub
+R: Si, todos los registros electrónicos de apoderamientos deben ser interoperables, asegurando la interconexión y compatibilidad
+
+3. Qué info como mínimo debe tener el registro electrónico municipal de apoderamiento del Ayuntamiento
+R: id poderdante, id apoderado, fecha, poder que se otorga
+
+4. Qué poderes se pueden inscribir en el registro electrónico de apoderamientos
+R: Poder general cualquier actuacion y cualquier Admin, Poder general cualquier actuación una Admin concreta, y poder determinados trámites
+
+5. Cómo se otorga el poder "apud acta"
+R: Mediante comparecencia electrónica o personal en las oficinas de asistencia en materia de registros
+
+6. Qué plazo de validez tiene el poder que se inscriba en el registro electrónico de adpoderamientos
+R: 5 años como máximo
+
+3. IDENTIFICACIÓN Y FIRMA
+Un Ayuntamiento esta decidiendo el sistema de firma electrónica que usar en los procedimientos administrativos que tramita
+1. Está obligado el Ayuntamiento a verificar la identidad del solicitante?
+R: Si, todas la Administración está obligada a verificar la identidad 
+
+2. Cómo podría identificarse electrónicamente el solicitante
+R: Cualquier sistema que cuente con un registro previo como usuario que permite garantizar su identidad. Firma electrónica, sello electrónico, clave concertada
+
+3. A través de que medio puede firmarse la solicitud
+R: Firma electrónica reconocida o cualificada, Sello electrónico y cualquier otro sistema que la Admin considere válido
+
+4. El Ayuntamiento puede admitir todos los sistemas de identificación contemplados en la LPACAP
+R: No está obligado a admitirlos todos, puede admitir sólo algunos
+
+5. Cuándo puede el Ayuntamiento requerir a los interesados el uso obligatorio de firma?
+R: Formular solicitudes, presentar declaraciones responsables y comunicaciones, presentar recursos, desistir de acciones y renunciar a derechos
+
+6. Qué debe hacer el Ayto para asistir en el uso de medios electrónicos a los interesados que no estén obligados a relacionarse a través de medios electrónicos que así lo soliciten
+R: La identifiación o firma electrónica podrá ser realizada por un funcionario habilitado para ello
+
+7. Debe mantener el Ayto un registro donde conste los funcionarios habilitados para la firma de vecinos
+R: Si
+
+4. COPIAS Y DOCUMENTOS A PRESENTAR
+1. Ante qué órgano puede solicitar una copia auténtica un interesado
+R: Ante el órgano que expidió el documento
+
+2. Qué efectos tiene una copia auténtica
+R: Tienen la misma validez y eficacia que los documentos originales
+
+3. En qué momento se puede solicitar la expedición de una copia auténtica
+R: En cualquier momento
+
+4. En la copia auténtica, debe haber constancia de esta característica?
+R: Si
+
+5. Puede un funcionario de la Consejeria de Innovación emitir una copia auténtica de la escritura de compra-venta presentada en el procedimiento emitida por el Notario de Sevilla?
+R: Las copias auténticas de documentos públicos notariales, registrales y judiciales se rigen por su normativa específica
+
+6. Puede un interesado incorporar al expediente documentos que obran en su poder pero no exigidos por la Administración
+R: La Admin no puede obligar a presentr documentos no exigidos, pero el interesado puede estimarlo conveniente
+
+7. Qué documentación no puede ser exigida a los interesados
+R: La que obre en poder de la Administración si se ha dado consentimiento a su consulta, la que haya sido elaborada por la Administración
+
+8. Qué sucede si el Ayto obliga a presentar el documento original que acredite un hecho y esté en formato papel
+R: La Administración deberá digitalizarlo
+
+9. Cuando puede el Ayto efectuar el cotejo de los documentos que presenten los interesados
+R: Cuando la relevancia del documento así lo exija o la copia sea de mala calidad
+
+10. Las copias que aportan los interesados pueden tener eficacia en otras sedes que no sea la actividad de las administraciones públicas
+R: Las copias tienen eficacia administrativa
+
+11. Quién se responsabiliza de la veracidad del documento que presente el interesado en el procedimiento
+R: El interesado
+
+5. AMPLIACIÓN DE PLAZOS Y SILENCIO
+Un Ayto en fase de reordenación de su portal web y ante la inminente tramitación de expedientes se plantea:
+1. Qué contenido tiene que tener la web en relación a los procedimientos administrativos que se tramitan en la enteidad local
+R: Las relaciones de procedimientos de su competencia, plazos máximos y efectos del silencio administrativo
+
+2. Se pretende tramitar un procedimiento en el que se prevé que vaya a existir multitud de solicitudes y, ante el riesgo de incumplimiento de plazos para resolver, qué medidas puede adoptar en esa situación
+R: Habilitar medios personales y materiales necesarios
+
+3. Quién o quiénes son responsables en la tramitación de los procedimientos
+R: El personal y titulares de los órganos
+
+4. En qué supuestos se puede suspender el procedimiento y notificación de la resolución definitiva
+R: Subsanar deficiencia o aportar documentos, pronunciamiento preceptivo de órgano UE, procedimiento no finalizado en UE, informes preceptivos, pruebas técnicas o análisis contradictorios propuestos por los interesados, inicio de negociaciones para pacto o convenio, pronunciamiento de órgano jurisdiccional
+
+5. En qué supuestos se suspenderá el procedimiento y notificación de la resolución definitiva
+R: Requerimiento de otra admin por acto ilegal que le afecta, actuaciones complementarias, recusación por parte de los interesados
+
+6. Si el Ayto. no dispusiera de los medios personales y materiales para atender la avalancha de solicitudes ¿Qué puede hacer?
+R: Ampliar el plazo para resolver, no pudiendo ser superior al establecido para la tramitación del procedimiento
+
+7. Si el Ayto. decide ampliar el plazo para resolver el procedimiento ¿se puede interponer recurso frente a este acuerdo?
+R: No
+
+8. Qué sentido se atribuye al silencio de la Administración ante las solicitudes
+R: Regla general positiva, estimada salvo petición, impugnación de actos y disposiciones, revisión de oficio iniciados por los interesados
+
+9. Qué efectos tiene para el interesado el silencio del Ayto. en la tramitación del procedimiento
+R: Efecto de acto finalizador del procedimiento si es estimación por silencio, interponer recurso admin o conte-admin si es desestimación por silencio
+
+10. Si el procedimiento se interrumple por causa imputable a un vecino, al no presentar documentación ni concurrir a las citaciones ¿qué efectos tendrá la paralización?
+R: La administración advierte, si pasan 3 meses se produce caducidad del procedimiento
+
+6. AMPLIACIÓN DE PLAZOS Y TRAMITACIÓN URGENTE
+Se están tramitando procedimientos a solicitud del interesado
+1. Puede la Consejería emitir una resolución por la que se amplien los plazos establecidos para la presentación de la documetación necesaria por los interesados
+ART 32.1
+
+2. Algunos interesados residen fuera de España ¿podría emitirse una resolución que ampliara los plazos de presentación de la documentación al plazo máximo legal?
+ART 32.2
+
+3. En la tramitación del procedimiento, el sistema informática se ve afectado por un virus, proponiendo el departamento un suspensión de 24h de los sistemas ¿Cómo debe actuar la Administración?
+ART 32.4 Publicar la incidencia técnica
+
+4. Puede el Servicio Territorial acordar la tramitación urgente del expediente
+ART 33.1
+
+5. Declarada la tramitación de urgencia, el interesado no está de acuerdo, porque considera que no existen razones de interés publico ¿puede recurrir en vía administrativa el acuerdo?
+ART 33.2
+
+7. TERMINOS Y PLAZOS
+En Ayto. se están tramitando procedimientos para conceder autorizaciones que han sido solicitadas por varios vecinos
+1. En vista de la documetación presentada por un vecino, se observa que debe subsanarse la soclitud, pero el departamento, desoyendo el plazo de 10 días fijados en la ley para subsanar, efectúa un requerimiento al interesado de un plazo de 12 horas ¿Está obligada la Administración a respetar los plazos?
+ART 29
+2. Un plazo de 24 horas como se computa
+3. A qué días se refieren el cómputo de plazos si no se indica expresamente en la resolución
+R: Días hábiles
+4. Si se notifca un lunez, cuando empieza a contar plazo expresado en días
+R: Martes si es hábil o si no siguiente día hábil
+5. A un vecino se le deniega la autorización, informándole que tiene 2 meses para presentar conte-admin. Cómo se computa ese plazo
+R: Mismo día en el mes de vencimiento y si no existiera día equivalente último del mes
+6. Qué día vence el plazo si es festivo en la localidad donde reside el vecino, pero no lo en el Ayto.
+R: En ese día mismo día, al ser hábil en la localidd del órgano
+
+8. INSTRUCCIÓN
+1. Cómo se debe realizar la instrucción
+De oficio
+2. Puede un interesado alegar defecto de tramitación?
+Sí en cualquier momento del procedimeinto
+3. Cómo puede el instructor del procedimiento sancionador acreditar los hechos relevants
+4. En el procedimiento sancionador el interesado propone la práctia de prueba de reconocimiento del lugar de los hechos por el instructor y un informe pericial de la administración para determinar los daños que se han causado ¿Cuándo el instructor podrá rechazar éstas pruebas?
+5. En qué plazo debe comunicar el instructor el inicio de las actuaciones para la realización de las pruebas
+6. Qué es lo que se concreta en la petición de los informes que sean necesarios en el expediente de responsabilidad
+7. Qué ocurre si el servicio de festejos no emite el informe en el plazo establecido
+8. Cuándo se produce el trámite de audiencia
+R: Antes de la fase de solicitude informes
+9. Se puede prescindier del trámite de audiencia?
+Si. Cuando en la resolución no se tenga en cuenta otros hechos que los propuestos por los interesados
+
+9. NULIDAD Y ANULABILIDAD
+En un Ayto el Alcalde aprueba una resolución sin ser el órgano competente y directamente sin tramitar ningún tipo de procedimiento
+1. Incurre en vicio de nulidad?
+R: SI
+2. Ante la advertencia que recibe el Alcalde y siendo la resolución también contraria a una ordenanza local, decide modificar la ordenanza (diposición de carácter general) de forma contraria a la normativa estatal ¿sería nulo ese acuerdo de modificación?
+R: SI
+3. Ante la posibilidad de que se declare nulo el acuerdo, tramita otro procedimiento que culmina con otra resolución que incurre en desviación de poder ¿exite algún vicio?
+R: Anulabilidad
+4. La resolución del Alcalde también obvia aspectos formales que no impiden alcanzar el fin a las resoluciones ni provoca indenfensión ¿podrán calificarse los defectos formales como vicios de anulabilidad?
+R: No, mientras que no impida alcanzar su fin ni provoque indefensión 
+5. Si se realizan actuacioens fuera de plazo en el procedimiento ¿pueden considerarse como actos anulables?
+R: art 48.3, sólo si lo impone la naturaleza del propio plazo
+6. En la resolución nula, hay un parte legítima ¿La declaración de nulidad afecta también a esa parte?
+R: No, art 49.2
+7. Puede el órgano que declare la nulidad conservar aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.
+R: Si. art. 51
+8. Si el vicio se debe a falta de competencia del órgano que dicto (no determinante de nulidad) ¿cómo se convalidaría ese acto?
+R: art. 52.3, por el órgano competente
+
+10. RECURSOS 1
+El Servicio de Empleo emite acuerdo que declara el desistimiento de la solicitud de subvención para la contratación de personal, presentada por la empresa Alcón, por no cumplir con los requerimientos para presentar determinada documentación requerida por el servicio de empleo; la empresa presenta escrito contra la resolución
+1. Puede tramitarse dicho escrito como recurso?
+R. La ausencia de calificación no es obstáculo para presentar el recurso
+
+2. Puede la entidad presentar a través del recurso la documentación que no presentó en los requerimientos, para que prospere su recurso?
+R: No en el propio recurso no pueden ser alegados los vicios y defectos lo que lo hicieron anulable
+
+3. Cuáles son las causas que podría utilizar el órgano para inadmitir el recurso
+R: Organo incompetente (otra Admin. Pub) y debe remitirse al competente, fuera de plazo, acto no recurrible, carecer manifiestamente de fundamento
+
+4. Si la empresa hubiera presentado recurso de reposición ¿se suspende el acto recurrido?
+R: Por la mera presentación de este u otro recurso no se suspende la ejecución del acto. Ahora bien, las Admin. Pub deben valorar y ponderar el perjuicio al interés público y al interesado de forma que podrá suspenderse la ejecución del acto si, dicha ejecución pudiera causar perjuicios irreparables, la impugnación se fundamente en algunas de las causas de nulidad de pleno derecho,
+
+5. Si el órgano competente no responde a la solicitud de suspensión que se plantea en el recurso por parte del interesado ¿qué sucede?
+R: Si transcurre 1 mes sin respuesta a la solicitud, la ejecución del acto se entenderá suspendida
+
+6. Si el acuerdo que se suspendiera del órgano competente afectara a una pluralidad de personas ¿cómo se realizaría la suspensión de la eficacia del acuerdo?
+R: Se debe publicar en el periódico oficial en el que se insertó
+
+7. Puede interponerse recurso conte-admin sin que se haya resulteo el recurso de resosición
+R: No
+
+8. Puede interponerse recurso de reposición frente al acuerdo que resuelve un recurso de alzada con el que se agota la vía administrativa?
+R: No. Sólo cabe recurso de revisión
+
+9. Puede inadmitirse un recurso de alzada dirigido ante quién no es competente para resolverlo?
+R: Si, pero debe remitirlo al competente
+
+11. RECURSOS 2
+1. Cuándo debe de dar audiencia a los interesados en la tramitación de un recurso?
+R: Cuando vayan a ser tenidos en cuenta nuevos hechos o documentos no recogidos en el expediente
+
+2. Si la Admin que resuelve el recurso observa vicio de forma en la resolución que se impugna ¿qué debe efectuar?
+R: Si no estima procedente resolver sobre el fondo, se ordena la retroacción volviendo al momento en el que el vicio fue cometido, pueden de todas formas convalidar actuaciones
+
+3. Qué puede hacer el Ayto frente a la pluralidad de recursos presentados que tienen causa en el recurso conte-admin contra el Plan General de Ordenación Urbana
+R: Puede acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial
+
+4. Emitida la resolución del recurso de alzada ¿cabe interponer recurso administrativo o conte-admin contra dicha resolución?
+R: El recurso de alzada pone fin a la vía administrativa y contra el no cabe otro recurso administrativo salvo el de revisión, y en todo casoa es recurrible mediante recurso conte-admin
+
+5. Cuándo puede el órgano competente para resolver inadmitir el recurso extraordinario de revisión?
+R: Cuando no se funde en algunas de las causas (error de hecho, falsedad documental, etc...) o se hubiese desestimado en cuanto al fondo otros recursos sustancialmente iguales
+
+6. Sobre qué debe pronunciarse la resolución que resuelva el recurso de revisión
+R: Sobre la procedencia del recurso y el fondo de la cuestión resuelta
+
+7. Qué plazo tiene le interesado para recurrir en alzada contra un acto presunto? y para recurrir en reposición?
+R: En cualquier momento

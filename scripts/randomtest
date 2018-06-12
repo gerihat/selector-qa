@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# Comprobar la capacidad de generar numeros aleatorios mediante $RANDOM (dev/random) llenando un array de max elementos y viendo cuantas repeticiones ocurren de cada numero aleatorio
+default_max=50
+default_nrepeat=50
+
+function ayuda {
+	echo "Usage: randoma [-h] [-m] [-r]"
+	echo "Options:"
+	echo "-m: Tamaño de la población"
+	echo "-r: Número de iteraciones"
+}
+
+#Parser de opciones
+if [ "$#" -eq 0 ]; then
+	max=$default_max
+	nrepeat=$default_nrepeat
+fi
+
+while getopts m:r:h opt; do
+	case ${opt} in
+		m ) # numero maximo
+			if [[ $OPTARG =~ ^[0-9]+$ ]]; then
+				max=$OPTARG
+			else
+				ayuda
+				exit 2
+			fi
+			;;
+		r ) # numero de iteraciones
+			if [[ $OPTARG =~ ^[0-9]+$ ]]; then
+				nrepeat=$OPTARG
+			else
+				ayuda
+				exit 2
+			fi
+			;;
+		h ) # ayuda
+			ayuda
+			exit 0
+			;;
+		* ) # Valores por defecto
+			max=$default_max
+			nrepeat=$default_nrepeat
+			;;
+	esac
+done
+
+declare -a r
+for i in `seq 0 $max`; do
+	r[$i]=0
+done
+
+until [ $nrepeat -lt 0 ]; do
+	n=$(( ($RANDOM % $max) +1 ))
+	r[$n]=$((r[$n]+1))
+	let nrepeat-=1
+done
+
+echo ${r[*]}

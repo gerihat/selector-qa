@@ -1,0 +1,19 @@
+#!/bin/bash
+
+function ayuda {
+	echo "Usage: ce <article> <filename>.txt"
+}
+
+if [[ -z "$2" ]]; then
+	constfile="${HOME}/oposiciones/extras/constitucion.txt"
+else
+	constfile=$2
+fi
+
+if [ ! -f $constfile  ]; then
+	echo "ce (E): Fichero de constitucion no encontrado"
+	ayuda
+	exit 1;
+fi
+
+grep --color -e "^Art*.culo $1\.\|^$1\." $constfile

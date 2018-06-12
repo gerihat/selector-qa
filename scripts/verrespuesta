@@ -1,0 +1,45 @@
+#!/bin/bash 
+
+#Colors
+blue='\033[1;34m'
+endColor='\033[0m'
+
+function ayuda {
+	echo "Usage: verrespuesta <line number> <filename>.txt"
+}
+
+if [ "$#" -eq 0 ]; then
+	ayuda
+	exit 1
+fi
+
+while getopts n opt; do
+	case ${opt} in
+		h) # ayuda
+		   ayuda
+		   exit 0
+		   ;;
+	esac
+done
+
+shift $((OPTIND -1))
+
+# Main
+
+#Comprobar que se pasa un nombre válido de fichero
+if [[ $2 =~ \.!txt$ ]]; then
+	ayuda
+	exit 2;
+fi
+
+#Comprobar que el fichero pasado como parámetro existe
+if [[ ! -f $2 ]]; then
+	echo "Selector (E): Fichero no encontrado"
+	ayuda
+fi
+
+filename=$2
+
+echo -n "P: ";sed "$1!d" $filename
+filename_solutions="${filename%.*}_s.${filename##*.}"
+echo -ne "R: ${blue}";sed "$1!d" $filename_solutions;echo -e "${endColor}"

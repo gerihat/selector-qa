@@ -1,10 +1,10 @@
 # Selector
 
-**Sencillo Script BASH para la generación de cuestionarios en modo texto**
+**Script BASH para la generación de cuestionarios en modo texto de línea de comandos**
 
-## Getting Started
+## Consideraciones iniciales
 
-Si tienes una máquina linux o de cualquier otro tipo que pueda correr un shell BASH, con Selector y uno o varios pares de fichero preguntas-respuestas. El script irá presentando preguntas aleatorias a modo de repaso de tu temario. No plantea preguntas tipo test, sino respuestas concretas.
+Si tienes una máquina linux o de cualquier otro tipo que pueda correr un shell BASH, con Selector y uno o varios pares de ficheros preguntas-respuestas, este script irá seleccionando y mostrando preguntas aleatorias a modo de repaso de tu temario.
 
 ### Plataformas
 
@@ -12,11 +12,11 @@ Si tienes una máquina linux o de cualquier otro tipo que pueda correr un shell 
 * OS X
 * Windows 10 (Linux Subsytem) or Windows (with [Cygwin] 32/64 bits)
 
-### Instalación
+## Instalación
 
 No necesita instalación, tan solo asegúrate de dar estos dos pasos:
 
- * Tener todos los ficheros en la misma carpeta
+ * Tener los ficheros de preguntas y respuestas en la misma carpeta
  * Otorgarle permiso de ejecución al fichero selector.sh si no lo tuviera
 
 	```
@@ -26,43 +26,62 @@ No necesita instalación, tan solo asegúrate de dar estos dos pasos:
 
 En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistema Linux que incluye [Windows10]
 
-## FAQ
+## Uso
 
-### ¿Cómo se utiliza?
+* La sintaxis es la siguiente:
+	```
+	$ ./selector.sh [-h] [-l] [-t] [-n NUM] nombrefichero.txt
+	```
 
-* El comando básico es
+* El comando básico es:
 
 	```
-	$ ./selector.sh [-t] nombrefichero.txt
+	$ ./selector.sh -t nombrefichero.txt
 	```
 
 	 ```nombrefichero.txt``` puede ser:
 
-	1. Cualquier fichero con extensión txt (y su pareja *nombrefichero_s.txt*)
-	2. La opción *-t* muestra por pantalla en cada pregunta, el nombre del fichero al que corresponde
+	Cualquier fichero con extensión .txt (por cada fichero ***nombrefichero.txt*** debe existir su pareja ***nombrefichero_s.txt*** con las respuestas)
 
 * Selector de tema
 
 	```
-	$ ./selector.sh [-t] tema[n].txt
+	$ ./selector.sh -t tema[n].txt
 	```
 
-	Selecciona preguntas de todos los ficheros incluidos en tema[n].txt. *Ejemplo:*	```$ ./selector.sh tema1.txt``
+	Selecciona preguntas de todos los ficheros incluidos en tema[n].txt. *Ejemplo:*	```$ ./selector.sh tema1.txt``` 
 
 * Selector de módulo
 
 	```
-	$ ./selector.sh [-t] modulo[n].txt
+	$ ./selector.sh -t modulo[n].txt
 	```
 
-	Selecciona preguntas de todos los temas incluidos en modulo[n].txt. *Ejemplo:*	```$ ./selector.sh modulo1.txt``
+	Selecciona preguntas de todos los temas incluidos en modulo[n].txt. *Ejemplo:*	```$ ./selector.sh modulo1.txt```
 
+### Parámetros opcionales
+
+* -h: Muestra la ayuda
+* -l: Muestra el número de línea (útil para usar el comando ***sed*** para búsquedas)
+* -t: Muestra en cada pregunta el nombre del fichero al que corresponde. Recomendado, puesto que permite ver a qué tema corresponde la pregunta
+* -n NUM: Muestra un número NUM de preguntas consecutivas de cada tema:
+
+	*Ejemplo: ```$ ./selector.sh -t -n 4 tema10.txt``` siendo tema1.txt...*
+	```
+	1 procedimiento.txt
+	2 legislacion.txt
+	3 sanciones.txt
+	4 indemnizaciones.txt
+	```
+	*...mostraría 4 preguntas consecutivas de cada uno de esos ficheros.*
+
+
+## FAQ
 
 ### ¿Cómo creo ficheros de preguntas-respuestas?
 
-* Con cualquier editor crear dos pares de ficheros. Uno para preguntas ***nombrefichero.txt*** y otro para sus respuestas ***nombrefichero_s.txt*** (la terminación '_s' en el nombre identifica al fichero de respuestas)
-* En el fichero de preguntas, cada línea del fichero es una pregunta. Y lo mismo ocurre para en el de respuestas.
-* Deja una línea en blanco al final del fichero
+* Con cualquier editor crea dos pares de ficheros. Uno para preguntas ***nombrefichero.txt*** y otro para sus respuestas ***nombrefichero\_s.txt*** (la terminación '\_s' en el nombre identifica al fichero de respuestas)
+* Cada línea de estos ficheros representa una pregunta y una respuesta respectivamente. Por ejemplo la línea 6 en el fichero de preguntas, tiene como respuesta la línea 6 en el fichero de respuestas.
 
 ### ¿Cómo se organizan los temas o grupos de preguntas?
 
@@ -86,6 +105,26 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 	2 tema2.txt
 	3 tema3.txt
 	```
+
+## Scripts extras
+Estos scripts están incluídos en la carpeta scripts, y no son necesarios para poder usar el generador de cuestionarios. Sólo son pequeñas ayudas para al estudio o la búsqueda de preguntas y respuestas concretas dentro del temario.
+
+* **ce:** Script para mostrar los artículos de la Constitución Española de 1978
+
+	*Ejemplo: ```$ ce 5```*
+	*mostraría el artítuclo 5 de la Constitución Española de 1978*
+
+* **verlinea:** Script para mostrar la línea pasada como parámetro de un fichero
+
+	*Ejemplo ```$ verlinea 5 cederechos.txt```*
+	*mostraría la línea 5 del fichero cederechos.txt, es decir, la pregunta nº 5 de ese fichero*
+
+* **verrespuesta:** Script para mostrar la pregunta-respuesta de la línea pasada como parámetro
+
+	*Ejemplo: ```$ verrespuesta 5 cederechos.txt```*
+	*mostraría la respuesta correspondiente a la línea 5 del fichero cederechos.txt*
+
+*Se recomienda incluir la ruta a estos script en el PATH del sistema o del usuario para poder usarlos en cualquier directorio. Consulta cómo incluir una ruta al PATH del sistema o del usuario en la documentación de tu distribución Linux*
 
 ## Contribuciones
 

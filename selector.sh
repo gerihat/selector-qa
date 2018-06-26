@@ -1,12 +1,12 @@
 #!/bin/bash
 # Selector aleatorio de preguntas y sus solucones
 
-#Colors
+#Colores
 green='\033[0;32m'
 blue='\033[1;34m'
 endColor='\033[0m'
 
-#Some configurations
+#Configuracion inicial
 nrepeat=1
 nlflag=false #flag para mostrar numeros de linea
 ntflag=false #flag para mostrar nombre del fichero

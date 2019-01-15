@@ -8,7 +8,7 @@ Artículo 1.1. España se constituye en un Estado social y democrático de Derec
 Artículo 2. La Constitución se fundamenta en Ia indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.
 Artículo 3.1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.
 3.2 Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.
-3.3. La riqueza de las distintas modalidades Iingúísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.
+3.3. La riqueza de las distintas modalidades Iingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.
 
 Artículo 4.1. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.
 4.2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a Ia bandera de España en sus edificios públicos y en sus actos Oficiales.
@@ -59,7 +59,7 @@ Artículo 17.1. Toda persona tiene derecho a la libertad y a la seguridad. Nadie
 17.3. Toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.
 17.4. La ley regulará un procedimiento de <<habeas corpus>> para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional.
 
-Artículo 18.1. Se garantiza el derecho al honor, a la intimidad personal y familiary a la propia imagen.
+Artículo 18.1. Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 18.2. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.
 18.3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.
 18.4. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
@@ -461,8 +461,8 @@ Artículo 117.1. La justicia emana del pueblo y se administra en nombre del Rey 
 117.2. Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados sino por alguna de las causas y con las garantías previstas en la ley.
 117.3. El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar Io juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan.
 117.4. Los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.
-117.5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de IosTribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
-117.6. Se prohíben IosTribunales de excepción.
+117.5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de Ios Tribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
+117.6. Se prohíben Ios Tribunales de excepción.
 
 Artículo 118. Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces yTribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.
 

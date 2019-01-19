@@ -8,7 +8,7 @@ bajeza, envilecimiento
 cruel, áspero, agrio. Oídas tan acerbas acusaciones, ordenó prenderlos y meterlos a la tortura
 patrimonio, montón, cúmulo
 auxilio
-serio
+serio. Si bien en privado es un hombre con encanto y sentido del humor, en público es implacablemente adusto.
 ganancia
 amanecer
 destino
@@ -20,7 +20,7 @@ consentimiento, concesión
 apropiarse, atribuirse
 entristecer
 predecir, augurar
-malo, perverso, torcido
+malo, perverso, torcido, siniestro
 aventurado, aciago
 tosca
 alboroto, bulla
@@ -29,19 +29,21 @@ claro
 zanjas
 prebenda, privilegio
 anulación, derogación
-báculo
+báculo, palo. El pastor recondujo a la cabra con su cayado
 chapucero
 represivo, inhibitorio. Multa coercitiva impuesta sobre el interesado en ejecución forzosa
 deducir, reunir
 arrepentimiento, contrición
 preeminente, ilustre, insigne
 habitual
+acción de constreñir. Obligar, precisar, oprimir, limitar, apretar y cerrar.
+arrepentimiento, compunción
 arrepentido, compungido
 camaradas
 correduría, comisión
 afligido
 obsequio
-deserción
+deserción. Prueba clara de la gravedad de la situación la constituye la reciente defección de varios altos cargos
 acceder, respetar
 denuncia, acusación
 letal. Marx señaló la función deletérea de la economía capitalista
@@ -52,34 +54,34 @@ terminación
 disolver, deshacer
 injuria, sátira, invectiva
 derivar
-alcoholismo
+alcoholismo. Dipsa en griego es sed
 derroche
 indiferente
-conciliador, comedido
+conciliador, comedido, moderado. Nota: ecléptico, estaría mal escrito
 universal
 evasiva, salida, subterfugio. El derecho a la libre determinación no debe ser efugio para dividir el Estado
 protección, amparo, patrocinio
 frustrar, suprimir. También es elidir eliminar una de las dos vocales de dos palabras seguidas tipo (de + el = del)
-suavizante
+suavizante. Dicho de un medicamento que sirve para ablandar una dureza o un tumor
 rival, competidor
 hinchado, afectado, insistente
 apuntalar, aegurar, apoyar
 busca placer sin dolor, sibarita
-compendio, sumario, resumen
+compendio, sumario, resumen, sinopsis. Leí el epítome para ver de qué se trataba el texto
 engañoso, aparente, falso
 falso, bastardo, ilegítimo. Semejantes declaraciones del Presidente invitan a un uso espurio de las Instituciones del Estado
-necedad
-causa, razón, motivo
-base craneo
+necedad, estupidez
+causa, razón, motivo. Utilizada en medicina. Etiología de una enfermedad
+base cráneo
 desarrollo
 requerimiento
-exasperar
-agotado,muerto
+exasperar, enjorar. agravar
+agotado, muerto. Esta monarquía está cada vez más exangüe
 desmayado
 explicación, interpetación
 franquicia, excepción
 ilustre, egregio, conspicuo
-aliviar, descargar
+aliviar, descargar, eximir. El juezo exoneró a Fabio de toda culpa
 purgar
 imitación, reproducción, copia
 criado, recadero, testaferro
@@ -95,12 +97,12 @@ mechón
 rico, adinerado
 diligente, trabajador
 pereza
-manada, rebaño
+manada, rebaño. Hato de ganado. Sancho a el Quijote. Bundle en inglés.
 sibaritismo, placer, materialismo
 flaco, tísico, enfermo
 sagrado, solemne
 oprobio, afrenta, deshonra
-innoble
+innoble. El Parlamento Europeo lucha activamente en la lucha contra esta ignominiosa práctica consistente en utilizar niños en conflictos armados
 relación, consecuencia, nexo
 rogar, suplicar. Las sesiones del Congreso se inauguracion depués de oficiarse una misa para impetrar la ayuda divina
 trabajo, esfuerzo
@@ -120,8 +122,8 @@ heredero, beneficiario
 panfleto, folleto, difamación
 usurero, prestamista
 liberar
-inmovilidad, paralización
-rótulo, etiqueta
+inmovilidad, paralización. Necesitamos empleados activos y emprendedores para sacar a la empresa de este marasmo
+rótulo, etiqueta. El marbete del frasco está borroso
 crecer. Esa especie puede medrar en entornos donde perecería otra planta cualquiera
 mentiroso, falso
 obsequio
@@ -135,17 +137,17 @@ representante, mensajero
 ofrenda, sacrificio
 obstruir, taponar, cerrar
 cumplimiento
-execrable
+execrable, aborrecible. mal agüero. Jack el destripador cometió otro ominoso crimen
 abominable, odioso, execrable
 deshonra, afrenta, ignominia
-resolver, solventar, arreglar, bordear
+resolver, solventar, arreglar, bordear, esquivar. Ana siempre trata de orillar los conflictos
 fundamento, base
 fardo
 amplificación, comentario, interpretación
 sofisma, argucia, razonamiento falso
 exaltación, exacerbación
 atenuar
-voto popular a una persona o no ley
+voto popular a una persona o una ley
 dinero, patrimonio
 dinero, caudal, hacienda
 Inculto
@@ -154,13 +156,13 @@ traidor
 declinar, decaer. Juramento en falso
 empeñar, hipotecar
 fiebre
-llorona, sollozante
-abundancia, exceso
+llorona, sollozante. Usualmente usada para describir músicas, armonías y sonidos
+abundancia, exceso. Un plétora de revistas explican a los pensionistas lo que deben hacer
 pedir, pretender
 renta, plusvalía
 ilustre, célebre
 heredad, hacienda, posesión
-superior convento
+superior convento. El Papa se reunirá mañana con el prelado en Ciudad del Vaticano
 sacerdote
 primitivo, original
 tormentoso, tempestuoso
@@ -189,7 +191,7 @@ fusion
 contracción
 chamuscar, tostar
 razonamiento falso
-corporal
+corporal. Parte material o corpórea de un ser animado. Comprobaremos el estado físico y somático del paciente
 disoluto, indecente, sucio
 evitar
 enaltecer, exaltar

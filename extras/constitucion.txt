@@ -95,7 +95,7 @@ Artículo 25.1. Nadie puede ser condenado o sancionado por acciones u omisiones 
 25.2. Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social y no podrán consistir en trabajos forzados. EI condenado a pena de prisión que estuviere cumpliendo la misma gozará de los derechos fundamentales de este Capítulo, a excepción de los que se vean expresamente limitados por el contenido del fallo condenatoria, el sentido de la pena y la ley penitenciaria. En todo caso, tendrá derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social, así como al acceso a la cultura y al desarrollo integral de su personalidad.
 25.3. La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.
 
-Artículo 26. Se prohíben IosTribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.
+Artículo 26. Se prohíben Ios Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.
 
 Artículo 27.1. Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza.
 27.2. La educación tendrá por objeto el pleno desarrollo de Ia personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales.
@@ -464,7 +464,7 @@ Artículo 117.1. La justicia emana del pueblo y se administra en nombre del Rey 
 117.5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de Ios Tribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
 117.6. Se prohíben Ios Tribunales de excepción.
 
-Artículo 118. Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces yTribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.
+Artículo 118. Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.
 
 Artículo 119. La justicia será gratuita cuando así lo disponga la ley, y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.
 
@@ -486,7 +486,7 @@ Artículo 124.1. El Ministerio Fiscal, sin perjuicio de las funciones encomendad
 124.3. La ley regulará el estatuto orgánico del Ministerio Fiscal.
 124.4. El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del poder judicial.
 
-Artículo 125. Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en IosTribunales consuetudinarios y tradicionales.
+Artículo 125. Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en Ios Tribunales consuetudinarios y tradicionales.
 
 Artículo 126. La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca.
 

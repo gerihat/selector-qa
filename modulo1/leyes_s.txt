@@ -4,6 +4,7 @@ Proyecto lo presenta el Gobierno y se está obligado a tramitar parlamentariamen
 RD-Ley: Ley de urgencia o necesidad planteada por el Gobierno y con ratificación por Cortes (30 días). RD Legislativo: Ley aprobada por Gobierno por delegación de las Cortes. Si es para la refundición de textos legales, la delegación se hace por ley ordinaria. Si es para crear un texto articulado, la delegación se hace por una ley de bases.
 Es la ley que emana de las Cortes sobre la cual el Gobierno ejerce la postestad legislativa para elaborar RD legislativo en textos articulados
 Es una ley que emana de las Cortes para reducir las diferencias legislativas entre las CCAA, por interés general. Requiere mayoría absoluta para su aprobación
+Mayoría absoluta
 Es algo similar a la ley de bases que se le entrega al Gobierno pero en este caso para las CCAA. Es decir, es la ley sobre la cual las Cortes delegan la potestad legislativa sobre la CCAA para que puedan legislar sobre titualiridad estatal fijando los mínimos
 15 días
 En el que la propia ley indique, y si no se indica nada, 20 días desde su publicación

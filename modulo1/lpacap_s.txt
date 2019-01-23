@@ -7,7 +7,7 @@ Ley 39/2015 1-oct
 Conocer estado tramitación, sentido del silencio administrativo, órgano competente e identifiación de intervinientes, no presentar doc. original salvo norma, no presentar doc. no exigida o ya en poder de la Admin, actuar con asesor, presentar doc. en cualquier fase antes de audiencia, pago electrónico
 Elegir medio electrónico o no (si no obligado), pago electrónico, notificación electrónica
 Personas júrídicas y entidades sin personalidad jurídica, profesionales colegiados (notarios, registradores, etc..), representantes de los interesados que estén obligados, empleados Admin.
-1. Personas físicas y jurídicas con capacidad de obrar según normas civiles, 2. Menores de edad en el ejercicio y defensa de sus derechos, 3. Los grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos
+1. Personas físicas y jurídicas con capacidad de obrar según normas civiles, 2. Menores de edad para el ejercicio y defensa de aquellos de sus derechos cuya actuación esté permitida por el ordenamiento jurídico-administrativo sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela. 3. Los grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos
 Al que lo promueve, al que tiene derechos afectados por la decisión siempre que se persone en el procedimiento antes de haber recaído resolución definitiva
 No exactamente, es incompleto. Los citados, son interesados siempre que se personen en el procedimiento antes de haber recaído resolución definitiva
 Como regla general, para realizar cualquier actuación en el procedimiento, es suficiente acreditar la identidad a través de cualquiera de los medios de identificación previsto. Pero es obligatorio firma del interesado en solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos y desistir o renunciar a acciones
@@ -34,5 +34,9 @@ Los instruidos en materia tributaria y aduanera, en el orden social, en materia 
 No, seguirá su normativa específica y de forma supletoria por la Ley 39/2015
 Si, pero siempre que la ley así lo declare expresamente
 Que no se tendrán por presentados
-1. La que haya elaborado la propia Administración, siempreq que no exista oposición expresa del interesado a su contulta por parte de la Administración. 2. Documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario. 3. Datos o documentos no exigidos por la normativa o ya en poder de la Administración
+1. La que haya elaborado la propia Administración, siempre que no exista oposición expresa del interesado a su consulta por parte de la Administración. 2. Documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario. 3. Datos o documentos no exigidos por la normativa o ya en poder de la Administración
 Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia
+Principio de simplificación administrativa
+Que el procedimiento de impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad
+Que la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos
+

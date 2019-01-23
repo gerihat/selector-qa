@@ -26,6 +26,7 @@ Dónde se encuentra la opción de inmovilizar paneles
 (Error) #¡VALOR!
 (Error) #¡NULO!
 (Error) #N/A
+Qué error aparece si en una celda obtenemos un número demasiado alto o demasiado pequeño. #¡VALOR! o #¡NUM!
 La operacion =A1+B2, donde A1=5 y B2="hola", qué error devuelve
 Es válida esta fecha: 12/8/1492?
 Qué ocurre si introducimos 1/1/30, sería 1/1/1930 ó 1/1/2030
@@ -33,11 +34,11 @@ Qué ocurre si introducimos 1/1/29, sería 1/1/1929 ó 1/1/2029
 Tipos de alineación horizontal que permite Excel 2010
 Qué tipo de error aparece si introducimos un número negativo y le damos formato Fecha
 Tipos de referencias de celda en Excel 2010
+Cómo se representa una referencia 3D en una celda
 Qué es un cubo OLAP
 Tipos de funciones disponibles en Excel 2010
 Funciones de bases de datos disponbiles en Excel 2010
 Qué hace la función BDEXTRAER
-Qué tres parámetros se solicitan siempre en las funciones de bases de datos
 Cómo se hace un filtro avanzado en una base de datos
 Qué condición es necesaria para poder utilizar la herramienta Subtotales
 Cuáles son las herramientas de análisis de Excel 2010
@@ -51,4 +52,11 @@ Cuáles son las herramientas de análisis de Excel 2010
 Qué hace el código # en el formato de número personalizado
 Qué hace el código 0 en el formato de número personalizado
 Qué hace el código ? en el formato de número personalizado
+Qué formato de celda habría que usar si queremos introducir códigos postales en una columna
+Qué formato de celda habría que usar si queremos introducir números de teléfono en  una columna
+Qué tipo de formatos contiene la Categoría Especial en formatos de celdas
 Cómo se vería el número 1000,24 en una celda con formato científico
+Qué resultado arroja la operación COCIENTE(8;3)
+Qué ocurre si seleccionamos tres celdas con datos numéricos, y las combinamos y centramos
+Qué ocurre si introducimos 2/4 en un campo de tipo fracción, cuando salimos del foco de la celda
+Qué hace la función SUSTITUIR

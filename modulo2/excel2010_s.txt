@@ -3,10 +3,10 @@
 .xlw
 AA, AB, AC, etc...
 Pulsando ALT, y seguidamente pulsando la tecla correspondiente de la ficha a la que se quiere acceder
-Mediante la opción Rellenar->serie->geométrica, indicando el Incrementeo en 2
+Mediante la opción Rellenar->serie->geométrica, indicando el Incremento en 2
 Lineal, Geométrica, Cronológica y Autorellenar
 En Inicio-Opciones-Avanzada->Modificar listas personalizadas
-CONTAR: cuenta el número de celdas que tienen valor numérico, CONTARA: cuenta el número del celdas que no están en blanco, CONTARSI: Permite especificar una condición o criterio
+CONTAR: cuenta el número de celdas que tienen valor numérico, CONTARA: cuenta el número de celdas que no están en blanco, CONTARSI: Permite especificar una condición o criterio
 Es una mejora de la herramienta Buscar Objetivo. Buscar Objetivo, permite fijar un objetivo a conseguir y muestra qué cambio habría que hacer en una celda para cumplir ese objetivo. Solver: También permite fijar un objetivo a conseguir, pero en este caso permite poder elegir un conjunto de celdas (hasta 32) a modificar para cumplir ese objetivo
 Es un complemento, no habilitado por defecto en Excel 2010. Habría que ir a Archivo->Opciones->Complemento->Ir..., y habilitarlo
 1. Rango de celdas de la base de datos, 2. Nombre del campo (celda que contiene el nombre del campo), 3. Rango de celdas de criterios
@@ -16,7 +16,7 @@ En el menú Datos->Grupo Herramienas de datos->Análisis Y si
 Por defecto a nivel de hoja, pero mediante la opción Combinar Escenarios del Administrador de Escenarios permite llevar escenarios de una hoja a otra siempre y cuando ambas hojas tengan el contenido del escenario en la misma posición
 En el libro de macros personal. Que es un libro oculto que se carga cada vez que se inicia Excel, en el que sólo estarán las macros grabadas de esa forma
 Si a través de Archivo>Opciones>General>Incluir este numero de hojas
-En Inicio>Formato>Ocultar y mostrar>Ocultar hoja
+En Inicio>Formato>Ocultar y mostrar>Ocultar hoja. En la ficha Vista->Ocultar, lo que ocultamos en la ventana con todas las hojas
 En Vista>Inmovilizar
 El valor es más grande que el ancho de la columna, o se introduce una fecha negativa
 Se introduce un valor numérico no válido en una fórmula o el número es demasiado grande o pequeño
@@ -26,29 +26,38 @@ Se ha dividido por 0
 Los párametros pasados a la fórmula no son correctos. Por ejemplo se espera un número y se pasa un texto, o se espera un número y se pasa un rango
 Se especifica una intersección de dos áreas que no forman intersección. Este error suele ocurrir al no incluir los dos puntos (:) al especificar un rango
 Faltan datos o el dato buscado no existe. Por ejemplo en las funciones BUSCARV y BUSCARH, si no encuentra el valor buscado devolvería #N/A
+#¡NUM!
 #¡VALOR!
 No la fecha mínima que se puede introducir es 1/1/1900
-Sería 1/1/1930, las fechas así introducidas llegan hasta 2029
-Sería 1/1/2029, las fechas así introducidas llegan hasta 2029
+Sería 1/1/1930, las fechas así introducidas llegan hasta 2029. Si hubiéramos puesto 1/1/29, sería 2029
+Sería 1/1/2029, las fechas así introducidas llegan hasta 2029. Si hubiéramos puesto 1/1/30, sería 1930
 General, Izquierda (con sangría), Derecha (con sangría), Centrar, Rellenar, Justificar, Centrar en la selección, Distribuido
 Aparece el error ######
 Relativa, absoluta, mixtas, 3D (a hoja) y 4D (a libro)
+Con el carácter !. Ej: Hoja1!D4
 OLAP (Online Analytical Processing) es una estructura de datos que supera las limitaciones de las bases de datos relacionales y permite trabajar con datos multidimensionales
 Financieras, Fecha y Hora, Matemáticas y Trigonométricas, Estadísticas, Búsqueda y referencia, Bases de datos, Texto, Lógicas, Información, Ingenería, Cubo
 BDCONTAR, BDCONTARA, BDDESVEST, BDDESVESTP, BDEXTRAER, BDMAX, BDMIN, BDPRODUCTO, BDPROMEDIO, BDSUMA, BDVAR, BDVARP
 Extrae un registro (el campo indicado) de la BD de Excel, según el criterio indicado
-Base_de_datos, nombre de campo y criterios
-Se replica primero la cabecera de la base de datos con los nombres de los campos y bajo ella se indican los criterios para el filtro en los campos. Si ponemos criterios en la misma fila sería un AND, si están en filas distintas sería OR. Luego en la ficha Datos, pinchamso en Avanzados e introducimos los parámetros que solicita
+Se replica primero la cabecera de la base de datos con los nombres de los campos y bajo ella se indican los criterios para el filtro en los campos. Si ponemos criterios en la misma fila sería un AND, si están en filas distintas sería OR. Luego en la ficha Datos, pinchamos en Avanzados e introducimos los parámetros que solicita
 Que la base de datos Excel esté ordenada para que pueda agrupar registros correctamente
 Buscar objetivo, Escenarios, Tablas de datos y el complemento Solver
 01.345,
 100
 101
-100.8
+100.8 A la izquierda de la coma representa todos los dígitos. A la derecha de la coma, representa un dígito
 100.75 (con tres espacios en blanco a la derecha)
 100.25000 (Añade tres ceros a la derecha donde no haya digito de entrada)
-00100.7 (Añade 2 ceros a la izquierda, que es lo que falta para completar el formato requerido)
+00100.8 (Añade 2 ceros a la izquierda, que es lo que falta para completar el formato requerido) y redondea por encima el valor decimal para dejar sólo un dígito
 Estamos asegurando que ese espacio sea ocupado por un número. Si el número tiene menos dígitos no muestra nada. En números decimales los números a la izquierda de la coma basta con poner #, los números a la derecha de la coma, un # representa 1 sólo dígito
 Obliga a mostrar ceros no significativos tanto a derecha como a izquierda de la coma
 Obliga a mostrar espacios en el lugar de ceros no significativos a ambos lados de la coma decimal para que las comas queden alineadas
-1,000E+03
+Formato Especial. En esa opción tenemos Código postal, Código postal +4, Número de teléfono, Número del seguro social
+Formato Especial
+Código postal, Código postal + 4, Número de teléfono, Número del seguro social
+1,00E+02
+Devuelve 2. La división es 2,66 pero la función COCIENTE sólo devuelve la parte entera
+Se conservan solo los datos del extremo superior izquierdo
+Aparece 1/2. Los campos tipo fracción reducen la fracción al mínimo
+Es una función de texto, SUSTITUIR(texto;cadena_a_sustituir;cadena_sustitutoria;ocurriencias). Sustituye en texto la cadena_a_sustituir por cadena_sustitutoria
+

@@ -78,3 +78,4 @@ Cómo se cifra una base de datos Access 2010
 Dónde se introduce de forma predeterminada en el diseño de un formulario si usamos insertar Fecha y hora
 Una tabla y una consulta pueden tener el mismo nombre?
 Qué otros valores son equivalente a "Si" en un campo Si/No
+Cuáles son los formatos de tipo Fecha/Hora que existen

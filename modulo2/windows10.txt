@@ -28,3 +28,5 @@ Cómo se inicia el modo seguro en Windows 10
 Qué es Secure Boot
 Para qué sirve BCEedit
 Se puede ejecutar sistemas de virtualización cómo Hyper-V y VirtualBox al mismo tiempo?
+Qué información podemos encontrar en la opción "Este equpo" del Explorador de Windows
+Qué opción de la Configuración nos muestra información detallada de la versión de Windows 10 instalada

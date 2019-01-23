@@ -28,3 +28,6 @@ Hay que entrar con Configuración de Windows>Actualización y Seguridad>Recupera
 Es un sistema de arranque seguro, que sólo permite ejecutar software firmado en el arranque del sistema. Incorporado en las placas UEFI, a través de Microsoft.
 Es una herramienta de línea de comandos que permite administrar datos de la configuración de arranque (BCD)
 No simultáneamente. Ambos hacen uso del conjunto de instruccciones de virtualización del microprocesador (INTEL-VT o AMD-V) y esto sólo lo puede usar uno, de forma que abría que desactivar Hyper-v para poder usar VirtualBox (BCDedit /set hypervisorlaunchtype off)
+Carpetas por defecto y Unidades de disco
+Sistema y Acerca de
+

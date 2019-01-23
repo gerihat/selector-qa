@@ -15,9 +15,11 @@
 (Atajos Word 2010) Abrir macros
 (Atajos Word 2010) Abrir Buscar
 (Atajos Word 2010) Abrir Reemplazar
-(Atajos Word 2010) Abrir Formato
+(Atajos Word 2010) Abrir Formato de fuente
+(Atajos Word 2010) Abrir Formato de párrafo
 (Atajos Word 2010) Eliminar formato de párrafo
 (Atajos Word 2010) Selección extendida
 (Atajos Word 2010) Ventana de sinónimos
 (Atajos Word 2010) Disminuir tamaño de fuente
 (Atajos Word 2010) Aumentar tamaño de fuente
+(Atajos Word 2010) Abrir panel de tabulaciones

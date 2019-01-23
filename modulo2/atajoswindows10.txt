@@ -30,3 +30,4 @@
 (Atajos Windows 10) Borrar permanentemente un fichero
 (Atajos Windows 10) Abrir propiedades de sistema del panel de control
 (Atajos Windows 10) Qué ocurre si pulsamos durante 5 seg la tecla BLOQ NUM
+

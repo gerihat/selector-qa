@@ -20,3 +20,10 @@ Qué es el Kerning
 Qué es el Tracking
 Si utilizamos una fuente de tamaño de 12 puntos, con interlineado doble, el espaciado de cuánto es
 De qué tipo son las columnas por defecto en Word
+Qué función realiza la opción de Sombreado en un documento de Word
+Qué opción utilizamos si vamos a compartir un documento de Word, pero antes queremos comprobar qué información personal contiene
+En qué parte podemos encontrar la fecha de la última vez que el documento fue impreso
+En qué parte podemos encontrar el tiempo de edición del documento
+En qué parte se pueden añadir comentarios al documento abierto
+En qué parte se pueden añadir etiquetas o tags al documento
+Qué pasa si en la opción Proteger documentos, le damos a Marcar como final

@@ -20,3 +20,10 @@ Espacio horizontal entre letras consecutivas en base a la formología de la fuen
 Espacio horizontal entre caracteres en una palabra, frase o párrafo. Todos el mismo espacio. En Word se ajusta con Espaciado entre caracteres
 24 puntos
 Periodísticas
+Colorea el fondo del texto o párrafo seleccionado
+Preparar para compartir en la pestaña Archivo
+Opción Información en la pestaña Archivo
+Opción Información en la pestaña Archivo
+Opción Información en la pestaña Archivo
+Opción Información en la pestaña Archivo
+Informa a los lectores de que el documento es definitivo y lo convierte en un documento de sólo lectura

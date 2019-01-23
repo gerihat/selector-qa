@@ -20,7 +20,7 @@ Debe escribir carácter o un espacio
 Puede escribir carácter o espacio
 Marcadores de posición de decimales y millares, separadores de fecha y hora. El carácter que seleccione dependerá de la configuración regional
 Puede escribir un dígito, espacio, signo más o menos. Si se omite Access escribe espacio en blanco
-Los caracteres que le siguen inmediatamente se mostrarán literalmente
+Los caracteres que le siguen inmediatamente se mostrarán literalmente. Es el carácter de escape
 Los caracteres que están entre comillas se mostrarán literalmente
 Permite (206) 555-0248, se deben escribir dígitos
 Permite (206) 555-0248 ó ( ) 555-0248, se pueden o no escribir dígitos
@@ -66,15 +66,17 @@ ODBC (Open Database Connectiviy) no es exactamente una base de datos, es un est�
 Un registro. En matemáticas se le conoce como a una secuencia de valores agrupados
 OLE (Object Linking and Embedding) es un modo de incrustar objetos de varios tipos (multimedia, pdfs, ect..) en un campo
 DBMS (Database Management System) o en español SGBD, Sistema Gestor de Bases de Datos. Es el conjunto de aplicaciones para manejar y administrar la base datos. Access es una RDBMS (Relational DBMS)
-Es DBMS (Database Management Sytem) en español. SGBD, Sistema Gestor de Base de Datos. Conjunto de aplicaciones para el manejo y administración de bases de datos. Access es una SGBD Relacional
+Es DBMS (Database Management System) en español. SGBD, Sistema Gestor de Base de Datos. Conjunto de aplicaciones para el manejo y administración de bases de datos. Access es una SGBD Relacional
 Data Access Objets, es una API o biblioteca de código que utiliza el motor Microsoft Jet Database, antecesor del actual ACE de Access 2010, para la conexión con fuentes de datos no necesariamente de tipo Access
 ADO: ActiveX Data Object, es una API o biblioteca de código que permite conectar una aplicación Access con un origen de datos distinto (Access, Oracle, MySql, Excel, SQL Azure...)
 Se debe abrir en modo exclusivo. Para ello en el cuadro de diálogo de Abrir, debemos usar el boton Abrir en modo exclusivo
 Los TRIGGERS como tales no existen, en Access lo más parecido son las macros de datos, existiendo de dos tipos: macros de eventos (se ejecutan cuando ocurre algo) y macros por nombre (se ejecutan cuando son llamadas)
 Si, de dos formas: 1. Mediante las Runtimes: Existe una versión de Access, gratuita, que permite trabajar con los datos, pero no modificar la estructura de la BD. 2. A través de un navegador web accediendo a un servicio web tipo SharePoint, si la base de datos está publicada para Web
-ACE: Access Connectivity Engine, el es motor de base de datos Access desde la versión 2007
+ACE: Access Connectivity Engine, es el motor de base de datos Access desde la versión 2007
 Es el motor de base de datos Access hasta la versión 2003
 Desde la versión 2007, todos los archivos de base de datos Access están por defecto cifrados
 En el encabezado de formulario, o en su caso en la sección de detalle, si no existe encabezado
 No
 "Activado" y "-1"
+Fecha general, corta, mediana y larga. Hora corta, mediana y larga. Fecha general incluye fecha y hora: 19/09/2007 17:34:23
+

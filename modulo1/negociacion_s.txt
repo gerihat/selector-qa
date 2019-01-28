@@ -2,9 +2,9 @@ Decisiones Admin. Pub con respecto a su organización, regulación de derechos c
 Organizaciones sindicales más representativas a nivel estatal (19% delegados) y CCAA (15% delegados), sindicatos 10% representantes en elecciones para delegados y Juntas de Personal
 Delegados de Personal, Juntas de Personal, Comité de Empresa y Empleados públicos en un 40% y fuera de las horas de trabajo
 4 años
-30 func (1 delg), 31-49 func (3 delg)
-50-100 func (5 m), 101-250 func (9 m), 251-500 func (13 m), 501-750 func (17 m), 751-1000 func (21m), +1000 func (2/1000) 
-6 mínimo, 75 máximo
+Hasta 30 funcionarios (1 delegado), 31-49 funcionarios (3 delegados)
+50-100 func (5 m), 101-250 func (9 m), 251-500 func (13 m), 501-750 func (17 m), 751-1000 func (21m), +1000 func (2/1000). Hasta un máximo de 72 miembros
+5 mínimo, 75 máximo
 -100 (15h), 101-250 (20h), 251-500 (30h), 501-750 (35h), +750 (40h)
 Listas cerradas y sistema proporcional corregido
 Listas abiertas y sistema mayoritario

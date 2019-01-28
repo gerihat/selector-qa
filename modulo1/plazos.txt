@@ -78,7 +78,7 @@ Plazo de ejecución de una Oferta de Empleo Público
 Plazo en el que se puede estar interino por ejecución de programas de carácter temporal
 Plazo en el que se puede estar interino por exceso de tareas
 Plazo en el que se considera la incompatibilidad de actividades privadas del funcionario relacionadas con asuntos en los que se esté interviniendo, se vaya a intervenir o se haya intervenido
-Plazo en el que un funcioanario no debe haber participado en labores de preparación de aspirantes, si va a pertenecer a un órgano de selección
+Plazo en el que un funcionario no debe haber participado en labores de preparación de aspirantes, si va a pertenecer a un órgano de selección
 Plazo para el cese y toma de posesión con cambio de residencia en movilidad por motivos de salud o rehabilitación
 Plazo en movilidad por salud o rehabilitación, para que la adscripción al nuevo puesto tenga carácter definitivo
 Tiempo que debe transcurrir como mínimo entre ejercicios en una prueba selectiva

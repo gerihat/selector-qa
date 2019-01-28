@@ -40,14 +40,14 @@ Si, pero el órgano decide en 5 días y si hay silencio se rechaza la petición.
 Puede negarse y por tanto seguir la tramitación ordinaria
 5 días
 Si en caso de que la resolución vaya a ser desfavorable para el interesado
-No
+No. Los hechos que impulsaron el procedimiento se consideran ya acreditados
 Si
 No, si cabe recurso en vía administrativa, incluído el potestativo de reposición
 Es una especialidad del procedimiento
 Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva, compulsión sobre las personas
 Proporcionalidad, medio menos restrictivo de la libertad individual, autorización titular o judicial en caso de entrar en domicilio
 "Amenaza" de embargo. Apremiar=obligar a hacer algo prontamente. Es el medio principal en actos ejecutivos de índole económico
-Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración, y a costas del obligado. ¿No lo quieres hacer? Lo hago yo (admin)
+Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración, y a costas del obligado. ¿No lo quieres hacer? Lo hago yo (admin) pero pagas tu (interesado)
 Imposición de obligaciones pecunarias adicionales (a parte de la principal). Para forzar cumplimiento. Multas reiteradas en lapsos
 Aplicación de la fuerza sobre las personas. Obligaciones personalísimas de no hacer o de soportar. Prohibir entrada, Desplazar a otro lugar, Desahucio, Privación momentánea de libertad, vacunación obligatoria
 Es una ejecución forzosa de compulsión sobre las personas
@@ -58,7 +58,7 @@ Debe elevar al órgano competente para resolver una propuesta de resolución
 Se reduce todo a la mitad salvo los plazos de presentación de solicitudes y recursos. ( Ojo: No confundir con la tramitación simplificada)
 Se puede iniciar de las dos formas, de oficio por la propia Administración y a instancia de los interesados. Aunque en la práctica, la iniciación de oficio es muy poco habitual
 1 año desde producido el hecho o acto que motive la indemnización o se manifieste su efecto lesivo
-Además del contenido común a toda solicitud de iniciación de procedimiento, se debe especificar las lesions producidas, la presunta relación de causalidad, la evaluación económica de la responsabilidad patrimonial, si fuera posible y el momento de la lesión, junto con documentos, alegaciones e informaciones que se consideren oportunas
+Además del contenido común a toda solicitud de iniciación de procedimiento, se debe especificar las lesiones producidas, la presunta relación de causalidad, la evaluación económica de la responsabilidad patrimonial, si fuera posible y el momento de la lesión, junto con documentos, alegaciones e informaciones que se consideren oportunas
 Si, el procedimiento puede acabar antes de la resolución, cuando la sanción tiene carácter pecunario. El pago voluntario del presunto responsable, implica la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados. En sanciones pecunarias, el órgano competente aplicará reducciones de al menos el 20% sobre el importe de la sanción propuesta
 1. En la AGE: Ministro respectivo o Consejo de Ministros, 2. En CA y local: órganos correspondientes de CA o entidades de la Admin. Local, 3. En entidades de derecho público: determinados por las propias normas de su régimen jurídico
 Se puede iniciar de oficio o a solicitud del interesado

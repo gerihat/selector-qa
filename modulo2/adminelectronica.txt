@@ -14,3 +14,9 @@ Cuándo se considera practicada la notificación electrónica
 Cuándo se considera rechazada la notificación electrónica
 Si el interesado no tiene los medios electrónicos necesarios para comunicarse qué ocurre
 Requisitos mínimos que deben tener los documentos electrónicos para ser considerados válidos
+Si un interesado no dispone de los medios electrónicos necesarios, su identificacióno firma electrónica en el procedimiento administrativo puede ser válidamente realizado por cualquier empleado público?
+Quiénes pueden estar habilitados para la identificación y autenticación de ciudadados en el ámbito de la AGE y aparecer en el Registro de habilitados
+Un funcionario interino puede estar habilitado para la identificación y autenticación de ciudadanos?
+Quiénes pueden realizar copias auténticas
+Un funcionario público puede realizar copias auténticas
+Un empleado público puede realizar copias auténticas

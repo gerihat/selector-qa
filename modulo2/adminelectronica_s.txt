@@ -12,5 +12,11 @@ Que se considera rechazada
 En el Punto de Acceso General Electrónico. Y es posible para el interesado tener un servicio de alertas de notificaciones a través de aplicación móvil o e-mail
 En el momento en el que se produzca el acceso a su contenido
 Cuando la notificación electrónica sea de carácter obligatorio o expresamente elegida por el interesado y hayan pasado 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido
-El funcionario puede realizar su identificación electrónica en el procedimiento mediante el uso del sistema de firma electrónica del que disponga
+El funcionario puede realizar su identificación electrónica en el procedimiento mediante el uso del sistema de firma electrónica del que disponga. Nótese que se dice el funcionario público, no cualquier empleado público
 a. Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado. b. Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico. c. Incorporar una referencia temporal del momento en el que han sido emitido. d. Incorporar los metadatos mínimos exigidos. e. Incorporar la firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable
+No, debe ser funcionario público. No vale cualquier empleado público
+Los funcionarios de carrera, en servicio activo inscritos en el Registro Central de Personal, que dispongan de un certificado electrónico de empleado público, sin perjuicio de que los mismos puedan optar por la utilización del DNI electrónico
+No, debe ser un funcionario de carrera
+Un funcionario público habilitado y también mediante actuación administrativa automatizada
+Si, pero debe estar habilitado
+No, debe ser funcionario público. No vale cualquier empleado público

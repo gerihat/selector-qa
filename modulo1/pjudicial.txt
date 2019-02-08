@@ -22,3 +22,5 @@ Qué juzgados conocen en el orden penal del procedimiento de Habeas Corpus
 A qué juzgados corresponde autorizar, mediante auto, la entrada en los domicilios y en los restantes edificios o lugares cuyo acceso requiera el consentimiento del titular, cuando ello proceda para la ejecución forzosa de actos de la Administración
 Salvo que la ley disponga lo contrario, qué horas se considera hábiles para las actuaciones judiciales
 De qué tres categorías consta la carrera judicial
+Las sentencias se pronuncia en audiencia pública o privada?
+Por regla general, las actuaciones judiciales son privadas o públicas?

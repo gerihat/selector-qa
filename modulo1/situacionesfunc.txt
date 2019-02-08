@@ -1,5 +1,6 @@
 Enumera las situaciones en la que se puede encontrar un funcionario
 Un funcionario nombrado alto cargo de la Administración en qué situación administrativa se encuentra
+Un funcionario nombrado Secretario de Estado en qué situación administrativa se encuentra
 Un funcionario nombrado Diputado o Senador en qué situación administrativa se encuentra
 Un funcionario que desempeña cargo electivo retribuido y de dedicación exclusiva en una Corporación Local en qué situación administrativa se encuentra
 Un funcionario que realiza una misión en un org. internacional en qué situación administrativa se encuentra

@@ -1,2 +1,8 @@
 Qué es el ASCII
 Qué es UTF-8
+Qué son las TIC
+Qué son los productos y servicios TIC
+Qué es un MOOC
+Qué es WAI
+Qué es WCAG
+Que es W3C

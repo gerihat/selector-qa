@@ -2,6 +2,7 @@ La Corona es un órgano del Estado?
 Qué parte de la Constitución trata de la Corona
 Enumera los artículos que tratan de la Corona
 Quién refrenda al Rey
+El presidente del senado puede refrendar al Rey?
 Qué organismo judicial tiene potestad para enjuiciar los actos del Rey
 La reina consorte es inviolable?
 Qué funciones puede desempeñar la Reina Consorte
@@ -28,3 +29,6 @@ En caso de que se reconozca al Rey inhábil, quién es Regente
 Qué nombre recibe la firma que realiza el Presidente del Gobierno para refrendar al rey en la sanción de una ley
 Quiénes además del Rey, deben prestar su mismo juramento según el art. 61.2 de la Constitución
 Quién refrenda la sanción y promulgación de un estatuto de autonomía
+El Rey sanciona un decreto acordado en Consejo de Ministros?
+Quién tiene que ser español de nacimiento, el tutor o el regente
+El tutor nombrado por las Cortes debe ser español de nacimiento

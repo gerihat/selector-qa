@@ -1,2 +1,8 @@
 American Standard Code for Information Interchange. Es un código de representación de caracteres utilizando 8 bits, pudiendo así llegar a 256 caracteres
 8-bit Unicode Transformation Format. Es un formato de codificación de caracteres UNICODE. Especialmente recomendada para ser utilizada en correos electrónicos y páginas web
+TIC (ITC en inglés): Tecnología de la Información y Comunicación. En el ámbito empresarial y de la administración son el conjunto de tecnología a desarrollar para la automatización de las actividades de la empresa
+Son todos aquellos que incluyen tecnología de información y comunicación: Páginas web, software, hardware, etc...
+MOOC (CEMA en español): Massive Online Open Courses, Cursos en-linea masivos y abiertos dirigidos a un número amplio de participantes a través de internet
+WAI: Web Accessibility Initiative. Iniciativa para la accesibilidad en la Web. Desarrolla entre otros la WCAG, que son las directivas para la accesibilidad en la web
+WCAG: Web Content Accessibility Guidelines, Directivas para la accesibilidad en el contenido web creadas por el W3C (Consorcio de la WWW). La actual directiva es la WCAG 2.1
+W3C: World Wide Web Consortium, Consorcio WWW, desarrolla pautas y directivas para la creación de contenidos en la web

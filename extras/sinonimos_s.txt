@@ -4,7 +4,7 @@ madero
 renegar, renunciar, retractar. La víctima podía elegir entre abjurar públicamente de su postura o huir del país.
 abolir, revocar
 dejadez, pasividad, desinterés, falta de voluntad.
-bajeza, envilecimiento
+bajeza, envilecimiento, desprecio. Humillación
 cruel, áspero, agrio. Oídas tan acerbas acusaciones, ordenó prenderlos y meterlos a la tortura
 patrimonio, montón, cúmulo
 auxilio
@@ -78,7 +78,7 @@ requerimiento
 exasperar, enjorar. agravar
 agotado, muerto. Esta monarquía está cada vez más exangüe
 desmayado
-explicación, interpetación
+explicación, interpretación
 franquicia, excepción
 ilustre, egregio, conspicuo
 aliviar, descargar, eximir. El juezo exoneró a Fabio de toda culpa
@@ -171,7 +171,7 @@ tormentoso, tempestuoso
 despilfarro, derroche
 esmerado
 obligatoriedad
-manual
+manual. Notas personales o publicación con los aspectos esenciales de un documento más amplio
 viejo
 disposición anticipada, cuidado de Dios
 esencia, motivo
@@ -191,12 +191,12 @@ oscuro, misterioso
 bilateral
 fusion
 contracción
-chamuscar, tostar
+chamuscar, tostar. Usado mucho en Valencia para decir que alguién se ha quemado mucho con el sol
 razonamiento falso
 corporal. Parte material o corpórea de un ser animado. Comprobaremos el estado físico y somático del paciente
 disoluto, indecente, sucio
 evitar
-enaltecer, exaltar
+enaltecer, exaltar. Paso estado sólido a gaseoso o viceversa (inversa).
 sustituir
 pretexto, evasiva, medio
 amparar, ayudar

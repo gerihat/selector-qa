@@ -11,7 +11,8 @@ Cuál es el mínimo de senadores necesario para conformar un grupo parlamentario
 Cuántos senadores se eligen en las islas mayores. Y qué islas se consideran mayores
 Cuántos senadores se eligen en las islas que no son mayores
 Cuántos senadores se eligen en Ibiza y Formentera
-Cuántos senadores se eligen en las CA
+Cuántos senadores se eligen por cada CA
+Cuántos diputados se eligen por cada CA
 Quiénes componen la Mesa del Congreso
 Cuál es la circunscripción electoral, el municipio o la provincia?
 Cómo se eligen a los diputados
@@ -53,3 +54,4 @@ Autorizar acuerdos entre CCAA es función del Senado?
 Cómo se autorizan los acuerdos entre CCAA
 En las causas contra Diputados y Senadores qué tribunal es competente
 Qué requisito previo existe para poder imputar a un Diputado o Senador
+Diferencia entre inviolabilidad e inmunidad parlamentaria

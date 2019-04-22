@@ -3,7 +3,7 @@
 300-400
 2
 4
-350
+350 (revisar tras elecciones de 28 de mayo 2019)
 1 (cada uno)
 2 (cada uno)
 15
@@ -12,6 +12,7 @@
 1
 1 entre las dos. Son islas menores, y además ambas se consideran en este particular como una unidad
 1 por CA + 1 por cada millón de habitantes
+No existen tal elección. En todo caso sería por cada provincia en esa Comunidad Autónoma. Y serían 2 por cada provincia. Y 1 para Ceuta y Melilla.
 Presidente, 4 Vicepresidentes y 4 Secretarios
 La provincia
 Por sufragio universal, libre, igual, directo y secreto
@@ -50,6 +51,7 @@ Si. Sin embargo magistrados, jueces y fiscales en activo no. Tampoco los miembro
 Si. Pero no los altos cargos de la AGE. Los ministros son excepción
 Miembros del Tribunal Constitucional, altos cargos de la AGE a excepción de los miembros del Gobierno (ministros y secretarios de estado). Defensor del pueblo, magistrados, jueces y fiscales en activo, militares profesionales y miembros de cuerpos de seguridad en activo. Y por último miembros de juntas electorales.
 Es función de las Cortes
-Primero. A tráves de sus Estatutos, que fijarán además la correspondiente comunicación a las Cortes. Segundo. En los demás supuestos necesita la autorizadción de las Cortes que en primer lugar podrá autorizar acuerdo por mayoría de cada Cámara. Si no hay acuerdo, se configura una Comisión Mixta que presenta un nuevo texto que será votado por ambas Cámaras. Si no se aprueba, decide el Congreso por mayoría absoluta.
+Primero. A través de sus Estatutos, que fijarán además la correspondiente comunicación a las Cortes. Segundo. En los demás supuestos necesita la autorizadción de las Cortes que en primer lugar podrá autorizar acuerdo por mayoría de cada Cámara. Si no hay acuerdo, se configura una Comisión Mixta que presenta un nuevo texto que será votado por ambas Cámaras. Si no se aprueba, decide el Congreso por mayoría absoluta.
 El Tribunal Supremo
 Se requiere autorización previa del Congreso o Senado respectivamente
+Inviolabilidad: exención de responsabilidad penal durante el ejercicio de cargo público. Un parlamentario no está sujeto a responsabilidad por vertir opiniones injuriosas o calumnias en las sesiones parlamentarias. Inmunidad: Un parlamentario no puede ser detenido durante el ejercicio de su cargo, salvo en caso de flagrante delito y además sólo pueden ser procesados judicialmente bajo autorización de la cámara correspondiente

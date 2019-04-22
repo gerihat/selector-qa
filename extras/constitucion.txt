@@ -349,7 +349,7 @@ Artículo 87.1. La iniciativa legislativa corresponde al Gobierno, al Congreso y
 
 Artículo 88. Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.
 
-Artículo 89.1. La tramitación de las proposiciones de ley se regulará por los Reglamentos de las Cámaras, sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa en los términos regulados por el artícqu 87.
+Artículo 89.1. La tramitación de las proposiciones de ley se regulará por los Reglamentos de las Cámaras, sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa en los términos regulados por el artículo 87.
 89.2. Las proposiciones de ley que, de acuerdo con el artícqu 87 tome en consideración el Senado, se remitirán al Congreso para su trámite en éste como tal proposición.
 
 Artículo 90.1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste.
@@ -714,7 +714,7 @@ Artículo 162.1. Están legitimados:
 
 Artículo 163. Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspens|vos.
 
-Artículo 164.1. Las sentencias delTribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas. Las que declaren Ia inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos. 
+Artículo 164.1. Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas. Las que declaren Ia inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos. 
 164.2. Salvo que en el fallo se disponga otra cosa, subsistirá Ia vigencia de la ley en la parte no afectada por la inconstitucionalidad.
 
 Artículo 165. Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.

@@ -3,7 +3,7 @@ Independencia, exclusividad, unidad jurisdiccional, publicidad, responsabilidad,
 Libertad, igualdad, justicia y pluralismo político
 Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las diposiciones sancionadoras no favorables, responsabilidad e interdicción de la arbitrariedad de los poderes públicos, seguridad jurídica
 Es completa, ya sea propia o delegada. El municipio tiene personalidad jurídica plena
-No es delegada por ningún órgano superior. La provincia tiene personalidad jurídica propia
+No es delegada por ningún órgano superior. La provincia o el ministerio fiscal son ejemplos de entidades u órganos que tienen personalidad jurídica propia. En el caso del Ministerio Fiscal no confundir con tener independencia, ya que está sujeto al principio de dependencia jerárquica
 Sólo una. Sujeto de derecho y obligaciones (Admin. Pub)
 Del pueblo y se administra en nombre del Rey
 Que los poderes públicos estarán sujetos a la ley y nadie podrá ser condenado por delito que no eran tales en el momento de cometerlos
@@ -22,6 +22,7 @@ Los Juzgados de instrucción
 A los Juzgados de lo Conte-Admin
 desde las 8.00 de la mañana hasta la 20.00 de la tarde
 Juez, Magistrado y Magistrado del Tribunal Supremo
+Un magistrado actúa de manera conjunta con otros magistrados en un tribunal, mientras que un juez es una persona con entidad jurídica, un órgano judicial por sí mismo
 En audiencia pública y deben ser motivadas
 Por regla general, son públicas
 No, así como los fiscales. Está expresamente prohibido en la Constitución. art. 127, que regula las incompatibilidades

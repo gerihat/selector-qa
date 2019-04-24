@@ -1,8 +1,8 @@
 En el Titulo IX. Del Tribunal Constitucional, art 159-165
 12 miembros (4 congreso 3/5, 4 senado 3/5, 2 Gobierno, 2 CGPJ). El Presidente está incluído entre los 12 miembros citados
 Elegidos por 9 años, renovados 1/3 cada 3 años. No reelegido salvo que no hayan cumplido sus 3 años.
-4 congreso 3/5, 4 senado 3/5, 2 Gobierno, 2 CGPJ entre magistrados, fiscales, prof. univ, funcionarios públicos, abogados inactivos con más de 15 años de experiencia
-3/5
+4 Congreso 3/5, 4 Senado 3/5, 2 Gobierno, 2 CGPJ entre magistrados, fiscales, prof. univ, funcionarios públicos, abogados inactivos con más de 15 años de experiencia
+3/5. Los 4 que elige el Senado, son elegidos entre los previamente propuestos por las Asambleas Legislativas de las CCAA
 Ley Orgánica
 Por el pleno, para un periodo de 3 años, ratificado por el presidente del Gobierno y nombrado por el Rey.
 El vicepresidente, el letrado más antiguo o el de más edad, por ese orden
@@ -16,6 +16,7 @@ Se presenta contra leyes orgánicas, ordinarias, de bases y Tratados Internacion
 El Presidente del Gobierno, 50 diputados o 50 senadores, el Defensor del Pueblo, los órganos colegiados ejecutivos de las CCAA, y las Asambleas de las CCAA
 Contra disposiciones, actos jurídicos u omisiones de los poderes públicos. (no contra leyes) que vulneren los derechos o libertades de los artículos siguientes: 14,15-29 (derechos fundamentales), y 30 (objeción conciencia)
 Todos con interés legítimo, El Defensor del Pueblo, el Ministerio Fiscal
+Como norma general las Salas. Conocerán del recurso de amparo las secciones, cuando las Salas decidan derivarles su resolución
 3 meses
 Actos parlamentarios, sin valor de ley: 3 meses, contra disposiciones actos admin.: 20 días, contra resoluciones judiciales: 30 días, contra nombramientos: 2,3 días
 5 meses. La puede levantar o ratificar
@@ -27,3 +28,4 @@ No
 Son los votos divergentes de los miembros del Tribunal en la sentencia tomada por la mayoría
 El presidente del Tribunal Constitucional
 Un particular afectado por el mismo
+No. Los conflictos de jurisdicción entre Juzgados o Tribunales y la Administración se resuelven por un órgano colegiado en el que participan el presidente del Tribunal Supremo, cinco vocales de la Sala Conte-Admin del Tibunal Supremo y otros tres consejeros permanentes del Estado

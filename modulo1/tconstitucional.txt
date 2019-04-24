@@ -16,6 +16,7 @@ Contra qué se puede presentar el recurso de inconstitucionalidad
 Quién puede presentar el recurso de inconstitucionalidad
 Contra qué se puede presentar el recurso de amparo
 Quién puede presentar el recurso de amparo
+Quién conoce de los recursos de amparo. El Pleno, las Salas o las Secciones?
 Qué plazo hay para presentar el recurso de inconstitucionalidad
 Qué plazo hay para presentar el recurso de amparo
 Qué plazo tiene el Tribunal Constitucional para levantar una impugnación por parte del Gobierno de una disposición o resolución de una CA
@@ -27,3 +28,4 @@ Se puede presentar algún recurso contra las sentencias del Tribunal Constitucio
 Qué son los votos particulares en la sentencia de un Tribunal Constitucional
 Quién convoca las Salas del Tribunal Constitucional, el presidente del Tribunal o el presidente de la Sala
 Quién puede plantear un conflicto negativo de competencias entre el Estado y las CA, ante el Tribunal Constitucional
+El Tribunal Constitucional conoce de los conflictos de jurisdicción?

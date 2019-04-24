@@ -17,6 +17,7 @@ repetición
 contradicción de dos leyes
 consentimiento, aquiescencia
 consentimiento, concesión
+embelesar
 apropiarse, atribuirse
 entristecer
 predecir, augurar
@@ -31,6 +32,7 @@ prebenda, privilegio
 anulación, derogación
 báculo, palo. El pastor recondujo a la cabra con su cayado
 chapucero
+ayudar, contribuir
 represivo, inhibitorio. Multa coercitiva impuesta sobre el interesado en ejecución forzosa
 deducir, reunir
 arrepentimiento, contrición
@@ -48,7 +50,7 @@ acceder, respetar
 denuncia, acusación
 letal. Marx señaló la función deletérea de la economía capitalista
 ética, moral
-insipido, insulso, soso
+insipido, insulso, soso, displicente, desdeñoso
 vulnerar
 terminación
 disolver, deshacer
@@ -56,7 +58,7 @@ injuria, sátira, invectiva
 derivar
 alcoholismo. Dipsa en griego es sed
 derroche
-indiferente
+indiferente, desabrido, desdeñoso
 conciliador, comedido, moderado. Nota: ecléptico, estaría mal escrito
 universal
 evasiva, salida, subterfugio. El derecho a la libre determinación no debe ser efugio para dividir el Estado
@@ -68,6 +70,7 @@ hinchado, afectado, insistente
 apuntalar, aegurar, apoyar
 busca placer sin dolor, sibarita
 compendio, sumario, resumen, sinopsis. Leí el epítome para ver de qué se trataba el texto
+oculto, reservado. Lo contario de exotérico
 engañoso, aparente, falso
 falso, bastardo, ilegítimo. Semejantes declaraciones del Presidente invitan a un uso espurio de las Instituciones del Estado
 necedad, estupidez
@@ -82,6 +85,8 @@ explicación, interpretación
 franquicia, excepción
 ilustre, egregio, conspicuo
 aliviar, descargar, eximir. El juezo exoneró a Fabio de toda culpa
+adornar, hermosear
+Común. Que es de fácil acceso para la mente. Lo contrario de esotérico
 purgar
 imitación, reproducción, copia
 criado, recadero, testaferro
@@ -120,6 +125,7 @@ astuto, taimado
 lodo
 extenso, dilatado
 heredero, beneficiario
+abusivo. Ventajoso para una sola de las partes en un contrato. También significa relativo al león
 blandura. Al exigir el cumplimiento de los deberes o castigar las faltas
 panfleto, folleto, difamación
 usurero, prestamista
@@ -127,6 +133,7 @@ liberar
 inmovilidad, paralización. Necesitamos empleados activos y emprendedores para sacar a la empresa de este marasmo
 rótulo, etiqueta. El marbete del frasco está borroso
 crecer. Esa especie puede medrar en entornos donde perecería otra planta cualquiera
+dulce, suave. Que tiene miel
 mentiroso, falso
 obsequio
 odio al ser humano
@@ -229,6 +236,7 @@ voluntad
 foranismo, extranjerismo
 copia fotográfica
 fotocopia, reproducción
+tieso, rígido. Especialmente a causa del frío o la muerte
 grosero, inculto, basto
 establo cerdos
 falso, hipócrita, castaño

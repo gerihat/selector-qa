@@ -5,7 +5,7 @@ blue='\033[1;34m'
 endColor='\033[0m'
 
 function ayuda {
-	echo "Usage: verrespuesta <line number> <filename>.txt"
+	echo "Usage: qa <line number> <filename>.txt"
 }
 
 if [ "$#" -eq 0 ]; then

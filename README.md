@@ -119,9 +119,9 @@ Estos scripts están incluídos en la carpeta scripts, y no son necesarios para 
 	*Ejemplo ```$ verlinea 5 cederechos.txt```*
 	*mostraría la línea 5 del fichero cederechos.txt, es decir, la pregunta nº 5 de ese fichero*
 
-* **verrespuesta:** Script para mostrar la pregunta-respuesta de la línea pasada como parámetro
+* **qa:** Script para mostrar la pregunta-respuesta de la línea pasada como parámetro
 
-	*Ejemplo: ```$ verrespuesta 5 cederechos.txt```*
+	*Ejemplo: ```$ qa 5 cederechos.txt```*
 	*mostraría la respuesta correspondiente a la línea 5 del fichero cederechos.txt*
 
 *Se recomienda incluir la ruta a estos script en el PATH del sistema o del usuario para poder usarlos en cualquier directorio. Consulta cómo incluir una ruta al PATH del sistema o del usuario en la documentación de tu distribución Linux*

@@ -4,6 +4,7 @@ Qué consideramos parte del Gobierno
 Cuál podemos considerar la misión fundamental del Gobierno
 Cita las principales funciones del Gobierno según la Constitución
 Si el Vicepresidente del Gobierno cesa, cómo se elige a otro
+Si el Presidente del Gobierno cesa, también cesa el Vicepresidente?
 Quién tiene el cargo de Ministro de la Presidencia
 Cuántos Vicepresidentes del Gobierno existen en España
 Quién es el actual Vicepresidente del Gobierno
@@ -17,6 +18,7 @@ El Gobierno en funciones puede aprobar un Real Decreto Ley?
 El Gobierno en funciones puede aprobar un Real Decreto legislativo?
 El Gobierno en funciones puede someterse al control parlamentario?
 El Gobierno en funciones puede presentar las medidas del artículo 155?
+Cuándo cesa el Presidente del Gobierno, tras la convocatoria de elecciones o tras la celebración de las elecciones?
 El Presidente del Gobierno en funciones puede proponer al Rey un referéndum?
 El Presidente del Gobierno causa cese por incapacidad permanente?
 El Presidente del Gobierno causa cese por celebración de elecciones?
@@ -61,6 +63,6 @@ Se pueden disolver las Cámaras si hay una moción de censura
 Cómo se lleva a cabo la Disolución de las Cámaras planteada por el Presidente del Gobierno
 Cada cuánto está obligado el Gobierno a someterse a las interpelaciones y preguntas
 Diferencia entre interpelaciones y preguntas
-Quién puede asistir al Consejo de Ministros además de Predisente y Ministros
+Quién puede asistir al Consejo de Ministros además de Presidente y Ministros
 El Gobierno es un órgano colegiado?
 Qué es la cláusula de salvaguarda?

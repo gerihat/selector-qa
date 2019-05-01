@@ -14,13 +14,13 @@ amanecer
 destino
 subasta, licitación, compraventa
 repetición
-contradicción de dos leyes
+contradicción de dos leyes. -nomia es un sufijo para indicar ley o gobierno (economía, autonomía...)
 consentimiento, aquiescencia
 consentimiento, concesión
 embelesar
 apropiarse, atribuirse
 entristecer
-predecir, augurar
+predecir, augurar. Patrocinar, favorecer
 malo, perverso, torcido, siniestro
 aventurado, aciago
 tosca
@@ -35,11 +35,11 @@ chapucero
 ayudar, contribuir
 represivo, inhibitorio. Multa coercitiva impuesta sobre el interesado en ejecución forzosa
 deducir, reunir
-arrepentimiento, contrición
+arrepentimiento, contrición. Estar compungido
 preeminente, ilustre, insigne
 habitual
 acción de constreñir. Obligar, precisar, oprimir, limitar, apretar y cerrar.
-arrepentimiento, compunción
+arrepentimiento, compunción. Contricción estaría mal escrito
 arrepentido, compungido
 camaradas
 correduría, comisión
@@ -81,7 +81,7 @@ requerimiento
 exasperar, enjorar. agravar
 agotado, muerto. Esta monarquía está cada vez más exangüe
 desmayado
-explicación, interpretación
+explicación, interpretación, especialmente de un texto bíblico
 franquicia, excepción
 ilustre, egregio, conspicuo
 aliviar, descargar, eximir. El juezo exoneró a Fabio de toda culpa
@@ -111,7 +111,7 @@ oprobio, afrenta, deshonra
 innoble. El Parlamento Europeo lucha activamente en la lucha contra esta ignominiosa práctica consistente en utilizar niños en conflictos armados
 relación, consecuencia, nexo
 rogar, suplicar. Las sesiones del Congreso se inauguracion depués de oficiarse una misa para impetrar la ayuda divina
-trabajo, esfuerzo
+se aplica a trabajo, esfuerzo para indicar que es muy intenso
 inico  actuación legal
 funesto
 vanidad
@@ -123,7 +123,7 @@ estandarte, bandera, enseña
 conciso, breve
 astuto, taimado
 lodo
-extenso, dilatado
+extenso, dilatado. Recordar dar la lata, explicación lata de algo
 heredero, beneficiario
 abusivo. Ventajoso para una sola de las partes en un contrato. También significa relativo al león
 blandura. Al exigir el cumplimiento de los deberes o castigar las faltas
@@ -151,7 +151,7 @@ abominable, odioso, execrable
 deshonra, afrenta, ignominia
 resolver, solventar, arreglar, bordear, esquivar. Ana siempre trata de orillar los conflictos
 fundamento, base
-fardo
+fardo. Empacar es la acción de coloca en pacas
 amplificación, comentario, interpretación
 sofisma, argucia, razonamiento falso
 exaltación, exacerbación
@@ -159,9 +159,9 @@ atenuar
 voto popular a una persona o una ley
 dinero, patrimonio
 dinero, caudal, hacienda
-Inculto
+inculto
 decisivo, concluyente, urgente
-traidor
+grande, heroico, ínclito en grado sumo
 declinar, decaer. Juramento en falso
 empeñar, hipotecar
 fiebre
@@ -173,7 +173,7 @@ ilustre, célebre
 heredad, hacienda, posesión
 superior convento. El Papa se reunirá mañana con el prelado en Ciudad del Vaticano
 sacerdote
-primitivo, original
+primitivo, original, puro
 tormentoso, tempestuoso
 despilfarro, derroche
 esmerado
@@ -184,11 +184,11 @@ disposición anticipada, cuidado de Dios
 esencia, motivo
 humillar
 separado
-almacén
+almacén. Recoba con b es sólo un apellido
 rentar
 plural de Referéndum
 voto popular a una ley
-oponer, rebatir, impugnar
+oponer, rebatir, impugnar. Refutar una teoría es presentar argumentos para desmentir u oponerse a la misma
 emular, imitar
 sofreir, acometer, sobrevenir
 perfeccionar
@@ -196,13 +196,13 @@ significado
 vejez
 oscuro, misterioso
 bilateral
-fusion
+fusión
 contracción
 chamuscar, tostar. Usado mucho en Valencia para decir que alguién se ha quemado mucho con el sol
 razonamiento falso
 corporal. Parte material o corpórea de un ser animado. Comprobaremos el estado físico y somático del paciente
 disoluto, indecente, sucio
-evitar
+evitar. Decir algo de soslayo, es decirlo de pasada, evitando alguna dificultad
 enaltecer, exaltar. Paso estado sólido a gaseoso o viceversa (inversa).
 sustituir
 pretexto, evasiva, medio
@@ -214,7 +214,7 @@ prodigio
 tuberculoso, hético
 nombres de lugares
 amenazadora
-veneno
+veneno, ponzoña. Viene del latín toxicum
 corral
 abundante, fecundo, fértil
 devoción, fervor
@@ -226,7 +226,7 @@ enfermizo, caduco, viejo
 extenso
 poeta, rapsoda, juglar
 capricho, versatilidad, inestabilidad
-inconstante, mudable
+inconstante, mudable. Aparecen en la Biblia: No te entremetas con los veleidosos
 vendible. El valor venal de un coche es de 100.000 €, precio que podemos percibir por el coche tras su venta o indemnización tras siniestro
 hermosura
 nativo, local. Lengua vernácula o lengua nativa

@@ -5,6 +5,7 @@ Protocolo de comunicación entre computadoras de una red
 Qué es el servicio DHCP
 Qué protocolos está usando una dirección web que empieza por https://
 Qué es un ISP
+Cómo es una dirección IPv4
 Cómo es una dirección IPv6
 Con qué otro nombre se le conoce a las direcciones IPv6
 Cómo se busca por tipo de fichero en Google

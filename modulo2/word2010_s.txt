@@ -4,7 +4,7 @@ Calibri, 11
 Normal.dotm
 Sangría izquierda, derecha y las especiales: Primera línea, Sangría francesa
 .exportedUI
-Si. Por defecto aparece arriba a la derecha. Pero a través de Archivo-Opciones-Barra de herramientas de acceso rápido, podemos activar la opción Mostrar la barra de herramientas de acceso rápido por debajo de la cinta de opciones.
+Si. Por defecto aparece arriba a la izquierda. Pero a través de Archivo-Opciones-Barra de herramientas de acceso rápido, podemos activar la opción Mostrar la barra de herramientas de acceso rápido por debajo de la cinta de opciones.
 Desde la ficha Vista o la ficha Programador (esta segunda ficha esta deshabilitada por defecto)
 En la barra de herramientas de acceso rápido
 Diseño y Presentación (herramientas de tabla)

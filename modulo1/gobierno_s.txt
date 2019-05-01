@@ -4,10 +4,11 @@ El Presidente, Vicepresidentes (si los hay), Los ministros y los demás miembros
 La política interior y exterior
 Política interior y exterior, Administración civil y militar, defensa del Estado, función ejecutiva, potestad reglamentaria
 Puede o no elegirse, lo propone el propio Presidente al igual que a los ministros y lo nombra el Rey. Si no eligiera alguno, se extingue el órgano
+Si
 El Vicepresidente del Gobierno
 Pueden existir 0,1,2,3
-Carmen Calvo (legislatura 2016-2018/moción PSOE-2020)
-Tras elecciones, pérdida de confianza, dimisión/fallecimiento presidente
+Carmen Calvo (legislatura 2016-2018/moción PSOE-2018)
+Tras elecciones hasta toma de posesión del nuevo Gobierno, pérdida de confianza, dimisión/fallecimiento presidente
 Aprobar proyecto de ley de presupuestos, presentar proyectos de ley. Y el presidente no puede proponer disolución Cámaras, presentar cuestión de confianza y proponer referéndum
 Si, el Gobierno en funciones puede presentar Reales Decretos Ley, y al ser el estado de excepción una situación de urgencia o necesidad estaría habilitado. Pero no podría presentar un proyecto de ley orgánica para la regulación de esos estados
 No, sólo Reales Decreto Ley (urgencia o necesidad)
@@ -17,9 +18,10 @@ Si
 No las funciones delegadas legislativas quedan en suspenso. No confundir con Real Decreto Ley que si lo pueden presentar el Gobierno en funciones al ser una medida de urgencia o interés público
 Tema que se ha discutido en el Tribunal Constitucional por haberse negado el Gobierno de Rajoy en funciones a tal control precisamene por estar en funciones
 Si. El Gobierno en funciones desempeña el despacho ordinario de asuntos públicos y fuera de eso cualquier otra medida en casos de urgencia debidamente acreditada o por razones de interés general. El artículo 155, precisamente aduce a este particular: "...cumpliere las obligaciones de la Constitución u otras leyes le impongan o actuare de forma que atente gravemente al interés general de España"
+Tras la celebración de las elecciones
 No
 No
-Si
+Si. Específicamente tras la celebración de elecciones, no en la convocatoria
 Si
 No
 No
@@ -31,9 +33,9 @@ Por RD del C.Ministros a propuesta del Presidente
 Las funciones que se atribuyen a la Comisión, el miembro del Gobierno que asume la presidencia de la comisión, el miembro de la Comisión al que corresponde la Secretaría de la misma
 Secretas
 Secretas
-El Ministro de la Presidencia y para las Administraciones Territoriales
+El Ministro de la Presidencia (Vicepresidente del Gobierno) y para las Administraciones Territoriales
 Si, siempre que sean convocados
-Para Asuntos Económicos, Consejo de Seguridad Nacional, Para Asuntos de Inteligencia, Para Política Científica y Tecnológica, Para Política de Igualdad, Para Asuntos Culturales
+Para Asuntos Económicos, Consejo de Seguridad Nacional, Para Asuntos de Inteligencia, Para Política Científica y Tecnológica, Para Política de Igualdad, Para Asuntos Culturales (2018-19, PSOE-moción de censura)
 Funciones administrativas. No puede delegar las atribuídas al C. Ministros por Constitución, los nombramientos y separación de altos cargos, ni las prohibidas de delegación por ley
 No, puesto que la potestad reglamentaria es atribuida al Gobierno por Constitución y por tanto no es delegable
 Secretario de Estado, Comisión General de Secretarios de Estado y Subsecretarios, Secretariado del Gobierno, Gabinetes
@@ -50,7 +52,7 @@ Son nombrados por el Rey a propuesta del Presidente del Gobierno
 Tras dimisión o fallecimiento del Presidente, por pérdida de confianza y tras las elecciones generales
 Fuciones gubernamentales atribuidas por el Presidente
 Ante el Congreso
-Sí, ante la Sala de lo Penal del Tribunal Supremo
+Sí, ante la Sala II de lo Penal del Tribunal Supremo
 Sí, si así lo propone 1/4 de los miembros del Congreso y se aprueba por mayoría absoluta
 Sí, si así lo propone 1/4 de los miembros del Congreso y se aprueba por mayoría absoluta
 Es planteada por el Presidente del Gobierno al Congreso ante una situación concreta tras deliberación del Consejo de Ministros. Y el Congreso la otorga por mayoría simple. Si no, el Presidente debe presentar su dimisión al Rey

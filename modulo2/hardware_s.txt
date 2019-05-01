@@ -3,4 +3,4 @@ Son circuitos integrados que se encargan de comunicar los distintos elementos de
 UEFI vino a sustituir BIOS, siendo ambos las tecnologías de firmware que contienen las instrucciones que controlan las operaciones de inicio de componentes hardware del equipo. UEFI añadió entre otras cosas la posibilidad de arranque seguro (Secure Boot en Windows 10), interfaz gráfica o discos duros de más de 2TB
 MBR es el esquema de particiones de disco que se utiliza o utilizaba en las placas con BIOS
 GPT es el esquema de particiones de disco que se utiliza en las placas UEFI, en sustitución de los esquemas MBR usado en placas BIOS
-Podemos clasificarlos por el tipo de conexión A,B o el nuevo C. O por su velocidad, 1.1/2.0/3.0
+Podemos clasificarlos por el tipo de conexión A,B o el nuevo C. O por su velocidad, 1.1/2.0/3.0/3.1

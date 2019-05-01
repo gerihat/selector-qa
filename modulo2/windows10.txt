@@ -21,12 +21,12 @@ En qué esta basado el nombre Cortana de Windows 10
 Desde qué versión está disponible Cortana en Windows
 Cómo se copia un fichero mediante el ratón en el Explorador de Windows
 Cómo se mueve un fichero mediante el ratón en el Explorador de Windows
-Cómo se crear un enlace a un fichero mediante el Explorador de Windows
+Cómo se crea un enlace a un fichero mediante el Explorador de Windows
 Que extensión y formato por defecto tienen los fichero de Wordpad
 Cómo se llama la herramienta de virtualización de Windows 10
 Cómo se inicia el modo seguro en Windows 10
 Qué es Secure Boot
 Para qué sirve BCEedit
 Se puede ejecutar sistemas de virtualización cómo Hyper-V y VirtualBox al mismo tiempo?
-Qué información podemos encontrar en la opción "Este equpo" del Explorador de Windows
+Qué información podemos encontrar en la opción "Este equipo" del Explorador de Windows
 Qué opción de la Configuración nos muestra información detallada de la versión de Windows 10 instalada

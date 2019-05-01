@@ -1,6 +1,6 @@
 Cómo se crean, modifican y suprimen los Ministerios
 Cómo se crean, modifican y suprimen las Secreterías de Estado
-Quién nombra a los ministros
+Quién nombra a los Ministros
 Cómo se nombran y cesan a los Secretarios de Estado
 Cómo se nombran y cesan a los Subsecretarios
 Cómo se nombran y cesan a los Secretarios Generales
@@ -9,7 +9,7 @@ Cómo se nombran y cesan a los Subdirectores Generales
 Cómo se nombran y cesan a los Delegados de Gobierno
 Cómo se nombran y cesan a los Subdelegados de Gobierno
 Cómo se nombran y cesan a los Directores Insulares
-Quién propone a los ministros
+Quién propone a los Ministros
 Quién propone a los Secretarios de Estado
 Quién propone a los Subsecretarios
 Quién propone a los Secretarios Generales

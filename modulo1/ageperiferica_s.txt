@@ -1,6 +1,6 @@
 Nombrados por RD. C. Ministros a propuesta del Presidente del Gobierno
 Por resolución del Delegado del Gobierno en Libre Designación
-Nombrados por Delegado del Gobierno mediente Libre Designación entre funcionarios A1
+Nombrados por Delegado del Gobierno mediante Libre Designación entre funcionarios A1
 Del Presidente del Gobierno
 Del Delegado del Gobierno en la CCAA
 El Subdelegado del Gobierno que designe o el de la provincia Sede. En el caso de CCAA uniprovinciales la suplencia la realiza el Secretario General
@@ -20,3 +20,4 @@ El Subdelegado del Gobierno que designe, y en su defecto, el de la provincia en 
 Al Secretario General
 Subdelegaciones de Gobierno, Direcciones insulares, Secretarías Generales, Gabinetes y servicios integrados
 El Delegado del Gobierno
+El Subdelegado del Gobierno

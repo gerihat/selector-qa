@@ -2,9 +2,10 @@ NETIQUETA
 DNS
 Cookie
 TCP/IP
-Proporciona IPs automáticas a los dispositivos conectados a la red
+Dynamic Host Configuration Protocol. Proporciona IPs automáticas a los dispositivos conectados a la red
 HTTP y SSL
 Es un Proveedor de Servicios de Internet (Internet Service Provider)
+Son 4 octetos de 8 bits, puedient así alcanzar direcciónes de 32 bits (Ej: 192.168.1.1)
 Son 8 octetos de 16 bits, pudiendo así alcanzar direcciones de 128 bits (IPv4 utiliza direcciones de 32 bits)
 IPng (IP next generation)
 filetype:txt <búsqueda>
@@ -20,5 +21,5 @@ POP
 SSL
 ICMP: Internet Control Message Protocol, Protocolo de Mensajes de Control. A través de este protocolo se realiza el control y notificación de errores del protocolo IP. Los Ping son mensajes ICMP
 DoS: Denial of Service. Es un ataque de Denegación de Servicio, en el cual se cae un servicio, estando no disponible por exceso de peticiones al mismo
-4xx. 400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found
-5xx. 500 Internal Server Error, 501 Not Implemented, 502 Bad Gateway, 503 Service Unavailable, 504 Gateway Timeout, 509 Banwidth Limit Exceeded
+4xx. 400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found. Los errores de servidor serían del tipo 5xx
+5xx. 500 Internal Server Error, 501 Not Implemented, 502 Bad Gateway, 503 Service Unavailable, 504 Gateway Timeout, 509 Banwidth Limit Exceeded. Los errores de cliente serían del tipo 4xx

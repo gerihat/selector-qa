@@ -24,10 +24,10 @@ Arrastrar el fichero a su nueva ubicación. Si la nueva ubicación es otra unida
 ALT+Arrastrar el fichero a su nueva ubicación
 .rtf Richt Text Format
 Hyper-V
-Hay que entrar con Configuración de Windows>Actualización y Seguridad>Recuperación>Inicio Avanzado>Reinicar ahora. Una vez que se reinicie eligir la opción Solucionar problemas>Opciones avanzadas>Configuración de inicio>Reiniciar. Cuando se vuelva a Reiniciar elegir la opción Modo seguro o Modo seguro con funciones de red
+Hay que entrar con Configuración de Windows>Actualización y Seguridad>Recuperación>Inicio Avanzado>Reiniciar ahora. Una vez que se reinicie eligir la opción Solucionar problemas>Opciones avanzadas>Configuración de inicio>Reiniciar. Cuando se vuelva a Reiniciar elegir la opción Modo seguro o Modo seguro con funciones de red
 Es un sistema de arranque seguro, que sólo permite ejecutar software firmado en el arranque del sistema. Incorporado en las placas UEFI, a través de Microsoft.
 Es una herramienta de línea de comandos que permite administrar datos de la configuración de arranque (BCD)
-No simultáneamente. Ambos hacen uso del conjunto de instruccciones de virtualización del microprocesador (INTEL-VT o AMD-V) y esto sólo lo puede usar uno, de forma que abría que desactivar Hyper-v para poder usar VirtualBox (BCDedit /set hypervisorlaunchtype off)
+No simultáneamente. Ambos hacen uso del conjunto de instruccciones de virtualización del microprocesador (INTEL-VT o AMD-V) y esto sólo lo puede usar uno, de forma que habría que desactivar Hyper-v para poder usar VirtualBox (BCDedit /set hypervisorlaunchtype off)
 Carpetas por defecto y Unidades de disco
 Sistema y Acerca de
 

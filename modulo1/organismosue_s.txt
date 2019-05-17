@@ -1,6 +1,6 @@
 Consejo Europeo, Consejo de la Unión Europea, Comisión Europea, Parlamento Europeo, Tribunal de Cuentas, Tribunal de Justicia, Tribunal General y Banco Central Europeo
 Formado por Jefes de Estado y de Gobierno, el Presidente del Consejo Europeo, el de la Comisión, el Alto Representante de Asuntos Exteriores y Política de Seguridad. Fija las directrices políticas de la UE y atiende asuntos de especial trasncendencia
-Formado representantes de Estados de rango ministerial, representa a los Estados miembros en sus intereses nacionales. Aprueba legilsación europea y presupuestos europeos junto al Parlamento, coordina políticas económicas de los Estados
+Formado representantes de Estados de rango ministerial, representa a los Estados miembros en sus intereses nacionales. Aprueba legislación europea y presupuestos europeos junto al Parlamento, coordina políticas económicas de los Estados
 También llamado, Colegio de Comisarios, y apodada "Guardiana de los Tratatos". Representa los intereses de la Unión Europea en su conjunto. Únicos habilitados para proponer legislación. Insitución ejecutiva. Cada comisario tendrá su cartera de competencias
 Es el órgano de representación ciudadana de la Unión Europea. Junto con el Consejo, aprueba legislación y presupuesto de la UE. Representantes elegidos por sufragio universal, directo y secreto. Realiza control democrático de las instituciones EU
 Órgano de control fiscal y económico de la UE
@@ -35,3 +35,9 @@ La Comisión Europea
 El Parlamento Europeo y el Consejo
 Es un órgano informal que reúne mensualmente a los ministros de economía y finanzas de la zona Euro, al presidente del Banco Central Europeo y al comisario de asuntos económicos, para analizar la eurozona, adoptar conclusiones y poner en común políticas y estrategias económicas
 Por consenso
+El Consejo Europeo
+Presidente Mesa, 14 Vicepresidentes y 5 cuestores. Durante 2 años y medio
+25 diputados perteneciente a 7 Estados. Si no se llega al mínimo se puede autorizar la formación de un grupo político por autorización del Presidente del Parlamento si reúnen 1/5 de los Estados y tienen +1 año de existencia
+6 diputados
+96 escaños. España tiene 54
+750 escanos + Presidente

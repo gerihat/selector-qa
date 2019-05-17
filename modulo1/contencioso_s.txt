@@ -4,7 +4,7 @@ Si
 No
 2 meses
 6 meses
-10 días si había requerimiento previo de 10 días, o 20 días no lo había requerimiento previo
+10 días si había requerimiento previo de 10 días, o 20 días si no había requerimiento previo
 2 meses
 2 meses
 2 meses a contar desde el día siguiente del vencimiento de los plazos (3 meses o 1 mes)

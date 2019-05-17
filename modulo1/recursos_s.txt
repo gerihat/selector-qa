@@ -1,7 +1,7 @@
 Las resoluciones administrativas (no las disposiciones), los actos de trámite si deciden sobre el fondo del asunto, dan lugar a indefensión o perjuicio irreparable o suponen la imposibilidad de continuar procedimiento
 Id recurrente, acto que se recurre y razón, lugar, fecha, firma, órgano al que se dirige el recurso
 1. Se presenta ante órgano incompetente, cuando el competente perteneciera a otra Admin. Pub., 2. Carecer de legitimación el recurrente, 3. Tratarse de un acto no susceptible de recurso, 4. Haber transcurrido el plazo para la interposición del recurso, 5. Carecer el recurso manifiestamente de fundamento
-No, salvo que la ejecución cause perjuicio irreparable, impugnación de causas de nulidad de pleno derecho, o ha pasado 1 mes sin decísión sobre la impugnación
+No, salvo que la ejecución cause perjuicio irreparable, impugnación de causas de nulidad de pleno derecho, o ha pasado 1 mes sin decisión sobre la impugnación
 Si pueden aportar documentación y presentar alegaciones en un plazo de 10-15 días
 10 días
 Tramitar el recurso, siempre que se deduzca su verdadero carácter
@@ -12,8 +12,8 @@ Recursos de alzada
 1 mes para acto expreso o desde el día siguiente al silencio administrativo en actos no expresos
 3 meses, si pasa el plazo, el recurso es desestimado. Pero si el recurso se presentó contra un silencio negativo, el recurso es estimado
 El superior jerárquico del órgano que dictó el acto que se impugna
-3 meses. Es el mimso plazo que se requiere para dictar resolución.
-Ante el mismo órgano que haya dictado. Y también a ante él se recurre.
+3 meses. Es el mimso plazo que se requiere para dictar resolución
+Ante el mismo órgano que haya dictado
 Recurso potestativo de reposición e impugnar ante contencioso-administrativo una vez que el de reposición haya sido resuelto o desestimado presunta
 1 mes para acto expreso o desde el día siguiente al acto presunto. Si fin plazo, solo se puede recurrir a conte-admin
 1 mes

@@ -5,8 +5,9 @@ Cuáles son los requisitos para la acumulación de procedimientos
 En una denuncia de una persona que además es infractor junto a otros que le ocurre
 Qué debe tener una solicitud de iniciación de procedimiento por un interesado
 Si una solicitud de iniciación no tiene los requisitos exigidos en plazo se puede subsanar
-Qué es una declaración responsable
-Qué es una Comunicación
+Qué es una Declaración responsable
+Qué es una Comunicación previa
+Diferencia entre Declaración responsable y Comunicación previa
 Enumera los pasos que pueden existir en la fase de instrucción del procedimiento
 Cuál es el plazo del periodo de prueba
 Cuál es el plazo del trámite de audiencia
@@ -41,6 +42,7 @@ Qué puede hacer el interesado si la administración decide de oficio la tramita
 Qué plazo se tiene de Alegaciones en la tramitación simplificada
 Existe trámite de audiencia en los procedimientos con tramitación simplificada?
 Existe periodo de prueba en los procedimientos con tramitación simplificada?
+En qué consiste la tramitación de urgencia
 Un acto de ejecución material se puede suspender?
 Un acto de ejecución material de naturaleza sancionadora es de directa aplicación?
 El procedimiento sancionador es una especialidad del procedimiento o un procedimiento especial

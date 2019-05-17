@@ -7,6 +7,7 @@ ID interesado/representante, medio electrónico o no para notificaciones, hechos
 Si, en 10 días
 Es el documento por el cual se manifiesta, bajo su responsabildiad, que cumple los requisitos en la normativa vigente para el reconocimiento o ejercicio de un derecho o factultad, y que dispone de la documentación que lo acredita, que la proporcionará a la Administración si asi lo pide y que jura mantener el cumplimiento de todo lo anterior
 Es el documento por el cual un interesado pone en conocimiento de la administración sus datos de identificación y demás requisitos exigibles para el ejercicio de un derecho o el inicio de una actividad. Si se incurre en falsedad o inexactitud, se considera que el interesado no continúa el procedimiento
+Dependen de la naturaleza del derecho o la actividad que se quiere ejercer. Una Declaración responsable supone afirmar que se cumplen con licencias y permisos de mayor grado que en una Comunicación previa, normalmente destinada a ejercicio de actividad o derecho de menor calado
 Actos de Instrucción, Alegaciones, Periodo de prueba, Trámite de audiencia, Información pública
 10-30 días el periodo normal y el instructor puede abir otro periodo extraordinario de 10 días
 10-15 días y es prescindible
@@ -30,7 +31,7 @@ Falta de documentación, Pronunciamiento necesario de la UE, existe procedimient
 1. Por requerimiento de otra Administración Pública porque un acto considera que es ilegal y ese acto es base para sus competencias. 2. Por actuaciones complementarias. 3. Por recusación del interesado
 Si cuando falten medios, y el plazo no puede ser superior al establecido para la tramitación del propio procedimiento. No cabe recurso contra la ampliación
 La decisión (motivada en su caso) y los recursos admisibles (órgano para presentarlos y plazos)
-No, la debe aceptar de plano, salvo que terceros interesados pidan la continuación en 10 días o por interés general
+No, la debe aceptar de plano, y el el procedimiento finaliza salvo que terceros interesados pidan la continuación en 10 días o por interés general
 El interesado pierde el derecho al referido trámite
 En procedimiento iniciados por el interesado, paralizados por su culpa y que hayan pasado 3 meses desde el aviso de caducidad. En procedimiento sancionadores sin resolución en plazo
 Si, si no prescribe y se añaden los actos y trámites que se mantienen igual en el antiguo.
@@ -41,6 +42,7 @@ Puede negarse y por tanto seguir la tramitación ordinaria
 5 días
 Si en caso de que la resolución vaya a ser desfavorable para el interesado
 No. Los hechos que impulsaron el procedimiento se consideran ya acreditados
+Ojo, no confundir con tramitación simplificada. La tramitación de urgencia se realiza de oficio o a petición del interesado y por razones de interés público. Los plazos del procedimiento ordinario equivalente se reducen a la mitad, salvo los relativos a la presentación de solicitudes y recursos y no cabe recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia
 Si
 No, si cabe recurso en vía administrativa, incluído el potestativo de reposición
 Es una especialidad del procedimiento

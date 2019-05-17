@@ -27,7 +27,7 @@ Sede del Banco Central Europeo
 Qué Consejos son de obligatoria existencia dentro del Consejo de la UE
 Qué es el COREPER
 Quién nombra a los Vicepresidentes de la Comisión
-Qué organización asume la representación exterior de la Unión Europea, excepo la política exterior y seguridad común
+Qué organización asume la representación exterior de la Unión Europea, excepto la política exterior y seguridad común
 Cita los órganos consultivos del Consejo Europeo
 Cuánto dura el mandato de los Jueces del Tribunal de Justicia
 Quién nombra al Alto Representante para Asuntos Exteriores y Política de Seguridad
@@ -35,3 +35,9 @@ Qué órgano encarna por excelencia los intereses de la Unión Europea
 Quién puede crear los Tribunales Especializados adjunto al Tribunal General
 Qué es el Eurogrupo
 Cómo se pronuncia el Consejo Europeo, excepto cuando los Tratados dispongan otra cosa
+Qué organismo no tiene función legislativa alguna
+Cómo es la composición de la Mesa del Parlamento Europeo
+Cuál es el número mínimo de diputados necesarios en el Parlamento Europeo para formar grupo político
+Cuál es el número mínimo de diputados por Estado en el Parlamento Europeo
+Cuál es el número máximo de escaños por Estado en el Parlamento Europeo
+Cuántos escaños como máximo tiene el Parlamento Europeo

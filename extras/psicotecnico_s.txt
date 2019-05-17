@@ -1,0 +1,3 @@
+Se divide el número a repartir entre la suma de los números destinos, y se multiplica por cada número. Ej: (1200/12+14+20)*12 para calcular cuanto le pertenece a 12
+3.450 euros. Para el 10% quitamos la última cifra
+345 euros. Para el 1% quitamos las dos últimas cifras. La regla de tres sería 100->1, 34500->x -->  34500*1/100

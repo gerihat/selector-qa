@@ -1,3 +1,37 @@
 Cómo se distribuye de forma proporcional una cantidad entre varios números.  Ej: Repartir 1200 entre 12, 14 y 20
 10% de 34.500 euros
 1% de 34.500 euros
+x/0.25 equivale a
+x*0.25 equivale a
+x/0.5 equivale a
+x*0.5 equivale a
+Qué es fracción propia y fracción impropia
+Qué es fracción impura
+Cómo se halla el máximo común divisor
+Cómo se halla el mínimo común multiplo. 3/8 + 5/24 + 7/36
+Cómo harías esta operación: 384,5/23
+Cómo harías esta operación: 872/2,15
+Cómo harías esta operacion: 400,015/0,16
+Cómo se calcula (a+b)^2. Cuadrado de una suma
+Cómo se calcula (a+b)*(a-b). Producto de una suma por una diferencia
+Cómo se calcula a^x*a^y. Multiplicación de potencias de misma base y exponente distinto
+Cómo se calcula a^x:a^y. División de potencias de misma base y exponente distinto
+Cómo se calcula a^x*b^x. Multiplicación de potencias de distinta base y exponente igual
+Cómo se calcula a^x:b^x. División de potencias de distinta base y exponente igual
+Cómo se calcula (a*b)^x. Potencia de un producto
+Cómo se calcula (a^x)^y. Potencia de una potencia
+Cómo se calcula 0,003^2. Potencia de un número decimal
+Fórmula del interés simple
+Fórmula para hallar el Capital. ¿Cuál es el Capital que, colocado al 7% durante 4 años, ha producido un interés de 98.107€?
+A cuántos metros equivale un miriámetro (1 mam)
+A cuántos metros equivale un hectómetro (1 hm)
+A cuántos metros cuadrados equivale un hectómetro cuadrado (1 hm^2)
+A cuántos metros cúbicos equivale un hectómetro cúbico (1 hm^3)
+A cuántos metros cuadrados equivale una hectárea (1 ha)
+A cuánto equivale 1 litro en volumen
+A cuánto equivale 1 centímetro cúbico (1 cm^3) en medidas de capacidad
+Cuántos kg es un quintal (qn)
+Cuántos kg es un litro de agua
+Cómo se calcula una regla de tres inversa. Ej: Una fuente que arroja 200 l/min tarda 375 min en llenar un estanque ¿Cuánto tardaría si su caudal fuera de 125 l/min?
+Fórmula del reparto proporcional. Repartir 100€ entre dos personas con 5 y 8 años de antigüedad en la empresa
+Fórmula de una ecuación de segundo grado

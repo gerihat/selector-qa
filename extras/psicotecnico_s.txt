@@ -1,3 +1,37 @@
 Se divide el número a repartir entre la suma de los números destinos, y se multiplica por cada número. Ej: (1200/12+14+20)*12 para calcular cuanto le pertenece a 12
 3.450 euros. Para el 10% quitamos la última cifra
 345 euros. Para el 1% quitamos las dos últimas cifras. La regla de tres sería 100->1, 34500->x -->  34500*1/100
+x*4
+x/4
+x*2
+x/2
+fracción propia es aquella en la que el numerador es menor que el denominador y por tanto vale menos que 1. Fracción impropia es aquella en la que el numerador es mayor que el denominador y por tanto vale más que 1
+fracción impura es aquella en la que el numerador es múltiplo del denominador y por tanto equivale a un número entero
+Descomponer en factores primos y escoger los de menor exponente comunes. 120=2^3*5*3 180=2^2*5*3^2 m.c.d.=2^2*5*3=60
+Descomponer en factores primos y escoger los de mayor exponente comunes y no comunes. 8=2^3 24=2^3*3 36=2^2*3^*2 m.c.m=2^3*3^2=72
+Se divide como si fueran enteros y se pone la coma al bajar la primera cifra decimal
+Se elimina la coma del divisor y se pone tantos ceros en el dividendo como cifras decimales haya: 87200/215
+Igualar con ceros ambos números. Primero quitar coma en el dividendo y poner correr la coma en el divisor y posteriormente si el divisor sigue siendo decimal, quitar la coma y poner ceros en el dividendo: 400015/160
+a^2+b^2+2ab
+a^2-b^2
+a^(x+y). Se suman los exponentes
+a^(x-y). Se restan los exponentes
+(a*b)^x
+(a:b)^x
+a^x*b^x. Lo mismo para la división
+a^(x*y). Se multiplican los exponentes
+0,000009. Se calcula la potencia como si fuera entero y se separan con una coma tantas cifras como expresa la multiplicación de la potencia por las posiciones decimales: 2*3=6. Por tanto el resultado debe tener 6 cifras decimales
+I=(c*r*t)/100, donde c=capital, r=rédito o tanto por ciento, t=duración del préstamo expresado en años. Aunque si vienen expresado en meses podemos poner en el denominador 100*12
+C=(0,601*I)/(r*t). C=(0,601*98.107)/(7*4)
+10.000 metros
+100 metros
+10.000 metros cuadrados. Se realiza la conversión de 100 en 100
+1.000.000 metros cúbicos. Se realiza la conversión de 1.000 en 1.000
+1 hectárea es 1 hectómetro cuadrado y por tanto 10.000 metros (sería por ejemplo un área cuadrada de lado 100m)
+1 decímetro cúbico (1 dm^3)
+1 mililitro (1 ml)
+100 kg
+1 kg si tomamos como referencia la densidad del agua (1kg/l)
+El planteamiento lo ponemos como en una regla de tres directamente proporcional: 200->375, 125->x pero en vez de cruzar, ponemos como divisor el que está al lado de la x. Asi por tanto x=(200*375)/125
+Para cada uno sería: x1=(100*5)/(5+8), x2=(100*8)/(5+8)
+x=(-b+-raiz(b^2-4ac))/2a

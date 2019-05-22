@@ -6,7 +6,7 @@ Requiere autorización del interesado
 nombre, e-mail, dirección, IP, DNI, matrícula, teléfono, fecha nac, imágenes, huellas, voz, discapacidad, estado salud
 Los relativos a la salud, afiliación política, asociación sindical, datos genéticos
 Pueden llegar hasta los 20 millones o incluso un 4% sobre la facturación
-Agencia Estatal de Protección de Datos
+Agencia Española de Protección de Datos (AEPD)
 Vasca y catalana
 Derechos ARCO (Acceso, Rectificación, Cancelación, Oposición), Transparencia e Información, Portabilidad, Limitación del Tratamiento, Supresión u Olvido
 Acceso, Rectificación, Cancelación, Oposición
@@ -15,3 +15,10 @@ El reglamento cita los 16 años, pero cada país puede establecer un mínimo que
 3 años
 Es una figura que contrata la empresa u organismo público para informar a los interesados, asesorar al responsable, supervisar el cumplimiento del reglamento, cooperar con las autoridades de control. Puede ser una figura interna o externa de la empresa.
 Si
+No. Salvo que se traten datos de forma masiva o sensibles
+Las que tienen 250+ trabajadores
+El Comité Europeo de Protección de Datos que se ocupa de que el reglamento se aplique de forma coherente en toda la UE y cuyas decisiones son vinculantes
+Se debe recibir un consentimiento expreso separado para cada fin
+Para qué se van a usar sus datos, por cuánto tiempo y quién será el responsable del tratamiento
+Hay una oblicación legal, media interés vital o público, hay un contrato o si la empresa o autoridad pública alega interés legítimo, que tendrá que argumentar
+A todas las personas, que se encuentren en la UE. Importante matiz con respecto a la directiva anterior. Este reglamento se aplica en la UE, sea quien sea la persona o empresa. Es decir, una empresa de EEUU que trata datos de una persona que se encuentra en la UE o un japonés que se encuentra en la UE y recibe un tratamiento de datos

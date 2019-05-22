@@ -1,4 +1,4 @@
-A partir de qué fecha será aplicado el Reglamento UE 2016/79, de 27-abr-2012, de protección de tratamiento de datos personales y libre circulación
+A partir de qué fecha será aplicado el Reglamento UE 2016/79, de 27-abr-2016, de protección de tratamiento de datos personales y libre circulación
 Qué es la seudonimización
 En qué plazo se realiza la notificación de violación de seguridad
 Qué ocurre con el consentimiento tácito de tratamiento de datos con este nuevo reglamento
@@ -14,4 +14,11 @@ En cuanto a un menor de 16 años, cómo se debe actuar para el tratamiento de su
 Cuál es la edad que se considera mínima para que el tratamiento sea lícito
 Por qué plazo se concede el Sello Europeo de Protección de Datos
 Quién es el Delegado de Protección de Datos
-Es obligatoria la existencia del Delegado de Protección de Datos en la administración
+Es obligatoria la existencia del Delegado de Protección de Datos en la administración?
+Es obligatoria la existencia del Delegado de Protección de Datos en la empresa?
+Qué empresas están obligadas a llevar un registro de protección de datos
+Qué nuevo organismo a nivel europeo para la protección de datos se crea en este reglamento
+Si los datos recabados se van a usar para varios fines qué tipo de consentimiento se debe recibir del usuario
+Qué tres principales informaciones hay que dar al ciudadano en el momento de recabar los datos
+En qué casos no es obligatorio el consentimiento expreso por parte del ciudadano para el tratamiento de datos
+A quién afecta este reglamento

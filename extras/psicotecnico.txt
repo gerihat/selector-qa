@@ -28,7 +28,7 @@ A cuántos metros equivale un hectómetro (1 hm)
 A cuántos metros cuadrados equivale un hectómetro cuadrado (1 hm^2)
 A cuántos metros cúbicos equivale un hectómetro cúbico (1 hm^3)
 A cuántos metros cuadrados equivale una hectárea (1 ha)
-A cuánto equivale 1 litro en volumen
+A cuánto equivale 1 litro en volumen métrico
 A cuánto equivale 1 centímetro cúbico (1 cm^3) en medidas de capacidad
 Cuántos kg es un quintal (qn)
 Cuántos kg es un litro de agua

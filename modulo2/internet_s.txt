@@ -23,3 +23,4 @@ ICMP: Internet Control Message Protocol, Protocolo de Mensajes de Control. A tra
 DoS: Denial of Service. Es un ataque de Denegación de Servicio, en el cual se cae un servicio, estando no disponible por exceso de peticiones al mismo
 4xx. 400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found. Los errores de servidor serían del tipo 5xx
 5xx. 500 Internal Server Error, 501 Not Implemented, 502 Bad Gateway, 503 Service Unavailable, 504 Gateway Timeout, 509 Banwidth Limit Exceeded. Los errores de cliente serían del tipo 4xx
+Es un conjunto de actividades que se basa en incluir información de tipo semántico en el documento etiquetado para ser interpretado por agente inteligente o software y que permite una automatización y búsqueda más precisa ya que la información tendría un significado bien definido. Hacer una búsqueda en la web de hoy, requiere en la mayoría de los casos de una interpretación por parte de un humano de los resultados de la búsqueda

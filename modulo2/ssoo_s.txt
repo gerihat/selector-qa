@@ -1,1 +1,2 @@
 Linus Torvalds
+Es el núcleo del sistema operativo

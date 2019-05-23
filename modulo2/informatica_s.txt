@@ -6,3 +6,4 @@ MOOC (CEMA en español): Massive Online Open Courses, Cursos En-linea Masivos y 
 WAI: Web Accessibility Initiative. Iniciativa para la accesibilidad en la Web. Desarrolla entre otros la WCAG, que son las directivas para la accesibilidad en la web
 WCAG: Web Content Accessibility Guidelines, Directivas para la accesibilidad en el contenido web creadas por el W3C (Consorcio de la WWW). La actual directiva es la WCAG 2.1
 W3C: World Wide Web Consortium, Consorcio WWW, desarrolla pautas y directivas para la creación de contenidos en la web
+bit, byte (8 bits), Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte, Exabyte, Zettabyte, Yottabyte

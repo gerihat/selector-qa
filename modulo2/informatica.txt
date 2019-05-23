@@ -5,4 +5,5 @@ Qué son los productos y servicios TIC
 Qué es un MOOC
 Qué es WAI
 Qué es WCAG
-Que es W3C
+Qué es W3C
+Cuáles son las unidades de medida de capacidad principales de un dispositivo informático

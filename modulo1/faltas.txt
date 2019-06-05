@@ -4,7 +4,7 @@ Abandono ejercicio
 Acuerdos ilegales
 Mal uso documental
 No secretos oficiales
-Notorio Incumplimiento funciones
+Notorio incumplimiento funciones
 No imparcialidad
 Desobediencia abierta órdenes
 Beneficio indebido
@@ -54,5 +54,10 @@ Qué tiene derecho a percibir el funcionario suspenso provisional
 Cómo se llama la pena de inhabilitación que produce la pérdida de la condición de funcionario
 Duración del período de prueba de un expediente disciplinario
 Qué duración tiene la sanción de traslado con cambio de residencia por la comisión de falta muy grave
+Qué duración tiene la sanción de traslada con cambio de residencia por la comisión de falta grave
 Qué tipo de norma regula las faltas leves y graves en la Administración Pública
 Diferencia entre separación de servicios y suspensión firme de funciones
+Diferencia entre pena principal o accesoria de inhabilitación absoluta y especial
+Diferencia entre pena de inhabilitación absoluta o especial y separación de servicio
+A quién corresponde imponer las sanciones de suspensión y traslado con cambio de residencia
+Cuáles son los principios que deben garantizarse en la tramitación de un procedimiento disciplinario contra un funcionario público

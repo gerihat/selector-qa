@@ -26,7 +26,7 @@ No impedirá que se tenga por realizado el acto, siempre y cuando se subsane el 
 Es un apoderamiento que se otorga a un procurador para que represente al interesado. Utilizado sobre todo en el ámbito jurídico
 AGE, CCAA y Entidades Locales que tendrán registros generales y a parte cada Organismo puede tener su registro particular. Los generales y particulares deben ser totalmente interoperables entre sí
 id poderdante, id apoderado, fecha, tiempo que se otorga el poder, tipo de poder
-Poder general sobre cualquier actuación en cualquier Administración, Poder general sobre sobre cualquier actuación ante una Administración en concreto, poder sobre determinados trámitos especificados en el poder
+Poder general sobre cualquier actuación en cualquier Administración, Poder general sobre sobre cualquier actuación ante una Administración en concreto, poder sobre determinados trámites especificados en el poder
 5 años máximo
 10 días
 Hacía el indicado en el propio procedimiento, hacia el representante o el primero de la lista

@@ -1,4 +1,14 @@
 Tipos de consultas
+Qué tipos de consultas no modifican la información de las tablas
+Qué es una consulta paramétrica
+Cita algunos operadores que se pueden usar en el criterio de una consulta
+Cómo se crea una consulta de cálculo
+Una consulta de cálculo es una consulta de acción?
+Qué hace la función SIINM en una consulta de selección calculada
+Cómo podemos escribir un operador o una función en una consulta si no conocemos exactamente cómo se utiliza
+Tipos de relaciones posibles en una base de datos Access 2010
+Requisitos indispensables para poder relacionar dos tablas
+En qué pestaña se crean las relaciones entre tablas de una base de datos
 Cuál es la extensión de un fichero de base de datos de Access 2010
 Cuál es la extensión de un fichero de base de datos de Access 2003
 Qué hace el tipo de datos [Datos adjuntos]
@@ -7,6 +17,7 @@ Al introducir un nuevo registro se guarda automáticamente o hay que guardar la 
 Cuál es la longitud máxima de un nombre de campo
 Qué tipo de dato debe tener un campo relacionado con uno de autonumeración
 Cuáles son los tamaños de campo del tipo de dato numérico
+Qué tamaño máximo tiene el campo de texto
 Qué rango comprende el tamaño de campo Byte en el tipo de dato numérico
 Para limitar el valor máximo de un campo numérico qué se utiliza: regla de validación o máscara de entrada
 Cómo convertir automáticamente texto introducido por el usuario en minúscula a mayúsculas
@@ -79,3 +90,9 @@ Dónde se introduce de forma predeterminada en el diseño de un formulario si us
 Una tabla y una consulta pueden tener el mismo nombre?
 Qué otros valores son equivalente a "Si" en un campo Si/No
 Cuáles son los formatos de tipo Fecha/Hora que existen
+El nombre de un campo en una tabla puede tener espacios en blanco?
+Diferencia entre máscara de entrada y regla de validación en las propiedades de un campo
+Con qué tipos de datos es posible usar una máscara de entrada
+Cómo se establece una máscara de entrada en un campo de tipo Numérico
+Tipos de filtros permitidos en Access 2010
+Si intentas borrar un registro de una tabla que tiene una relación con otra tabla con integridad referencial y la casilla de eliminar en cascada está desactivada, qué ocurre? Se elimina sólo el registro de la primera tabla?

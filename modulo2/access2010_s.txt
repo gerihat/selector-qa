@@ -1,12 +1,24 @@
 Consulta de selección, de agrupación, de cálculo, de Acción y Específicas de SQL
+Consultas de selección
+Es una consulta de selección en la que se le pide al usuario un parámetro. Se crea usando en el criterio corchetes con el mensaje a mostrar: Ej: en una columna de la consulta con el campo POBLACIÓN, poner en criterio [Introduce la población]
+Y, O, Entre-Y, No, <, >, <>. Caracteres comodín: ?, *
+Realiza la misma función que el tipo de dato calculado en el diseño de una tabla. Es decir, crea un nuevo campo en la consulta que es resultado de una operación con otro campo de la tabla
+No. Una consulta de cálculo es una consulta de selección, no modifica el contenido de la tabla. Añade a la consulta un nuevo campo calculado a partir de otro campo
+SIINM es una función predefinida de Access. SIINM(condición;verdadero;falso). Devuelve el primer valor si la condición es verdadero, y el segundo valor si la condición es falsa
+A través del Generador de expresiones que se abre pulsando en el botón correspondiente en la pestaña Herramientas de consultas en la vista Diseño de consulta
+En el diseño de consulta, en la casilla Campo se indica la fórmula del cálculo. Ej: PRECIO CON IVA: [PRECIO]*1,21
+De uno a uno: por cada registro de bd1 le corresponde un registro de bd2, de uno a varios: por cada registro de bd1 le corresponden varios registros de bd2 y de varios a varios: varios registros de bd1 tienen relación con varios registros de bd2 a través de una tabla intermedia. En Access2010, uno y varios se representan con 1 e infinito, en la vista Relaciones
+1. Ambas tablas con campo común sin ser necesarios que el nombre de los campos sea idéntico, si los datos que contienen (también se pueden relacionar sin campo común, en relaciones indeterminadas), 2. El campo común ha de ser clave al menos en una de las tablas
+En la pestaña Herramientas de base de datos, pulsando el botón Relaciones
 .accdb
 .mdb
-Parecido al tipo de dato Objeto OLE, pero permite añadir más de un objeto y de forma más optimizada
+Parecido al tipo de dato Objeto OLE, pero permite añadir más de un objeto y de forma más optimizada. Y los objetos también se incrustan en la BBDD, al igual que los objetos OLE, siendo el máximo permitido 2 Gb, que es el tamaño máximo permitido para la propia BBDD
 Es un cálculo de un dato de otro campo. Por ejemplo: Precio (dato en otro campo) * IVA
 Se guarda automáticamente
 64 caracteres
 Entero largo
 Byte, Entero, Entero largo, Simple, Doble, Id. de réplica, Decimal
+255 caracteres
 0-255
 Regla de validación. Indicando por ejemplo: <100. Con una máscara de entrada podríamos especificar que el dato a introducir debe ser de 2 cifras o 3 cifras
 Colocando ">" en la propiedad Formato del campo. El carácter "<" haría lo contrario
@@ -35,7 +47,7 @@ Permite DB51392-0493, > Convierte a mayúsculas y luego LL obliga a escribir dos
 Controla el modo de conversión de caracteres en las versiones asiáticas de Windows
 En el tipo de datos del campo elegimos Asistente para búsquedas, a través del cual podemos introducir la lista de valores posibles o indicar el origen de datos para los valores posibles
 En la ventana de consultas es la zona donde se especifican los criterios de la consulta. QBE=Query By Example
-Corresponde a "Y". La "O" se especifican en cada fila
+Corresponde a "Y". La "O" se especifican en cada fila. Aunque también se puede usar el operador Y/O en la misma casilla: "barcelona" o "madrid"
 Un registro en la tabla secundaria solo puede existir si existe relacionado con un registro en la tabla principal
 Estamos definiendo una columna NUEVOPRECIO en la consulta para que en ella aparezca el valor del campo PRECIO multiplicado por 1.21. Es decir el PRECIO+IVA
 Entre corchetes: [NOMBRE_CAMPO]
@@ -79,4 +91,9 @@ En el encabezado de formulario, o en su caso en la sección de detalle, si no ex
 No
 "Activado" y "-1"
 Fecha general, corta, mediana y larga. Hora corta, mediana y larga. Fecha general incluye fecha y hora: 19/09/2007 17:34:23
-
+Si, pero no es recomendable por posibles conflictos en el trabajo con macros y módulos
+Con las máscara de entrada obligamos al usuario a introducir el dato de una forma determinada, para que todos los datos en ese campo sean homogéneos, como por ejemplo que todos los números de teléfono incluyan prefijo entre paréntesis: (000) 000000. Con la regla de validación establece las limitaciones de datos posibles a introducir en el campo, como por ejemplo máximos y mínimos en campos numéricos, <100 o >10. Además las máscaras de entrada sólo se pueden usar en campos Texto o Fecha
+Con tipos de datos Texto o Fecha
+No es posible usar máscaras de entrada en campo de tipo Numérico, solo se permiten en el campos de tipo Texto o Fecha
+Filtro por selección, filtro por formulario y filtro avanzado
+No te dejaría eliminar el registro, indicándote que existen registro en la tabla relacionada con integridad referencial

@@ -5,6 +5,9 @@ Cita algunos operadores que se pueden usar en el criterio de una consulta
 Cómo se crea una consulta de cálculo
 Una consulta de cálculo es una consulta de acción?
 Qué hace la función SIINM en una consulta de selección calculada
+Cómo se hace una consulta de agrupación (consulta de selección)
+Se puede hacer una consulta que afecte a más de una tabla?
+Tipos de consulta de acción
 Cómo podemos escribir un operador o una función en una consulta si no conocemos exactamente cómo se utiliza
 Tipos de relaciones posibles en una base de datos Access 2010
 Requisitos indispensables para poder relacionar dos tablas

@@ -5,6 +5,9 @@ Y, O, Entre-Y, No, <, >, <>. Caracteres comodín: ?, *
 Realiza la misma función que el tipo de dato calculado en el diseño de una tabla. Es decir, crea un nuevo campo en la consulta que es resultado de una operación con otro campo de la tabla
 No. Una consulta de cálculo es una consulta de selección, no modifica el contenido de la tabla. Añade a la consulta un nuevo campo calculado a partir de otro campo
 SIINM es una función predefinida de Access. SIINM(condición;verdadero;falso). Devuelve el primer valor si la condición es verdadero, y el segundo valor si la condición es falsa
+Las consulta de agrupación se utilizan sobre todo para contar registros con una determinada propiedad. Como mínimo hay que añadir dos campos a la consulta (puede ser el mismo), uno para agrupar y otro para calcular. Pulsamos el botón Totales y en la nueva linea que aparece en la consulta llamada Total, elegimos por qué campo vamos a agrupar y la operación a realizar
+Si. Las tablas deben estar relacionadas y en la misma página de diseño de consulta te permite añadir tablas diferentes
+Consulta para crear una nueva tabla a partir de los resultados de la consulta, consulta de anexar datos, consulta de actualización y consulta de eliminación de datos
 A través del Generador de expresiones que se abre pulsando en el botón correspondiente en la pestaña Herramientas de consultas en la vista Diseño de consulta
 En el diseño de consulta, en la casilla Campo se indica la fórmula del cálculo. Ej: PRECIO CON IVA: [PRECIO]*1,21
 De uno a uno: por cada registro de bd1 le corresponde un registro de bd2, de uno a varios: por cada registro de bd1 le corresponden varios registros de bd2 y de varios a varios: varios registros de bd1 tienen relación con varios registros de bd2 a través de una tabla intermedia. En Access2010, uno y varios se representan con 1 e infinito, en la vista Relaciones

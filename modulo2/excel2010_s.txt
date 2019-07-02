@@ -60,4 +60,4 @@ Devuelve 2. La división es 2,66 pero la función COCIENTE sólo devuelve la par
 Se conservan solo los datos del extremo superior izquierdo
 Aparece 1/2. Los campos tipo fracción reducen la fracción al mínimo
 Es una función de texto, SUSTITUIR(texto;cadena_a_sustituir;cadena_sustitutoria;ocurriencias). Sustituye en texto la cadena_a_sustituir por cadena_sustitutoria
-
+Rellena toda la celda seleccionada con el propio contenido repitiéndolo hasta completar todo el espacio. Ej: MarzoMarzoMarzo

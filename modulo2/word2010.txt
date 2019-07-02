@@ -27,3 +27,33 @@ En qué parte podemos encontrar el tiempo de edición del documento
 En qué parte se pueden añadir comentarios al documento abierto
 En qué parte se pueden añadir etiquetas o tags al documento
 Qué pasa si en la opción Proteger documentos, le damos a Marcar como final
+En qué dos partes se puede acceder a editar las propiedades de página
+Qué hace la opción Conservar líneas juntas y donde se encuentra
+Qué tipos de interlineado tiene Word 2010
+Es posible dividir con guiones las palabras en Word 2010
+Qué hace la opción de párrafo No dividir con guiones, en las Excepciones de formato
+Qué tipos de espaciado entre caracteres tiene Word 2010
+Como se añade una tabla al documento de Word 2010
+Qué dos tipos de alto de fila se pueden especificar en una tabla de Word 2010
+A qué elementos se puede específicar un borde en el Borde y sombreado de una tabla
+Tipos de tabulaciones presentes en Word 2010
+Qué valor tiene por defecto la tabulación predeterminada
+Qué es un documento maestro
+Cómo se crea un estilo propio que esté disponible para todos los documentos Word
+Cómo se elimina definitivamente un estilo propio creado
+Tipos de estilo disponibles en Word 2010
+Qué es el tipo de estilo vinculado en la creación de un estilo
+De qué forma se puede restringir la edición de un documento, además de las protecciones por contraseña de lectura y escritura
+Cómo se añade una firma digital al documento de Word y qué ocurre
+Cuál es la principal utilidad de la Vista esquema
+Cuál es el requisito indispensable para poder trabajar adecuadamente en la vista esquema
+Cómo se crea un documento maestro desde cero
+Cómo se visualiza la ficha Programador
+Qué hace la opción desvincular, en el grupo documento maestro de la vista esquema
+Qué hace la opción combinar, en el grupo Comparar de la Ficha Revisar
+En una combinación de correspondencia que tipo de documentos se pueden crear
+Qué elementos pueden actuar como fuente de datos en una combinación de correspondencia
+Al crear una fuente de datos en Word 2010 para una combinación de correspondencia, dónde se guarda ese archivo Access creado?
+En combinación de correspondencia, al generar cartas personalizadas se crean en ficheros individuales o en el mismo fichero?
+Qué herramienta se utiliza para personalizar el texto de una carta en una combinación de correspondencia según el destinatario. Por ejemplo a los destinatarios de Madrid añadirle un texto y a los de Barcelona otro distinto
+Qué significa el campo <<Próximo registro>> al realizar la combinación de correspondencia con etiquetas

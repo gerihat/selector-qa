@@ -1,2 +1,3 @@
 excel2010.txt
+funcionesexcel2010.txt
 atajosexcel2010.txt

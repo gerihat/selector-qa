@@ -23,3 +23,4 @@
 (Atajos Word 2010) Disminuir tamaño de fuente
 (Atajos Word 2010) Aumentar tamaño de fuente
 (Atajos Word 2010) Abrir panel de tabulaciones
+(Atajos Word 2010) Formato de fuente Versalitas

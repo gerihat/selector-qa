@@ -9,6 +9,7 @@ Cómo se hace una consulta de agrupación (consulta de selección)
 Se puede hacer una consulta que afecte a más de una tabla?
 Tipos de consulta de acción
 Cómo podemos escribir un operador o una función en una consulta si no conocemos exactamente cómo se utiliza
+Cómo se crea un campo calculado en una consulta
 Tipos de relaciones posibles en una base de datos Access 2010
 Requisitos indispensables para poder relacionar dos tablas
 En qué pestaña se crean las relaciones entre tablas de una base de datos

@@ -60,3 +60,4 @@ Qué resultado arroja la operación COCIENTE(8;3)
 Qué ocurre si seleccionamos tres celdas con datos numéricos, y las combinamos y centramos
 Qué ocurre si introducimos 2/4 en un campo de tipo fracción, cuando salimos del foco de la celda
 Qué hace la función SUSTITUIR
+Qué hace la opción Rellenar en los tipos de Alineación de texto horizontal en formatos de celda

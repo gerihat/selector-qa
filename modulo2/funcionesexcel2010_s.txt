@@ -1,0 +1,91 @@
+Búsqueda y referencia. Buscar valor en tabla y devuelve valor (tabla ordenada)
+Búsqueda y referencia. Buscar valor en tabla y devuelve valor columna N
+Búsqueda y referencia. Buscar valor en tabla y devuelve valor fila N
+Búsqueda y referencia. Igual Buscar. En vez de devolver elemento devuelve posición
+Búsqueda y referencia. Devuelve ref a rango nº filas y columnas de origen dado
+Búsqueda y referencia. Busca cadena dentro otra cadena.  devuelve pos. Diferencia MAY/MIN
+Búsqueda y referencia. Igual ENCONTRAR. Diferencia MAY/MIN. Carácter doble bit
+Búsqueda y referencia. Busca cadena dentro otra cadena.  devuelve pos. NO Diferencia MAY/MIN
+Búsqueda y referencia. Igual HALLAR. NO Diferencia MAY/MIN. Carácter doble bit
+Búsqueda y referencia. Crear enlace a web o archivo
+Búsqueda y referencia. Similar a un puntero. INDIRECTO(B5) siendo B5=A2.  devuelve el valor que hay en A2
+Búsqueda y referencia. Devuelve valor en la posición X. Y de rango
+Búsqueda y referencia. Devuelve nº de orden según valor en el rango
+Estadística. Promedio de números
+Estadística. Promedio de números
+Estadística. Cuenta celdas con número
+Estadística. Cuenta celdas con número o texto
+Estadística. Cuenta si cumple criterio
+Estadística. Cuenta si cumple conjunto de criterios
+Estadística. Cuenta celdas en blanco
+Estadística. Valor máximo
+Estadística. Devuelve la media de la porción interior de un conjunto de valores de datos
+Estadística. Devuele la media armónica de un conjunto de números positivos; el recíproco de la media aritmética de los recíprocos
+Estadística. Devuelve la media geométrica de una mariz o rango de datos numéricos positivos
+Estadística. Devuelve la mediana o el número central de un conjunto de números
+Estadística. Valor mínimo
+Estadística. Devuelve el valor que se repite con más frecuencia
+Estadística. Devuelve matriz con valores que más se repiten
+Estadística. Devuelve el K-ésimo mayor de rango
+Estadística. Devuelve el K-ésimo menor de rango
+Fecha y hora. Fecha y hora actual
+Fecha y hora. Fecha actual
+Fecha y hora. Parte del día de una fecha
+Fecha y hora. Parte del mes de una fecha
+Fecha y hora. Parte del año de una fecha
+Fecha y hora. Devuelve día de la semana de fecha (Lunes.  Martes)
+Fecha y hora. Crea fecha con los tres parámetros pasados
+Fecha y hora. Sum X meses completos a fecha
+Fecha y hora. Suma X días laborales a fecha
+Fecha y hora. Devuelve nº de dias laborales entre dos fechas
+Fecha y hora. Crea hora con los tres parámetros pasados
+Fecha y hora. Devuelve hora de parámetro
+Fecha y hora. Devuelve minutos de parámetro
+Fecha y hora. Devuelve segundos de parámetro
+Información. Comprueba si celda contiene alguno de los errores Excel
+Información. Comprueba si celda no contiene nada
+Información. Comprueba si es Par
+Información. Comprueba si es Impar
+Información. Comprueba si no es texto. Los blancos no son textos
+Lógica. Criterio lógico IF..THEN…ELSE
+Lógica. Devuelve valor si la expresión da error
+Texto. Concatenar texto
+Texto. Devuelve X caracteres a la izquierda de texto
+Texto. Devuelve X caracteres a la derecha de texto
+Texto. Eliminar espacio a izquierda y derecha
+Texto. Sustituye en texto; texto_original por texto_nuevo
+Texto. Reemplaza texto desde A a A+X
+Texto. Compara cadenas si son exactamente iguales. Si se pasan números los compara como textos
+Texto. Elimina caracteres que no se pueden imprimir
+Texto. Pone texto en mayúsculas
+Texto. Pone texto en minúsculas
+Texto. Devuelve el número de caracteres de cadena. También vale para números
+Texto. Extrae subcadena de cadena.  desde X a Y
+Texto. Comprueba si es texto. Devuelve el texto si V.  "" si F
+Texto. Convierte texto en número y da formato (si texto representa numero)
+Texto. Convierte número en texto
+Texto. Convierte texto en nombre propio (primeras letras mayúsculas))
+Trigonométricas y matemáticas. 
+Trigonométricas y matemáticas. Suma si cumple criterio
+Trigonométricas y matemáticas. Suma si cumplen el conjunto de criterios
+Trigonométricas y matemáticas. Devuelve aleatorio entre 0 y 1
+Trigonométricas y matemáticas. Random entre dos números
+Trigonométricas y matemáticas. Devuelve valor absoluto
+Trigonométricas y matemáticas. Devuelve la parte entera.  no redondea
+Trigonométricas y matemáticas. Parte entera de una división. No residuo
+Trigonométricas y matemáticas. e elevado a valor
+Trigonométricas y matemáticas. Factorial de número
+Trigonométricas y matemáticas. Logaritmo natural (neperiano)
+Trigonométricas y matemáticas. Logaritmo en base X
+Trigonométricas y matemáticas. Logaritmo en base 10
+Trigonométricas y matemáticas. Máximo Común Divisor
+Trigonométricas y matemáticas. Mínimo Común Múltiplo
+Trigonométricas y matemáticas. Eleva X a Y
+Trigonométricas y matemáticas. Multiplicar varios números
+Trigonométricas y matemáticas. Raíz cuadrada
+Trigonométricas y matemáticas. Redondea número a X decimales
+Trigonométricas y matemáticas. Redondea hacia arriba número a X decimales
+Trigonométricas y matemáticas. Redondea hacia abajo número a X decimales
+Trigonométricas y matemáticas. Devuelve resto de la división
+Trigonométricas y matemáticas. Corta número a X decimales. No redondea
+Trigonométricas y matemáticas. Devuelve parámetro como nº romano

@@ -16,4 +16,9 @@ if [ ! -f $constfile  ]; then
 	exit 1;
 fi
 
-grep --color -i -e "^Art*.culo $1\.\|^$1\." $constfile
+if [[ "$1" =~ ^[0-9]+$ ]]; then
+	grep --color -i -e "^Art*.culo $1\.\|^$1\." $constfile
+else 
+	grep --color -i $1 $constfile
+	
+fi

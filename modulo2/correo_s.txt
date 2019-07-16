@@ -9,6 +9,7 @@ No, se queda en la carpeta en la que estuviera. En la carpeta Elementos Enviados
 Si. Las direcciones de correo que no incluiría serían los que estuvieran en el campo CCO:
 Un filtro
 Si. Lo que no verán los demás (Destinatario y CC) será la dirección del que está en el campo CCO
+Es exactamente lo mismo que CCO pero en inglés CCO (Copia Carbón Oculta) BCC (Blind Carbon Copy). Permite enviar mensaje sin que los destinatarios puedan ver a que otros destinatarios se les ha enviado
 No. Le aparecerá un cuadro de diálogo que le preguntará ¿Desea enviar una confirmación?, pudiendo enviar la confirmación o no
 Aparecerá en nuestra Bandeja de entrada, un mensaje con Asunto "Leido: <asunto original>", sin remitente
 En Borrador

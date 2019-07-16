@@ -13,3 +13,4 @@ El contencioso-administrativo
 No se considera segunda instancia jurisdiccional
 Si, para la defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal, siempre que no impliquen separación de empleados públicos inamovibles
 Es un acto administrativo, por el cual la administración considera dañino contra el interés general, un acto previamente dictado por ella misma, y que es favorable a los interesados, con el fin de poder recurrir ante conte-admin. Esta declaración de lesividad de un acto anulable es requisito previo para poder impugnarlo ante conte-admin.
+Actuación de la Administración realizada sin competencia o prescindiendo totalmente del procedimiento legalmente establecido

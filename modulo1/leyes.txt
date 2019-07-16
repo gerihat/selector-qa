@@ -12,7 +12,6 @@ Cuántos días hay para poder presentar enmiendas a una ley
 Qué plazo tiene el Congreso para poder aprobar una ley que ha sido vetada en el Senado
 Qué plazo tiene el Senado para aprobar una ley que le llega del Congreso
 Qué mayoría necesita el Senado para vetar una ley ordinaria
-Qué mayoría necesita el Senado para aprobar una ley ordinaria
 Qué mayoría necesita el Congreso para aprobar una ley ordinaria
 Qué mayoría necesita el Congreso para aprobar una ley orgánica
 Qué mayoría necesita el Senado para aprobar una ley ordinaria

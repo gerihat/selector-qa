@@ -9,6 +9,7 @@ endColor='\033[0m'
 #Configuración inicial
 path1="$HOME/oposiciones/modulo1/*"
 path2="$HOME/oposiciones/modulo2/*"
+cont=0
 
 #Mostrar ayuda
 function ayuda {
@@ -21,9 +22,11 @@ if [ "$#" -eq 0 ]; then
 	exit 1
 fi
 
-grep -Hn $1 $path1 $path2 | while IFS=: read -r filename numline question ; do
+total="$(grep -o -i $1 $path1 $path2 | wc -l)"
+echo "Total de preguntas: ${total}";echo
 
-	echo "Total de preguntas: ${total}";echo
+grep -Hn -i $1 $path1 $path2 | while IFS=: read -r filename numline question ; do
+
 	if [[ "${filename:${#filename}-6}" = "_s.txt" ]] ; then
 	  filename_solutions=$filename
 	  filename="${filename%%_s.*}.txt"
@@ -34,7 +37,7 @@ grep -Hn $1 $path1 $path2 | while IFS=: read -r filename numline question ; do
 	
 	#pregunta
 	echo -en "Tema: ${green}$(basename ${filename})${endColor} "
-	echo -e "Pregunta: ${green}${numline}${endColor}"
+	echo -e "Pregunta: $((++cont)) (${green}${numline}${endColor})"
 	echo -e "${question} " ; read -n 1 -s input </dev/tty
 
 	#respuesta

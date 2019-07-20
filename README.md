@@ -155,11 +155,12 @@ Estos scripts están incluídos en la carpeta scripts, y no son necesarios para 
 
 Si quieres contribuir a este script con alguna sugerencia o mejora, consulta el modo de realizarlo y el código de conducta.
 
-## Versión
+## Versiones
 
-v0.6 Selector.sh 19/3/2018
+v0.6 selector.sh 19/3/2018
+v0.7 selector.sh 20/7/2019
 
-*El temario que incluye este proyecto es de oposiciones de Auxiliar Administrativo del Estado 2017*
+*El temario que incluye este proyecto es de oposiciones de Auxiliar Administrativo del Estado 2017 y 2018*
 
 ## Autor
 

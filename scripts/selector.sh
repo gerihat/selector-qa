@@ -1,5 +1,5 @@
 #!/bin/bash
-# Selector aleatorio de preguntas y sus solucones
+# Selector de preguntas y sus soluciones
 
 #Colores
 green='\033[0;32m'
@@ -11,6 +11,7 @@ nrepeat=1
 nlflag=false #flag para mostrar numeros de linea
 ntflag=false #flag para mostrar nombre del fichero
 npflag=true  #flag para mostrar contador de preguntas
+mode=ran
 
 #Funcion selectlinea: Seleccion de una linea en fichero
 #Parametros: #$1: Nombre de fichero
@@ -36,64 +37,108 @@ function echolinea {
 	else
 		echo $default_command
 	fi
-	return 0		
+	return 0
 }
-
-#Mostrar ayuda
-function ayuda {
-	echo "Usage: selector [-h] [-l] [-t] [-n NUM] <filename>.txt"
-}
-
-# Parser de opciones
-if [ "$#" -eq 0 ]; then
-	ayuda
-	exit 1
-fi
-
-while getopts hltn: opt; do
-	case ${opt} in
-		h ) # ayuda
-			ayuda
-			exit 0
-			;;
-		l ) # mostrar numero de linea
-			nlflag=true
-			;;
-		t ) # mostrar nombre de fichero (tema)
-			ntflag=true
-			;;
-		n ) # numero de preguntas de un tema
-			if [[ $OPTARG =~ ^[0-9]+$ ]]; then
-				nrepeat=$OPTARG
-			else
-				ayuda
-				exit 2
-			fi
-			;;
-	esac
-done
-
-shift $((OPTIND -1))
-
-# Main
-
-# Comprobar que se pasa un nombre válido de fichero
-if [[ $1 =~ \.!txt$ ]]; then
+#Funcion filenamecheck: Comprobar que se pasa nombre de fichero válido
+#Parametros: #$1: nombre de fichero
+function filenameCheck {
+  if [[ $1 =~ \.!txt$ ]]; then
 	ayuda
 	exit 2;
-fi
-# Comprobar que el fichero pasado como parametro existe
-if [[ ! -f $1 ]]; then
+  fi
+  return 0
+}
+#Function fileExists: Comprobar que el fichero existe
+function fileExists {
+ if [[ ! -f $1 ]]; then
 	echo "Selector (E): Fichero no encontrado"
 	ayuda
 	exit 1;
-fi
+ fi
+ return 0
+}
+#Mostrar ayuda
+function ayuda {
+	echo -e "Usage: selector [-m MODE] [-h] [-l] [-t] [-n NUM] <filename>.txt"\\n
+	echo "MODES:"
+	echo -e  "-m 0: Sequential Selector. Usage: selector -m 0 <filename>.txt"
+	echo -e  "-m 1: Filtered Selector. Usage: selector -m 1 PATTERN"
+	echo -e  "-m 2: Random Selector. Usage: selector -m 2 [-l] [-t] [-n NUM] <filename>.txt"
+}
+# Function selectSeq: Modo secuencial de seleccion de preguntas. Muestras todas las preguntas de un fichero
+# Parámetros: #$1: nombre de fichero
+function selectorSeq {
+  filename=$1
+  filenameCheck $filename
+  fileExists $filename
 
-# Extraer path
-path=$(dirname $1)"/"
-bname=$(basename $1)
+  total=$(wc -l < $filename)
+  echo "Total de preguntas: ${total}"
 
-case "$bname" in 
+  cat $filename | while read question; do
+
+  filename_solutions="${filename%.*}_s.${filename##*.}"
+
+  #pregunta
+  echo -en "Tema: ${green}$(basename ${filename})${endColor} "
+  echo -e "Pregunta: (${green}$((++cont))${endColor})/${total}"
+  echo -e "${question} " ; read -n 1 -s input </dev/tty
+
+  #respuesta
+  respuesta=$(sed "${cont}!d" ${filename_solutions})
+  echo -e "${blue}${respuesta}${endColor}"
+
+  #salir
+  if [[ $input = "q" ]] || [[ $input = "Q" ]] ; then exit 0
+  fi
+done
+}
+# Function selectFilter: Modo con filtro de patron. Muestras todas las preguntas en las que aparece patron
+# Parámetros: #$1: patrón a buscar
+function selectorFilter {
+ path1="$HOME/oposiciones/modulo1/*"
+ path2="$HOME/oposiciones/modulo2/*"
+ cont=0
+
+ total="$(grep -i $1 $path1 $path2 | wc -l)"
+ echo "Total de preguntas: ${total}"
+
+ grep -Hni --exclude={"tema*.txt","modulo?.txt"} $1 $path1 $path2 | while IFS=: read -r filename numline question ; do
+
+	if [[ "${filename:${#filename}-6}" = "_s.txt" ]] ; then
+	  filename_solutions=$filename
+	  filename="${filename%%_s.*}.txt"
+	  question=$(sed "${numline}!d" ${filename})
+	else
+	  filename_solutions="${filename%.*}_s.${filename##*.}"
+	fi
+
+	#pregunta
+	echo -en "Tema: ${green}$(basename ${filename})${endColor} "
+	echo -e "Pregunta: $((++cont))/${total} (${green}${numline}${endColor})"
+	echo -e "${question} " ; read -n 1 -s input </dev/tty
+
+	#respuesta
+	respuesta=$(sed "${numline}!d" ${filename_solutions})
+	echo -e "${blue}${respuesta}${endColor}"
+
+	#salir
+	if [[ $input = "q" ]] || [[ $input = "Q" ]] ; then exit 1
+	fi
+ done
+}
+
+function selectorRandom {
+ #Comprobar nombre de fichero
+ filenameCheck $1
+ #Comprobar que fichero existe
+ fileExists $1
+
+ # Extraer path
+ path=$(dirname $1)"/"
+ bname=$(basename $1)
+
+ case "$bname" in 
 	"modulo"*)
 		filename_modulo=$1
 		;;
@@ -105,12 +150,12 @@ case "$bname" in
 		filename_solutions="${filename%.*}_s.${filename##*.}"
 		max=$(wc -l < $filename)
 		;;
-esac
+ esac
 
-echo -e "Iniciando test"
+ echo -e "Iniciando test"
 
-cont=0
-while [ true ] ; do
+ cont=0
+ while [ true ] ; do
 	if [[ ! -z "$filename_modulo" ]]; then
 		#Elegir tema dentro de modulo*.txt
 		numlinea_modulo=$(selectlinea $filename_modulo)		
@@ -147,4 +192,52 @@ while [ true ] ; do
 			then exit 1
 		fi	
 	done
+ done
+}
+
+# Main
+
+# Parser de opciones
+if [ "$#" -eq 0 ]; then
+	ayuda
+	exit 1
+fi
+
+while getopts m:hltn: opt; do
+	case ${opt} in
+		m ) # modo de funcionamiento
+		    if [[ -z $OPTARG ]]; then
+			ayuda;exit 2
+		    else
+	        	mode=$OPTARG
+		    fi
+		    ;;
+		h ) # ayuda
+			ayuda;exit 0;;
+		l ) # mostrar numero de linea
+			nlflag=true;;
+		t ) # mostrar nombre de fichero (tema)
+			ntflag=true;;
+		n ) # numero de preguntas de un tema
+			if [[ $OPTARG =~ ^[0-9]+$ ]]; then
+				nrepeat=$OPTARG
+			else
+				ayuda;exit 2
+			fi
+			;;
+	esac
 done
+shift $((OPTIND -1))
+
+
+case ${mode} in
+ "seq") #secuencial
+    selectorSeq $1
+    ;;
+ "pat") #filtro patron
+    selectorFilter $1
+    ;;
+ "ran") #random
+    selectorRandom "$@"
+    ;;
+esac

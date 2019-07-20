@@ -30,13 +30,38 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 
 * La sintaxis es la siguiente:
 	```
-	$ ./selector.sh [-h] [-l] [-t] [-n NUM] nombrefichero.txt
+	$ ./selector.sh -m [MODE:seq|pat|ran] [PATRON] [-h] [-l] [-t] [-n NUM] nombrefichero.txt
 	```
+
+* El script tiene tres modos de funcionamiento:
+	
+	* Modo Secuencial:
+	
+	Muestras todas las preguntas del fichero pasado como parámetro en orden secuencial
+	```
+	$ ./selector.sh -m seq nombrefichero.txt
+	```
+	
+	* Modo Filtro de patrón:
+
+	Muestra todas las preguntas en las que aparecen el patrón especificado como parámetro
+	```
+	$ ./selector.sh -m pat PATRON
+	```
+
+	* Modo Random:
+	
+	Muestras preguntas aleatorias del fichero especificado como parámetro. El fichero puede ser un módulo, un tema o fichero de preguntas.
+	```
+	$ ./selector.sh -m ran -t -l -n NUM nombrefichero.txt
+	````
+
+### MODO RANDOM
 
 * El comando básico es:
 
 	```
-	$ ./selector.sh -t nombrefichero.txt
+	$ ./selector.sh -m ran -t nombrefichero.txt
 	```
 
 	 ```nombrefichero.txt``` puede ser:
@@ -46,7 +71,7 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 * Selector de tema
 
 	```
-	$ ./selector.sh -t tema[n].txt
+	$ ./selector.sh -m ran -t tema[n].txt
 	```
 
 	Selecciona preguntas de todos los ficheros incluidos en tema[n].txt. *Ejemplo:*	```$ ./selector.sh tema1.txt``` 
@@ -54,7 +79,7 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 * Selector de módulo
 
 	```
-	$ ./selector.sh -t modulo[n].txt
+	$ ./selector.sh -m ran -t modulo[n].txt
 	```
 
 	Selecciona preguntas de todos los temas incluidos en modulo[n].txt. *Ejemplo:*	```$ ./selector.sh modulo1.txt```

@@ -61,9 +61,9 @@ function fileExists {
 function ayuda {
 	echo -e "Usage: selector [-m MODE] [-h] [-l] [-t] [-n NUM] <filename>.txt"\\n
 	echo "MODES:"
-	echo -e  "-m 0: Sequential Selector. Usage: selector -m 0 <filename>.txt"
-	echo -e  "-m 1: Filtered Selector. Usage: selector -m 1 PATTERN"
-	echo -e  "-m 2: Random Selector. Usage: selector -m 2 [-l] [-t] [-n NUM] <filename>.txt"
+	echo -e  "-m seq: Sequential Selector. Usage: selector -m seq <filename>.txt"
+	echo -e  "-m pat: Filtered Selector. Usage: selector -m pat PATTERN"
+	echo -e  "-m ran: Random Selector. Usage: selector -m ran [-l] [-t] [-n NUM] <filename>.txt"
 }
 # Function selectSeq: Modo secuencial de seleccion de preguntas. Muestras todas las preguntas de un fichero
 # Parámetros: #$1: nombre de fichero

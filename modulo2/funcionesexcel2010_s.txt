@@ -33,13 +33,13 @@ Fecha y hora. Fecha actual
 Fecha y hora. Parte del día de una fecha
 Fecha y hora. Parte del mes de una fecha
 Fecha y hora. Parte del año de una fecha
-Fecha y hora. Devuelve día de la semana de fecha (Lunes.  Martes)
+Fecha y hora. Devuelve día de la semana (número) de fecha. Param: (num_de_serie;[tipo]). Tipo especifíca en qué día empieza la semana. Si quisierámos mostrar el día de la semana en modo texto (lunes,martes, etc..) hay que usar: =TEXTO(A2;"dddd")
 Fecha y hora. Crea fecha con los tres parámetros pasados
 Fecha y hora. Sum X meses completos a fecha
 Fecha y hora. Suma X días laborales a fecha
-Fecha y hora. Devuelve nº de dias laborales entre dos fechas
-Fecha y hora. Crea hora con los tres parámetros pasados
-Fecha y hora. Devuelve hora de parámetro
+Fecha y hora. Devuelve nº de dias laborales entre dos fechas. Param: (fecha_inicial;fecha_final;[vacaciones]). Vacaciones permite especificar un rango de fechas que no se incluirán
+Fecha y hora. Crea hora con los tres parámetros pasados. Param: (hora; minuto; segundo)
+Fecha y hora. Devuelve hora de parámetro. Param: (num_de_serie)
 Fecha y hora. Devuelve minutos de parámetro
 Fecha y hora. Devuelve segundos de parámetro
 Información. Comprueba si celda contiene alguno de los errores Excel
@@ -50,11 +50,11 @@ Información. Comprueba si no es texto. Los blancos no son textos
 Lógica. Criterio lógico IF..THEN…ELSE
 Lógica. Devuelve valor si la expresión da error
 Texto. Concatenar texto
-Texto. Devuelve X caracteres a la izquierda de texto
-Texto. Devuelve X caracteres a la derecha de texto
+Texto. Devuelve X caracteres a la izquierda de texto. Param: (texto;[núm_de_caracteres])
+Texto. Devuelve X caracteres a la derecha de texto. Param: (texto; [núm_de_caracteres])
 Texto. Eliminar espacio a izquierda y derecha
-Texto. Sustituye en texto; texto_original por texto_nuevo
-Texto. Reemplaza texto desde A a A+X
+Texto. Sustituye en texto; texto_original por texto_nuevo. Param: (texto;texto_original;texto_nuevo;[num_de_ocurrencia])
+Texto. Reemplaza texto desde A a A+X. Param: (texto_original;num_inicial;num_de_caracteres;texto_nuevo)
 Texto. Compara cadenas si son exactamente iguales. Si se pasan números los compara como textos
 Texto. Elimina caracteres que no se pueden imprimir
 Texto. Pone texto en mayúsculas
@@ -62,7 +62,7 @@ Texto. Pone texto en minúsculas
 Texto. Devuelve el número de caracteres de cadena. También vale para números
 Texto. Extrae subcadena de cadena.  desde X a Y
 Texto. Comprueba si es texto. Devuelve el texto si V.  "" si F
-Texto. Convierte texto en número y da formato (si texto representa numero)
+Texto. Convierte texto en número y da formato (si texto representa numero). Esta función se usa también para mostrar el día de la semana en modo texto: Ej. =texto(D2;"dddd"). En definitiva, nos permite formatear el parámetro de entrada
 Texto. Convierte número en texto
 Texto. Convierte texto en nombre propio (primeras letras mayúsculas))
 Trigonométricas y matemáticas. 

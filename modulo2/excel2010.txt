@@ -61,3 +61,11 @@ Qué ocurre si seleccionamos tres celdas con datos numéricos, y las combinamos 
 Qué ocurre si introducimos 2/4 en un campo de tipo fracción, cuando salimos del foco de la celda
 Qué hace la función SUSTITUIR
 Qué hace la opción Rellenar en los tipos de Alineación de texto horizontal en formatos de celda
+Qué conseguimos al poner el carácter ' al principio
+Formato de los días y meses: d - m
+Formato de los días: dd - mm
+Formato de los días: ddd - mm
+Formato de los días: dddd - mmmm
+Formato para los años a, aa, aaa, aaaa
+Además de la autosuma qué otras operaciones incluye el grupo Modificar en la ficha Inicio
+Qué tipos de ordenación permite Excel 2010

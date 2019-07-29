@@ -61,3 +61,11 @@ Se conservan solo los datos del extremo superior izquierdo
 Aparece 1/2. Los campos tipo fracción reducen la fracción al mínimo
 Es una función de texto, SUSTITUIR(texto;cadena_a_sustituir;cadena_sustitutoria;ocurriencias). Sustituye en texto la cadena_a_sustituir por cadena_sustitutoria
 Rellena toda la celda seleccionada con el propio contenido repitiéndolo hasta completar todo el espacio. Ej: MarzoMarzoMarzo
+Que el contenido de la celda sea literal
+Muestra dia/mes en una cifra o dos 2/12
+Muestra dia/mes en dos cifras (cero a la izquierda) 02/12
+Muestra dia/mes en texto abreviado sáb/ago
+Muestra dia/mes en texto largo sábado/agosto
+a/aa: año con dos cifras, aaa/aaaa: año con cuatro cifras
+Suma (autosuma), Promedio, Contar números, Máx y Min
+Ordenar por valores, color de celda, color de fuente, icono de celda

@@ -45,9 +45,4 @@ if [[ ! -f $filename ]]; then
 	ayuda
 fi
 
-long=$(wc -l < $filename)
-if [[ $long > $max ]]; then
-	less $filename
-else
-	cat $filename
-fi;
+less $filename

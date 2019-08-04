@@ -1,0 +1,53 @@
+#!/bin/bash 
+
+#Colors
+blue='\033[1;34m'
+endColor='\033[0m'
+max=20
+
+function ayuda {
+	echo "Usage: tabla <filename>.txt"
+	echo " :tabla without argument list tables"
+}
+tablepath="$HOME/oposiciones/extras"
+
+if [ "$#" -eq 0 ]; then
+	ls "$tablepath/"t* | sed 's#.*/##'
+	exit 0
+fi
+
+while getopts hl opt; do
+	case ${opt} in
+		h) # ayuda
+		   ayuda
+		   exit 0;;
+		l) # list
+		   ls "$tablepath/"t* | sed 's#.*/##'
+		   exit 0;;
+	esac
+done
+
+shift $((OPTIND -1))
+
+# Main
+
+#Comprobar que se pasa un nombre válido de fichero
+if [[ $1 =~ \.!txt$ ]]; then
+	ayuda
+	exit 2;
+fi
+
+filename=$tablepath'/'$1
+#Comprobar que el fichero pasado como parámetro existe
+if [[ ! -f $filename ]]; then
+	echo "entra aqui2"
+	echo "Tabla (E): Fichero no encontrado"
+	ayuda
+fi
+
+long=$(wc -l < $filename)
+if [[ $long > $max ]]; then
+	less $filename
+else
+	cat $filename
+fi;

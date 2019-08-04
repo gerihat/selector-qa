@@ -1,0 +1,27 @@
+PLAZOS INTERPOSICIÓN Y RESOLUCIÓN RECURSOS
+******************************************
+		Inter		Res
+___________________________________
+ALZADA
+ acto expreso	1m		3m
+ no expreso	dia sig		=
+___________________________________
+REPOSICIÓN	
+ acto expreso	1m		1m
+ no expreso	dia sig		=
+___________________________________
+REVISIÓN	
+ error hecho	4a		3m
+ new docs	3m		=
+ docs falsos	3m		=
+ cohecho	3m		=
+___________________________________
+CONTE-ADMIN	
+ acto expreso	2m
+ no expreso	6m
+ lesividad	2m
+ entre CCAA	2m
+ inactividad	2m
+ via hecho	10d/20d(req)
+___________________________________
+m: meses, a: años, req: requerimiento

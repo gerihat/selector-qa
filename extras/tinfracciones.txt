@@ -1,0 +1,11 @@
+PRESCRIPCIÓN DE INFRACCIONES Y SANCIONES
+*******************************************
+				ALTO CARGO
+___________________________________________
+		inf	san 	inf	san
+___________________________________________
+LEVE	    |	6m	1a  |	1a	1a
+GRAVE	    |	2a	2a  |	3a	2a
+MUY GRAVE   |	3a	3a  |	5a	5a
+___________________________________________
+m:meses, a:años

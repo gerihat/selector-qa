@@ -4,6 +4,7 @@ Es una Agenda de carácter internacional que desgrana los objetivos para el peri
 ODS (Objetivos de Desarrollo Sostenible).  En total 17 objetivos (+169 metas)
 Objetivos Mundiales
 Planeta, Personas, Prosperidad, Paz y Alianzas. Las 5 P (en inglés, Planet, People, Prosperity, Peace, Partnership)
+17 objetivos
 1. Poner fin a la pobreza, 2. Hambre 0, 3. Buena salud, 4. Educación de calidad, 5. Igualdad de género, 6. Agua limpia y saneamiento, 7. Energía asequible y sostenible, 8. Trabajo decente y crecimiento económico, 9. Industria, innovación e infraestructura, 10. Reducir inequidades, 11. Ciudades y comunidades sostenibles, 12. Consumo responsable y producción, 13. Acción climática, 14. Vida marina, 15. Vida en la Tierra, 16. Paz, justicia e instituciones fuertes, 17. Alianzas para los objetivos
 Los ODM (Objetivos de Desarrollo del Milenio)
 Cada uno de los 17 objetivos se subdivide en una serie de metas a conseguir. En total hay 169 metas

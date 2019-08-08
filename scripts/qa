@@ -36,6 +36,7 @@ fi
 if [[ ! -f $2 ]]; then
 	echo "Selector (E): Fichero no encontrado"
 	ayuda
+	exit 2
 fi
 
 filename=$2

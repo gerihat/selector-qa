@@ -1,0 +1,23 @@
+ORGANOS DE LA ADMINISTRACIÓN GENERAL DEL ESTADO
+***********************************************
+			   Rango	 Alto Cargo	Órgano
+_______________________________________________________________________
+Ministros		|		 |  SI	    |	Superior
+			|		 |	    |
+Secretarios de Estado	|		 |  SI	    |	Superior
+			|		 |	    |
+Subsecretarios		|		 |  SI	    |   Directivo
+			|		 |	    |
+Secretario Gral Técnico | Director Gral	 |  SI	    |	Directivo
+			|		 |	    |
+Secretario General	| Subsecretario  |  SI	    |	Directivo
+			|		 |	    |
+Director General	|		 |  SI      |	Directivo
+			|		 |	    |
+Subdirector General	|		 |  NO	    |	Directivo
+			|		 |	    |
+Delegado Gobierno	| Subsecretario  |  SI	    |	Directivo
+			|		 |	    |
+Subdelegado Gobierno	| Sub. Gral	 |  NO      |	Directivo
+			|		 |	    |
+Director Insular	| Rel. puestos   |  NO	    |	Adminvo.

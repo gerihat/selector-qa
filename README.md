@@ -138,6 +138,9 @@ Estos scripts están incluídos en la carpeta scripts, y no son necesarios para 
 
 	*Ejemplo: ```$ ce 5```*
 	*mostraría el artítuclo 5 de la Constitución Española de 1978*
+	
+	*Ejemplo 2: ```$ ce libertad```*
+	*mostraría todas los artículos de la Constitución que incluyen el término **libertad***	
 
 * **verlinea:** Script para mostrar la línea pasada como parámetro de un fichero
 
@@ -148,6 +151,14 @@ Estos scripts están incluídos en la carpeta scripts, y no son necesarios para 
 
 	*Ejemplo: ```$ qa 5 cederechos.txt```*
 	*mostraría la respuesta correspondiente a la línea 5 del fichero cederechos.txt*
+
+* **tabla:** Script para mostrar un fichero de tabla en formato texto
+
+	*Ejemplo: ```$ tabla <ficherotabla.txt>```*
+	*mostraría el fichero especificado a traves de **less**
+	
+	*Ejemplo 2: ```$tabla```* (sin argumentos)
+	*mostraría el listado de tablas disponibles en la ruta /$HOME/oposiciones/extras*
 
 *Se recomienda incluir la ruta a estos script en el PATH del sistema o del usuario para poder usarlos en cualquier directorio. Consulta cómo incluir una ruta al PATH del sistema o del usuario en la documentación de tu distribución Linux*
 

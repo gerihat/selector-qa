@@ -1,8 +1,24 @@
 #!/bin/bash
 
 function ayuda {
-	echo "Usage: ce <article> <filename>.txt"
+	echo -e "Usage: \tce <article> <filename>.txt"
+	echo -e "\t:Print article in source file"
+	echo -e "\tce <pattern>"
+	echo -e "\t:Print ocurriencies of <pattern> in source file"
 }
+
+while getopts h opt; do
+	case ${opt} in
+		h) # ayuda
+		   ayuda;exit 0;;
+	esac
+done
+shift $((OPTIND -1))
+
+if [[ "$#" -eq 0 ]]; then
+	ayuda
+	exit 1
+fi
 
 if [[ -z "$2" ]]; then
 	constfile="${HOME}/oposiciones/extras/constitucion.txt"
@@ -15,6 +31,8 @@ if [ ! -f $constfile  ]; then
 	ayuda
 	exit 1;
 fi
+
+
 
 if [[ "$1" =~ ^[0-9]+$ ]]; then
 	grep --color -i -e "^Art*.culo $1\.\|^$1\." $constfile

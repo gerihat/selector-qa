@@ -1,0 +1,20 @@
+TABLA DE EXCEDENCIAS PERSONAL FUNCIONARIO
+*****************************************
+			MIN	MAX	ANTIG	RESERVA	RETRIB	COMPUTO
+_______________________________________________________________________
+Voluntaria
+Interés particular	2años	ACT	5años	NO	NO	NO
+-----------------------------------------------------------------------
+Voluntaria
+Agrup. familiar		2años	15años		NO	NO	NO
+-----------------------------------------------------------------------
+Cuidado familiar		3años		2años	SI	SI
+-----------------------------------------------------------------------
+Violencia género				6meses	2meses	SI
+Violencia terrorista				(max 18)		
+-----------------------------------------------------------------------
+Voluntaria prestar		TIEMPO		
+servicios en sec.pub.		SERVIC.		NO	NO	NO
+-----------------------------------------------------------------------
+Voluntaria incentiv.		5años		NO	NO	NO
+_______________________________________________________________________

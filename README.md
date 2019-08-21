@@ -30,16 +30,23 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 
 * La sintaxis es la siguiente:
 	```
-	$ ./selector.sh -m [MODE:seq|pat|ran] [PATRON] [-h] [-l] [-t] [-n NUM] nombrefichero.txt
+	$ ./selector.sh -m [MODE:seq|test|pat|ran] [PATRON] [-h] [-l] [-t] [-n NUM] nombrefichero.txt
 	```
 
-* El script tiene tres modos de funcionamiento:
+* El script tiene cuatro modos de funcionamiento:
 	
 	* Modo Secuencial:
 	
 	Muestras todas las preguntas del fichero pasado como parámetro en orden secuencial
 	```
 	$ ./selector.sh -m seq nombrefichero.txt
+	```
+	
+	* Modo Test:
+	
+	Muestra las preguntas y cuatro opciones de respuesta
+	```
+	$ ./selector.sh -m test nombrefichero.txt
 	```
 	
 	* Modo Filtro de patrón:
@@ -107,7 +114,14 @@ En el caso de que tu equipo sea Windows, puedes utilizar [Cygwin] o el subsistem
 
 * Con cualquier editor crea dos pares de ficheros. Uno para preguntas ***nombrefichero.txt*** y otro para sus respuestas ***nombrefichero\_s.txt*** (la terminación '\_s' en el nombre identifica al fichero de respuestas)
 * Cada línea de estos ficheros representa una pregunta y una respuesta respectivamente. Por ejemplo la línea 6 en el fichero de preguntas, tiene como respuesta la línea 6 en el fichero de respuestas.
-
+* Si las preguntas van a incluir opciones tipo test se debe seguir el formato de fichero siguiente para las preguntas:
+	```
+	1: pregunta número 1. a) opción a. b) opción b. c) opción c. d) opción d.
+	2: pregunta número 2. a) opción a. b) opción b. c) opción c. d) opción d.
+	...
+	n: pregunta número n. a) opción a. b) opción b. c) opción c. d) opción d.
+	```
+	
 ### ¿Cómo se organizan los temas o grupos de preguntas?
 
 * Hay tres tipos de ficheros para organizar el temario y las preguntas/respuestas
@@ -170,6 +184,7 @@ Si quieres contribuir a este script con alguna sugerencia o mejora, consulta el 
 
 v0.6 selector.sh 19/3/2018
 v0.7 selector.sh 20/7/2019
+v0.8 selector.sh 21/8/2019
 
 *El temario que incluye este proyecto es de oposiciones de Auxiliar Administrativo del Estado 2017 y 2018*
 

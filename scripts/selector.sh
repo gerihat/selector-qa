@@ -4,6 +4,7 @@
 #Colores
 green='\033[0;32m'
 blue='\033[1;34m'
+red='\033[1;31m'
 endColor='\033[0m'
 
 #Configuracion inicial
@@ -62,9 +63,11 @@ function ayuda {
 	echo -e "Usage: selector [-m MODE] [-h] [-l] [-t] [-n NUM] <filename>.txt"\\n
 	echo "MODES:"
 	echo -e  "-m seq: Sequential Selector. Usage: selector -m seq <filename>.txt"
+	echo -e  "-m test: Test Selector. Usage: selector -m test <filename>.txt"
 	echo -e  "-m pat: Filtered Selector. Usage: selector -m pat PATTERN"
 	echo -e  "-m ran: Random Selector. Usage: selector -m ran [-l] [-t] [-n NUM] <filename>.txt"
 }
+
 # Function selectSeq: Modo secuencial de seleccion de preguntas. Muestras todas las preguntas de un fichero
 # Parámetros: #$1: nombre de fichero
 function selectorSeq {
@@ -72,21 +75,36 @@ function selectorSeq {
   filenameCheck $filename
   fileExists $filename
 
+  filename_solutions="${filename%.*}_s.${filename##*.}"
+
   total=$(wc -l < $filename)
   echo "Total de preguntas: ${total}"
 
   cat $filename | while read question; do
 
-  filename_solutions="${filename%.*}_s.${filename##*.}"
-
   #pregunta
   echo -en "Tema: ${green}$(basename ${filename})${endColor} "
   echo -e "Pregunta: (${green}$((++cont))${endColor})/${total}"
-  echo -e "${question} " ; read -n 1 -s input </dev/tty
+  #si es modo test, mostrar opciones separadas
+  if [[ $2 =~ "test" ]] ; then
+	q="${question%%a)*}"
+	opa=$(echo "$question" | sed 's/.* a) \(.*\) b) .*/\1/')
+	opb=$(echo "${red}b)$question" | sed 's/.* b) \(.*\) c) .*/\1/')
+	opc=$(echo "${red}c)$question" | sed 's/.* c) \(.*\) d) .*/\1/')
+	opd="${question##*d)}"
+	echo -e "${q}\n${red}a)${endColor} ${opa}\n${red}b)${endColor} ${opb}\n${red}c)${endColor} ${opc}\n${red}d)${endColor} ${opd}"
+	read -n 1 -s input < /dev/tty
+  else
+	echo -e "${question} " ; read -n 1 -s input </dev/tty
+  fi
 
   #respuesta
   respuesta=$(sed "${cont}!d" ${filename_solutions})
-  echo -e "${blue}${respuesta}${endColor}"
+  echo -e "${blue}${respuesta}${endColor}" 
+  
+  if [[ $2 =~ "test" ]] ; then
+	read -n 1 -s input </dev/tty ; clear
+  fi
 
   #salir
   if [[ $input = "q" ]] || [[ $input = "Q" ]] ; then exit 0
@@ -234,6 +252,9 @@ case ${mode} in
  "seq") #secuencial
     selectorSeq $1
     ;;
+ "test") #secuencial modo test
+	selectorSeq $1 "test"
+	;;
  "pat") #filtro patron
     selectorFilter $1
     ;;

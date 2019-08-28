@@ -1,5 +1,7 @@
 #!/bin/bash
 
+constfile="${HOME}/oposiciones/extras/constitucion.txt"
+
 function ayuda {
 	echo -e "Usage: \tce <article> <filename>.txt"
 	echo -e "\t:Print article in source file"
@@ -16,13 +18,11 @@ done
 shift $((OPTIND -1))
 
 if [[ "$#" -eq 0 ]]; then
-	ayuda
+	less $constfile
 	exit 1
 fi
 
-if [[ -z "$2" ]]; then
-	constfile="${HOME}/oposiciones/extras/constitucion.txt"
-else
+if [[ ! -z "$2" ]]; then
 	constfile=$2
 fi
 

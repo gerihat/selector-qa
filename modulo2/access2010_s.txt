@@ -1,5 +1,5 @@
 Consulta de selección, de agrupación (subtipo de selección), de cálculo, de Acción y Específicas de SQL
-Consultas de selección
+Consultas de selección, donde incluímos las consultas de agrupación y de cálculo
 Es una consulta de selección en la que se le pide al usuario un parámetro. Se crea usando en el criterio corchetes con el mensaje a mostrar: Ej: en una columna de la consulta con el campo POBLACIÓN, poner en criterio [Introduce la población]
 Y, O, Entre-Y, No, <, >, <>. Caracteres comodín: ?, *
 Realiza la misma función que el tipo de dato calculado en el diseño de una tabla. Es decir, crea un nuevo campo en la consulta que es resultado de una operación con otro campo de la tabla

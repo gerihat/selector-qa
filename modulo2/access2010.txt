@@ -35,7 +35,7 @@ Cómo convertir automáticamente texto introducido por el usuario en minúscula 
 (Máscara de entrada) C
 (Máscara de entrada) .,:;-/
 (Máscara de entrada) #
-(Máscara de entrada) \
+(Máscara de entrada) \\
 (Máscara de entrada) ""
 Qué hace la máscara de entrada (000) 000-0000
 Qué hace la máscara de entrada (999) 999-9999

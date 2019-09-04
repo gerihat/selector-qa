@@ -31,7 +31,7 @@ Si. En una comisión legislativa no se puede delegar materias relacionadas con l
 No
 No
 No
-21 miembros
+Un mínimo de 21 miembros
 Es el órgano permanente que ejercerá las funciones propias de las Cortes en los periodos de disolución de las Cortes o en la expiración mandato, y cuando no se encuentren reunidas
 Son públicas salvo acuerdo por mayoría absoluta de las Cámaras
 Ninguno, es el Congreso quién presenta tal moción 
@@ -56,3 +56,6 @@ Primero. A través de sus Estatutos, que fijarán además la correspondiente com
 El Tribunal Supremo
 Se requiere autorización previa del Congreso o Senado respectivamente
 Inviolabilidad: exención de responsabilidad penal durante el ejercicio de cargo público. Un parlamentario no está sujeto a responsabilidad por vertir opiniones injuriosas o calumnias en las sesiones parlamentarias. Inmunidad: Un parlamentario no puede ser detenido durante el ejercicio de su cargo, salvo en caso de flagrante delito y además sólo pueden ser procesados judicialmente bajo autorización de la cámara correspondiente
+No. Los altos cargos de la Administración del Estado, salvo los miembros del Gobierno, están dentro de las causas de inelegibilidad e incompatibilidad
+Si
+Pueden aprobar tanto proyectos y proposiciones de ley con ciertas limitaciones o prohibiciones previstas expresamente en la Constitución. En una comisión legislativa no se puede delegar materias relacionadas con la Reforma Constitucional, cuestiones internacionales, aprobación de leyes orgánicas o leyes bases, ratificación de decretos-ley o aprobación de Presupuestos Generales.

@@ -19,7 +19,7 @@ Cita otras entidades locales distintas a municipio, provincia e isla
 Qué órganos existen en todas las Diputaciones
 Cómo se elige al presidente de la Diputación
 Qué se considera municipio de gran población
-Qué municipios deben tener de forma obligatoria una Junta de Gobierno local
+Qué municipios deben tener de forma obligatoria una Junta de Gobierno local o también llamada Comisión de Gobierno
 Qué órganos existen en todos los Municipios
 En qué tipos de municipios se puede establecer el Concejo Abierto
 Cómo son elegidos los Alcaldes en los municipios que funcionan en régimen de Concejo Abierto
@@ -29,3 +29,5 @@ Hay Junta de Gobierno Local en todos los Ayuntamientos
 Un Alcalde puede plantear la cuestión de confianza sobre aprobación o modificación de los presupuestos anuales?
 Un Alcalde puede plantear la cuestión de confianza sobre aprobación o modificación de los reglamentos de policía?
 Un Alcalde puede plantear la cuestión de confianza sobre aprobación o modificación de las ordenanzas fiscales?
+Si ninguno de los candidatos a Alcade obtiene la mayoría necesaria para ser proclamado Alcalde ¿qué ocurre?
+Se puede cambiar la denominación y capitalidad de las provincias?

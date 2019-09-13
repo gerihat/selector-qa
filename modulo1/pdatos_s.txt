@@ -19,3 +19,6 @@ Siempre con el consentimiento del ciudadano y en caso de interés legítimo del 
 Nunca a la vez apellidos, nombre y DNI. Y En caso de aparecer el DNI, sólo 4 dígitos. Si es una notificación por anuncio, sólo DNI
 Si, salvo que sea por interés público y el consentimiento debe ser expreso, nunca tácito
 Para siempre
+Si
+Ministerio de Justicia
+En la rectificación y en la supresión

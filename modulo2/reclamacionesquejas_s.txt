@@ -1,7 +1,7 @@
 Programa de análisis de demanda y evaluación de satisfacción de los usuarios, programa de Cartas de servicio, programa de quejas y sugerencias, programa de evaluación de la calidad de organizaciones, programa de reconocimiento, programa Observatorio Calidad Servicio público
 Analiza necesidades y expectativas de los usuarios, evalúa percepción de los usuarios sobre los servicios mediante encuenstas, sondeos, entrevistas... Como resultado se diseñan los otros programas de calidad, en especial la carta de servicios
 Informa al ciudadano sobre los servicios, sus derechos y el compromiso de calidad. Se actualiza cada 3 años como mínimo.
-Recoge y tramita la insatisfacción de los usuarios con los servicios y las iniciativas para mejorar la calidad
+Recoge y tramita la insatisfacción de los usuarios con los servicios y las iniciativas para mejorar la calidad. Las quejas no son recursos, pero es obligado responderlas en 20 días
 Autoevaluación y evaluación externa (unidad ministerial) para luego elaborar planes de mejora
 Reconocimiento de organizaciones a la excelencia y premios de calidad e innovación en la gestión pública
 Analiza percepción ciudadano, propone iniciativas de mejora, informa al ciudadano sobre calidad, analiza servicios más demandados o importantes. Realiza informe anual

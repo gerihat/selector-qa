@@ -1,0 +1,6 @@
+Es un tipo de programa dañino que secuestra o restringe el acceso a una determinada parte del sistema de archivos del ssoo infectado y pide un rescate a cambio de quitar esa restricción
+Es un programa malicioso que hace referencia a cualquier tipo de programa dañino que trata de afectar a un ordenador
+Conocido como suplantación de identidad, intenta adquirir información de forma fraudulenta habitualmente a través de un enlace en un mensaje de correo electrónico
+Tal y como indica sus siglas VPN (Virtual Private Network) permite crear una linea de conexión privada de red sobre una red pública
+Es una red de ordenadores infectados controlados por un troyano de control y que permite crear ataques de denegación de servicios (DoS) contra una determinada organización o crear plataformas de envío de correo basura
+Un Spyware no pretende dañar el equipo víctima de la infección, sino que pretende extraer de él información sin que sea detectado

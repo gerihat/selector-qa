@@ -30,4 +30,10 @@ Es una herramienta de línea de comandos que permite administrar datos de la con
 No simultáneamente. Ambos hacen uso del conjunto de instruccciones de virtualización del microprocesador (INTEL-VT o AMD-V) y esto sólo lo puede usar uno, de forma que habría que desactivar Hyper-v para poder usar VirtualBox (BCDedit /set hypervisorlaunchtype off)
 Carpetas por defecto y Unidades de disco
 Sistema y Acerca de
-
+Sistema, Dispositivos, Teléfono, Red e Internet, Personalización, Aplicaciones, Cuentas, Hora e idioma, Jueos, Accesibilidad, Buscar, Cortana, Privacidad, Actualización y Seguridad
+En la ventana del explorador, seleccionamos el menú Vista y acivamos la casilla Extensiones de nombre de archivo
+Se abre la ventana de Sistema del antiguo Panel de Control, donde aparece la versión de Widnows, su activación y las características del sistema
+Aparece el menú avanzado de Windows (Win+X), que nos permite entre otras cosas abrir los Administradores de tareas, de dispositivos, de equipos y de discos
+Hay que acceder a Aplicaciones y características: Win+X > Aplicaciones y características, o mediante la ventana de configuración (Win+I) > Aplicaciones
+La forma recomendada por Microsoft es escribir -Panel de Control- en el cuadro de búsqueda de la barra de tareas
+En Configuración > Cuentas > Familia y otros usuarios > Configurar un quiosco multimedia, que nos permite seleccionar una cuenta y una única aplicación que será la que se pueda usar en el Quiosco

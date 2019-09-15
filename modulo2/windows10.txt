@@ -30,3 +30,10 @@ Para qué sirve BCEedit
 Se puede ejecutar sistemas de virtualización cómo Hyper-V y VirtualBox al mismo tiempo?
 Qué información podemos encontrar en la opción "Este equipo" del Explorador de Windows
 Qué opción de la Configuración nos muestra información detallada de la versión de Windows 10 instalada
+Opciones que aparecen en la ventana de Configuración de Windows (WIN+I)
+De qué forma podemos activar que sea vean en el explorador de archivos las extensiones de archivo
+Qué ocurre si le damos con el botón derecho del ratón a Este Equipo en el explorador de archivos
+Qué ocurre si le damos con el botón derecho del ratón al icono de Windows de la barra de tareas
+Cómo se desisntala un programa en Windows 10
+Cómo se accede al antiguo panel de control de Windows
+Cómo se configura el equipo de Windows como un Quiosco multimedia

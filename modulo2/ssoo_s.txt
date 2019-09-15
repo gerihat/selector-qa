@@ -1,2 +1,5 @@
 Linus Torvalds
 Es el núcleo del sistema operativo
+4 GB
+16 TB
+Se llama exFAT. Usado frecuentemente en memorias USB y tarjetas SD de más de 16 GB. Supera el limite de 4GB de tamaño de archivo de FAT32, sin ofrecer algunas de las mejoras de seguridad de NTFS. Es compatible con Windows y OS X

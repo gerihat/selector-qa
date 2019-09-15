@@ -2,3 +2,4 @@ informatica.txt
 hardware.txt
 software.txt
 ssoo.txt
+seguridad.txt

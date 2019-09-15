@@ -1,2 +1,5 @@
 Cómo se llama el creador del sistema operativo Linux
 Qué es el Kernel
+Cuál es el límite máximo de tamaño de archivos en el sistema de archivos FAT32
+Cuál es el límite máximo de tamaño de archivos en el sistema de archivos NTFS
+Cómo se llama el sistema de archivos que mejora FAT32, está relacionado en él y no es NTFS

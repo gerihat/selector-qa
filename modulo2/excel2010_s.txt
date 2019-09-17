@@ -11,7 +11,7 @@ Es una mejora de la herramienta Buscar Objetivo. Buscar Objetivo, permite fijar 
 Es un complemento, no habilitado por defecto en Excel 2010. Habría que ir a Archivo->Opciones->Complemento->Ir..., y habilitarlo
 1. Rango de celdas de la base de datos, 2. Nombre del campo (celda que contiene el nombre del campo), 3. Rango de celdas de criterios
 Todas empiezan por BD (Ej. BDCONTAR, BDPROMEDIO)
-El campo por el que se vaya a calcular el Subtotal debe estar ordenado
+En tablas de datos nos permite calcular subtotales parciales. Por ejemplo: Tenemos una tabla con los campos artículo, ciudad y ventas. Primero ordenados la tabla por el campo ciudad (y adicionalmente el campo artículo). Seleccionamos toda la tabla y al pulsar en la herramientas Subtotal, podremos obtener los subtotales de ventas por cada ciudad
 En el menú Datos->Grupo Herramienas de datos->Análisis Y si
 Por defecto a nivel de hoja, pero mediante la opción Combinar Escenarios del Administrador de Escenarios permite llevar escenarios de una hoja a otra siempre y cuando ambas hojas tengan el contenido del escenario en la misma posición
 En el libro de macros personal. Que es un libro oculto que se carga cada vez que se inicia Excel, en el que sólo estarán las macros grabadas de esa forma

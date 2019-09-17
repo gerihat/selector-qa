@@ -15,3 +15,4 @@
 (Atajos Excel 2010) CTRL+FIN lleva a la última celda de Excel?
 (Atajos Excel 2010) Cómo se abre el editor VBA
 (Atajos Excel 2010) Estando seleccionada una celda, seleccionar el resto de valores de la columna
+(Atajos Excel 2010) Crear un gráfico predeterminado con los datos seleccionados

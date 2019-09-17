@@ -11,7 +11,8 @@ SHIFT+F12
 SHIFT+ENTER
 SHIFT+TAB
 ENTER hacia abajo y TAB hacia la derecha (SHIFT en sentido contrario). Notar que si usamos las teclas de flechas, deseleccionaríamos el rango
-CTRL+i
+CTRL+i. Igual que en Word 2010
 No. LLeva a la última celda ocupada. Para ir a la última fila o columna este ocupada o no: CTRL+Flecha abajo y derecha respectivamente
 ALT+F11
 CTR+SHIFT+Tecla de dirección
+F11. Crea una nueva hoja con el gráfico insertado

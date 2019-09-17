@@ -1,0 +1,35 @@
+MODULO 1. ORGANIZACIÓN PÚBLICA
+******************************
+1. La Constitución Española de 1978. Características. Los principios constitucionales y los valores superiores. Derechos y deberes fundamentales. Su garantía y suspensión.
+2. El Tribunal Constitucional. La reforma de la Constitución. La Corona. Funciones constitucionales del Rey. Sucesión y regencia. 3. Las Cortes Generales: composición, atribuciones y funcionamiento del Congreso de los Diputados y Senado. El Defensor del Pueblo.
+4. El Poder Judicial. El Consejo General del Poder Judicial. El Tribunal Supremo. La organización judicial española.
+5. El Gobierno y la Administración. El Presidente del Gobierno. El Consejo de Ministros. Designación, causas de cese y responsabilidad del
+Gobierno.
+6. El Gobierno Abierto. Concepto y principios informadores. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. El Consejo de Transparencia y Buen Gobierno: funciones. La Agenda 2030 y los Objetivos de Desarrollo Sostenible.
+7. La Administración General del Estado. Los Ministros. Los Secretarios de Estado. Los Subsecretarios. La Administración Periférica del Estado. Órganos y competencias. Otros órganos administrativos.
+8. La Organización territorial del Estado: las Comunidades Autónomas: Constitución y distribución de competencias entre el Estado y las
+Comunidades Autónomas. La Administración local: entidades que la integran. La provincia, el municipio y la isla.
+9. La organización de la Unión Europea. El Consejo Europeo, el Consejo, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea.
+10. Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público y su normativa de desarrollo. El procedimiento administrativo común y sus fases. Medios de impugnación de la actuación administrativa. La revisión
+de oficio. Los recursos administrativos. La jurisdicción contenciosoadministrativa.
+11. La protección de datos personales. Régimen Jurídico. El Reglamento (UE) 2016/679, de 27 de abril, relativo a la protección de las personas
+físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos. Principios y derechos. Obligaciones.
+12. El personal funcionario al servicio de las Administraciones públicas. El Registro Central de Personal. Programación de efectivos y Oferta de Empleo Público. Selección. Provisión de puestos de trabajo. Situaciones administrativas de los funcionarios.
+13. Derechos y deberes de los funcionarios. La carrera administrativa. Promoción interna. El sistema de retribuciones e indemnizaciones. Régimen disciplinario. El régimen de la Seguridad Social de los funcionarios.
+14. El presupuesto del Estado en España. Contenido, elaboración y estructura. Fases del ciclo presupuestario.
+15. Políticas de igualdad de género. La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Discapacidad y dependencia.
+MODULO 2. ACTIVIDAD ADMINISTRATIVA Y OFIMÁTICA
+**********************************************
+1. Atención al público: acogida e información al ciudadano. Atención de personas con discapacidad.
+2. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones.
+3. Concepto de documento, registro y archivo. Funciones del registro y del archivo. Clases de archivo y criterios de ordenación.
+4. Administración electrónica y servicios al ciudadano. La información administrativa. Análisis de principales páginas web de carácter público. Servicios telemáticos. Oficinas integradas de atención al ciudadano. Ventanilla única empresarial. El Punto de Acceso General de la
+Administración General del Estado.
+5. Informática básica: conceptos fundamentales sobre el hardware y el software. Sistemas de almacenamiento de datos. Sistemas operativos. Nociones básicas de seguridad informática.
+6. Introducción al sistema operativo: el entorno Windows. Fundamentos. Trabajo en el entorno gráfico de Windows: ventanas, iconos, menús contextuales, cuadros de diálogo. El escritorio y sus elementos. El menú inicio. Cortana.
+7. El explorador de Windows. Gestión de carpetas y archivos. Operaciones de búsqueda. Herramientas “Este equipo” y “Acceso rápido”. Accesorios. Herramientas del sistema.
+8. Procesadores de texto: Word. Principales funciones y utilidades. Creación y estructuración del documento. Gestión, grabación, recuperación e impresión de ficheros. Personalización del entorno de trabajo. 
+9. Hojas de cálculo: Excel. Principales funciones y utilidades. Libros, hojas y celdas. Configuración. Introducción y edición de datos. Fórmulas y funciones. Gráficos. Gestión de datos. Personalización del entorno de trabajo.
+10. Bases de datos: Access. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos.
+11. Correo electrónico: conceptos elementales y funcionamiento. El entorno de trabajo. Enviar, recibir, responder y reenviar mensajes. Creación de mensajes. Reglas de mensaje. Libreta de direcciones.
+12. La Red Internet: origen, evolución y estado actual. Conceptos elementales sobre protocolos y servicios en Internet. Funcionalidades básicas de los navegadores web.

@@ -23,3 +23,4 @@ Qué es una copia certificada de un documento
 Qué es una copia compulsada de un documento
 Una oficina de registro está obligada a compulsar una copia de un documento original?
 La copia compulsada acredita la autenticidad del documento original?
+Un documento original que lleva el sello y la firma del autor es un documento que tiene validez o autenticidad?

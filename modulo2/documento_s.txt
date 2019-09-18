@@ -23,3 +23,4 @@ Es la reproducción que hace la Administración de un documento original que med
 Es una copia simple realizada por un particular pero que ha sido cotejada por la Administración a efectos de comprobación de la conformidad con el original
 No, esa copia debe acompañar a escritos presentados por el ciudadano en la Administración. No se puede compulsar un documento que no tiene entrada en el registro
 No garantiza la autenticidad del original, pero si tiene la misma validez que el original en el procedimiento que se trate
+Validez

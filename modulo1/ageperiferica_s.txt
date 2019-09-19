@@ -14,6 +14,7 @@ Aunque orgánicamente el Delegado depende del Presidente, puede recibir instrucc
 La localidad donde tenga su sede el Consejo de Gobierno de la CA
 No. Es Administración Local
 No. Es Administración Local
+No. Es Administración Local
 Si
 No
 El Subdelegado del Gobierno que designe, y en su defecto, el de la provincia en que tenga su sede. En las CCAA uniprovinciales que no existe Subdelegado la suplencia corresponde al Secretario General 
@@ -21,3 +22,4 @@ Al Secretario General
 Subdelegaciones de Gobierno, Direcciones insulares, Secretarías Generales, Gabinetes y servicios integrados
 El Delegado del Gobierno
 El Subdelegado del Gobierno
+Existen Subdelegaciones en cada provincia, salvo en las comunidades uniprovinciales (con excepción de Madrid), ceuta y melilla. Es decir las funciones que la ley atribuye al subdelegado, las asume el delegado en Asturias, La Rioja, Murcia, Cantabria, Navarra, Islas Baleares,  Ceuta y Melilla

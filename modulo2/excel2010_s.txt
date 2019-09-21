@@ -33,7 +33,7 @@ Sería 1/1/1930, las fechas así introducidas llegan hasta 2029. Si hubiéramos 
 Sería 1/1/2029, las fechas así introducidas llegan hasta 2029. Si hubiéramos puesto 1/1/30, sería 1930
 General, Izquierda (con sangría), Derecha (con sangría), Centrar, Rellenar, Justificar, Centrar en la selección, Distribuido
 Aparece el error ######
-Relativa, absoluta, mixtas, 3D (a hoja) y 4D (a libro)
+Relativa (C4), absoluta ($C$4), mixtas (C$4), 3D (a hoja, Hoja1!C4) y 4D (a libro, Libro1!Hoja1!C4)
 Con el carácter !. Ej: Hoja1!D4
 OLAP (Online Analytical Processing) es una estructura de datos que supera las limitaciones de las bases de datos relacionales y permite trabajar con datos multidimensionales
 Financieras, Fecha y Hora, Matemáticas y Trigonométricas, Estadísticas, Búsqueda y referencia, Bases de datos, Texto, Lógicas, Información, Ingenería, Cubo
@@ -55,7 +55,7 @@ Obliga a mostrar espacios en el lugar de ceros no significativos a ambos lados d
 Formato Especial. En esa opción tenemos Código postal, Código postal +4, Número de teléfono, Número del seguro social
 Formato Especial
 Código postal, Código postal + 4, Número de teléfono, Número del seguro social
-1,00E+02
+1,00E+03
 Devuelve 2. La división es 2,66 pero la función COCIENTE sólo devuelve la parte entera
 Se conservan solo los datos del extremo superior izquierdo
 Aparece 1/2. Los campos tipo fracción reducen la fracción al mínimo

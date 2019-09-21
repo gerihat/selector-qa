@@ -1,0 +1,5 @@
+FORMATOS DE NÚMERO PERSONALIZADO EN EXCEL 2010
+**********************************************
+0	Muestra un dígito o 0
+#	Espacio reservado para cero, uno o más dígitos
+?	Muestra un dígito o espacio

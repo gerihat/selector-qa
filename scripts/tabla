@@ -9,7 +9,7 @@ function ayuda {
 	echo "Usage: tabla <filename>.txt"
 	echo " :tabla without argument list tables"
 }
-tablepath="$HOME/oposiciones/extras"
+tablepath="$HOME/oposiciones/extras/tablas"
 
 if [ "$#" -eq 0 ]; then
 	ls "$tablepath/"t* | sed 's#.*/##'
@@ -32,17 +32,17 @@ shift $((OPTIND -1))
 # Main
 
 #Comprobar que se pasa un nombre válido de fichero
-if [[ $1 =~ \.!txt$ ]]; then
-	ayuda
-	exit 2;
+if [[ $1 =~ \.txt$ ]]; then
+	filename=$tablepath'/'$1
+else
+	filename=$tablepath'/'$1'.txt'
 fi
 
-filename=$tablepath'/'$1
 #Comprobar que el fichero pasado como parámetro existe
 if [[ ! -f $filename ]]; then
-	echo "entra aqui2"
 	echo "Tabla (E): Fichero no encontrado"
 	ayuda
+	exit 1;
 fi
 
 less $filename

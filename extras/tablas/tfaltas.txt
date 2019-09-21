@@ -1,0 +1,33 @@
+REGIMEN DISCIPLINARIO FUNCIONARIOS PÚBLICOS
+*******************************************
+FALTAS LEVES		FALTAS GRAVES		  FALTAS MUY GRAVES
+_________________________________________________________________
+-No horario		-Desobediencia sup	  -No respeto CE
+-Falta asistencia 1dia	-Abuso autoridad	  -Discriminación, acoso
+-Incorrección		-Conducta delito doloso	  -Acoso laboral
+-Descuido/negligencia	-Tolerancia faltas	  -Abandono ejercicio
+-Incumplimiento deber	-Desconsideración sup	  -Acuerdos ilegales muy graves
+			-Daño local		  -Mal uso documental
+			-Intervenir proced.	  -No secreto oficial
+			-Acuerdos ilegales	  -Incumplimiento funciones
+			-No rendimiento		  -Violación imparcialidad
+			-No sigilo asuntos	  -Desobediencia abierta órdenes
+			-Incumplimiento plazos	  -Beneficio indebido
+			 incompatibilidad	  -No libertad derecho sindical
+			-No jornada (10horas/mes) -No servicios esenciales
+			-Falta asistencia 3dias	  -No normas incompatibilidad
+			-Grave perturbación serv. -Incomparecencia injustificada en
+			-Atentado dignidad grave   comisiones de investigación
+			-Evadir control horarios
+
+PRESCRIPCIÓN DE INFRACCIONES Y SANCIONES
+*******************************************
+				ALTO CARGO
+___________________________________________
+		inf	san	inf	san
+___________________________________________
+LEVE	    |	6m	1a  |	1a	1a
+GRAVE	    |	2a	2a  |	3a	3a
+MUY GRAVE   |	3a	3a  |	5a	5a
+___________________________________________
+m:meses, a:años

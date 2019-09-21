@@ -1,0 +1,11 @@
+ERRORES EN EXCEL
+****************
+
+#####		Fecha errónea (negativa) o contenido exece límites celda
+#¡NUM!		Se esperaba núm válido en fórmula o núm es grande/pequeño
+#¿NOMBRE?	El nombre de la función es erróneo
+#¡REF!		Se hace una referencia a una celda no válida
+¡DIV/0)!	División por cero
+#¡VALOR!	Param no válido. Ej. Se pasa núm en vez de rango
+#¡NULO!		Suele salir al no incluir los dos puntos en un rango
+#N/A		Faltan datos o el dato no existe. BUSCARV/BUSCARH (error valor buscado)

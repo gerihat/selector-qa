@@ -16,10 +16,12 @@ Un Cabildo es Administración Periférica del Estado?
 Un Ayuntamiento es Administración Periférica del Estado?
 Una Diputación Provincial es Administración Periférica del Estado?
 Las Delegaciones Provinciales de Economía y Hacienda son Administración Periférica del Estado?
-Las Secretarías de Estado son Administración Periférica del Ehstado?
+Las Secretarías de Estado son Administración Periférica del Estado?
 Quién representa temporalmente a los Delegados del Gobierno en caso de ausencia, vacante o enfermedad del mismo.
 A quién corresponde la suplencia del Delegado del Gobierno en una CA uniprovincial, cuando en ella no exista Subdelegado del Gobierno
 Qué órganos integran una Delegación de Gobierno
 Quién se encarga de coordinar la AGE en la CA con la Administración de la CA
 Quién se encarga de la comunicación, colaboración y cooperación con las Corporaciones Locales
 Existen Subdelegaciones del Gobierno en todas las provincias?
+Las CA uniprovinciales tienen Subgelegado del Gobierno?
+Qué funciones ejercen los Directores Insulares?

@@ -22,4 +22,6 @@ Al Secretario General
 Subdelegaciones de Gobierno, Direcciones insulares, Secretarías Generales, Gabinetes y servicios integrados
 El Delegado del Gobierno
 El Subdelegado del Gobierno
-Existen Subdelegaciones en cada provincia, salvo en las comunidades uniprovinciales (con excepción de Madrid), ceuta y melilla. Es decir las funciones que la ley atribuye al subdelegado, las asume el delegado en Asturias, La Rioja, Murcia, Cantabria, Navarra, Islas Baleares,  Ceuta y Melilla
+Existen Subdelegaciones en cada provincia, salvo en las comunidades uniprovinciales (con excepción de Madrid), Ceuta y Melilla. Es decir las funciones que la ley atribuye al subdelegado, las asume el delegado en Asturias, La Rioja, Murcia, Cantabria, Navarra, Islas Baleares,  Ceuta y Melilla
+No, salvo que sean creados por Real Decreto cuando las circunstancias lo justifiquen
+Las atribuídas a los Subdelegados de Gobierno en las provincias

@@ -42,3 +42,5 @@ Por supresión de puestos de trabajo como consecuencia de un Plan de Empleo
 A la Secretaría de Estado para la Administración Pública
 No, en ningún caso
 La suspensión provisional es una medida especial para la tramitación de un proceo judicial o un expediente disciplinario. Si la suspensión excede de 6 meses, conlleva la pérdida del puesto de trabajo. La suspensión firme es por condena criminal o sanción disciplinaria. En el caso de sanción disciplinaria no superará los 6 años
+Si debe ser aceptada, salvo que exista expediente disciplinario o haya sido dictado en su contra auto de procesamiento o de apertura de juicio oral por la comisión de algún delito
+No inhabilita para volver a acceder a través del procedimiento de selección establecido

@@ -16,11 +16,11 @@ __________________________________________
 
 PROMOCIÓN
 __________________________________________
-HORIZONTAL	SUBIR GRUPO
+VERTICAL	SUBIR GRUPO
 		De C2 a C1
 		Proceso de selección
 ------------------------------------------
-VERTICAL	MISMO SUBGRUPO
+HORIZONTAL	MISMO SUBGRUPO
 		Acceo a otro cuerpo/escala
 		Cambio puesto
 		De C1 Aux Admin a

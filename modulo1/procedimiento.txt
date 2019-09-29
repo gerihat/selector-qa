@@ -34,6 +34,7 @@ Qué debe contener la resolución
 Si desisto de una solicitud, la Administración me puede denegar el desistimiento?
 Si el interesado no realiza la cumplimentación de trámites (inactividad) que ocurre
 Cuándo se produce caducidad en un procedimiento
+En procedimientos iniciados a solicitud del interesado, si se produce paralización por causa imputable al mismo, que advertencia emite la Administración relacionada con la caducidad del procedimiento
 Un procedimiento caducado puede volver a iniciarse
 Un procedimiento iniciado tras otro que es caducado, que fases de Instrucción son obligatorias
 Cuántos días como máximo puede tener la tramitación simplificada de un procedimiento

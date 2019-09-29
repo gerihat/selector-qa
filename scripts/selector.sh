@@ -91,7 +91,7 @@ function selectorSeq {
 	opa=$(echo "$question" | sed 's/.* a) \(.*\) b) .*/\1/')
 	opb=$(echo "${red}b)$question" | sed 's/.* b) \(.*\) c) .*/\1/')
 	opc=$(echo "${red}c)$question" | sed 's/.* c) \(.*\) d) .*/\1/')
-	opd="${question##*d)}"
+	opd="${question##*d) }"
 	echo -e "${q}\n${red}a)${endColor} ${opa}\n${red}b)${endColor} ${opb}\n${red}c)${endColor} ${opc}\n${red}d)${endColor} ${opd}"
 	read -n 1 -s input < /dev/tty
   else

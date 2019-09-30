@@ -17,3 +17,4 @@ Porcentaje mínimo de proyectos de viviendas protegidas que se deben programar c
 Porcentaje mínimo de trabajadores con discapacidad que debe tener un empresa pública o privada con 50 trabajadores o más
 Qué es un centro especial de empleo
 Porcentaje mínimo de trabajadores con discapacidad que debe tener un centro especial de empleo
+Grado mínimo de discapacidad para poder acceder a las plazas reservadas para las personas con minusvalía

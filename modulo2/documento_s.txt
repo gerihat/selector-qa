@@ -25,3 +25,4 @@ Es una copia de un documento original que es sellada y firmada y que certifica q
 No, esa copia debe acompañar a escritos presentados por el ciudadano en la Administración. No se puede compulsar un documento que no tiene entrada en el registro
 No garantiza la autenticidad del original, pero si tiene la misma validez que el original en el procedimiento que se trate
 Validez
+El documento original

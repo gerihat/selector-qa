@@ -23,3 +23,4 @@ Se debe recibir un consentimiento expreso separado para cada fin
 Para qué se van a usar sus datos, por cuánto tiempo y quién será el responsable del tratamiento
 Hay una oblicación legal, media interés vital o público, hay un contrato o si la empresa o autoridad pública alega interés legítimo, que tendrá que argumentar
 A todas las personas, que se encuentren en la UE. Importante matiz con respecto a la directiva anterior. Este reglamento se aplica en la UE, sea quien sea la persona o empresa. Es decir, una empresa de EEUU que trata datos de una persona que se encuentra en la UE o un japonés que se encuentra en la UE y recibe un tratamiento de datos
+Bajo el control de las autoridades públicas

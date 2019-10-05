@@ -43,6 +43,7 @@ Qué puede hacer el interesado si la administración decide de oficio la tramita
 Qué plazo se tiene de Alegaciones en la tramitación simplificada
 Existe trámite de audiencia en los procedimientos con tramitación simplificada?
 Existe periodo de prueba en los procedimientos con tramitación simplificada?
+El informe del servicio jurídico es parte integrante de la tramitación simplificada?
 En qué consiste la tramitación de urgencia
 Un acto de ejecución material se puede suspender?
 Un acto de ejecución material de naturaleza sancionadora es de directa aplicación?
@@ -69,3 +70,4 @@ Cuando una solicitud de iniciación de un procedimiento no reúne los requisitos
 Puede la Administración limitar los efectos del desistimiento por parte de un interesado y continuar el procedimiento si este tiene interés general?
 Por qué medio de prueba se pueden acreditar hechos relevantes para la decisión en un procedimiento
 El procedimiento disciplinario termina mediante resolución en plazo, excepto...
+Qué es la recusación del procedimiento administrativo

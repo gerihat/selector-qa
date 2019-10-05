@@ -14,6 +14,9 @@ Instituto Social de las Fuerzas Armadas
 Es un organismo público con personalidad jurídica diferenciada y tesorería propia con autonomía de gestión
 Asistencia sanitaria, asistencia social, servicios sociales, subsidio incapacidad temporal, prestación incapacidad permanente, prestación gran inválido, indemnización lesiones, prestación hijos minusválidos, ayuda parto múltiple
 Si, durante los 3 primeros meses
+Finalización de la licencia de enfermedad, declaración de jubilación, fallecimiento y transcurso del plazo máximo de duración de 24 meses (2 años)
+No
+6 meses, salvo enfermedad profesional o accidente en acto de servicio o como consecuencia de él
 Mutualista jubilado por incapacidad permanente con: 1. Ciego, 2. Pérdida anatómica o funcional de pies/manos, 3. Pérdida anatómica o funcional que implique ser asistido por otra persona
 Más de 3 pensiones
 4 años
@@ -21,3 +24,6 @@ A MUFACE
 Funcionarios de carrera de la AGE, funcionarios de carrera de las Cortes Generales, funcionarios de carrera de la Administración de Justicia, Personal militar profesional
 60 años de edad como mínimo y 30 años de servicio efectivos al Estado. En el caso de que la jubilación fuese forzosa (a los 65/70 años) se requieren 15 años de servicio efectivo al Estado
 A la Seguridad Social, ya que están incluídos en el RGSS
+Si
+El cónyuge superviviente, cuando no pueda acceer a la pensión de viudedad por no acreditar que su matrimonio con el causante ha tenido una duración de 1 año, o por la inexistencia de hijos comunes, siempre que reúna el resto de requisitos generales (alta y cotización)
+Duración de 2 años

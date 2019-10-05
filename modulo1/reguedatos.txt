@@ -23,3 +23,4 @@ Si los datos recabados se van a usar para varios fines qué tipo de consentimien
 Qué tres principales informaciones hay que dar al ciudadano en el momento de recabar los datos
 En qué casos no es obligatorio el consentimiento expreso por parte del ciudadano para el tratamiento de datos
 A quién afecta este reglamento
+Bajo que órgano sólo es posible llevar un registro completo de condenas penales

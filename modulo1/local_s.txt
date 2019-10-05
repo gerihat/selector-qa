@@ -16,6 +16,8 @@ Municipio, Provincia, Isla
 El Municipio
 El Municipio
 Comarca, Area Metropolitana, Mancomunidad de Municipios
+Si, las entidades locales territoriales son el municipio, la provincia y la isla
+No, las entidades locales territoriales son el municipio, la provincia y la isla
 Presidente y Vicepresidentes, Pleno, Junta de Gobierno
 En pleno por mayoría absoluta en primera votación y simple en segunda votación
 Los de más de 250.000 habitantes y las capitales de más de 175.000 habitantes

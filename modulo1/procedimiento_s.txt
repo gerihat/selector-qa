@@ -27,7 +27,7 @@ Acuerdo, pacto, convenio o contrato con personas derecho público o privado, que
 El que dicte el procedimiento, si no indica nada 3 meses y como máximo 6 meses
 La entrada de la solicitud en el registro electrónico
 La fecha de acuerdo de iniciación
-Falta de documentación, Pronunciamiento necesario de la UE, existe procedimiento no finalizado igual en la UE, informe preceptivo (3 meses), pruebas técnicas, negociaciones pacto, pronunciamiento de organismo judisdiccional
+Falta de documentación, Pronunciamiento previo y preceptivo (no facultativo) necesario de la UE, existe procedimiento no finalizado igual en la UE, informe preceptivo (máximo 3 meses, si no llega en plazo se continúa procedimiento), pruebas técnicas, negociaciones pacto, pronunciamiento de organismo judisdiccional. Importante el matiz <<se puede suspender>>. Hay otras causas por las que <<se suspenderá>> en todo caso el procedimiento
 1. Por requerimiento de otra Administración Pública porque un acto considera que es ilegal y ese acto es base para sus competencias. 2. Por actuaciones complementarias. 3. Por recusación del interesado
 Si cuando falten medios, y el plazo no puede ser superior al establecido para la tramitación del propio procedimiento. No cabe recurso contra la ampliación
 La decisión (motivada en su caso) y los recursos admisibles (órgano para presentarlos y plazos)
@@ -43,6 +43,7 @@ Puede negarse y por tanto seguir la tramitación ordinaria
 5 días
 Si en caso de que la resolución vaya a ser desfavorable para el interesado
 No. Los hechos que impulsaron el procedimiento se consideran ya acreditados
+Si, sólo si es preceptivo
 Ojo, no confundir con tramitación simplificada. La tramitación de urgencia se realiza de oficio o a petición del interesado y por razones de interés público. Los plazos del procedimiento ordinario equivalente se reducen a la mitad, salvo los relativos a la presentación de solicitudes y recursos y no cabe recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia
 Si
 No, si cabe recurso en vía administrativa, incluído el potestativo de reposición
@@ -69,3 +70,4 @@ Que el interesado desiste de su petición
 Si. Importante el hecho de que el procedimiento es de interés general
 Por cualquier medio de prueba admisible en Derecho
 ...en caso de separación del servicio
+Es una facultad del interesado en el procedimiento por la cual si considera que concurre alguna de las causas de abstención en el títular de un órgano o miembro y a pesar de ello ha participado o intervenido en el procedimiento, puede promover la recusación solicitando que no actúe dicho funcionario en el procedimiento. La recusación se puede promover en cualquier momento del procedimiento

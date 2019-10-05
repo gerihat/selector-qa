@@ -8,6 +8,7 @@ Con qué mínimo de morosidad puede ser incluído un ciudadano en el Sistema de 
 Cuánto tiempo se está incluído en el Sistema de Información de Solvencia crediticia
 En qué casos es obligatoria la presencia de un Delegado de Protección de Datos en el sector privado
 Tiene responsabilidad personal el Delegado de Protección de Datos?
+Un grupo empresarial puede nombrar un único delegado de protección de datos?
 Qué derechos de protección de datos tiene un empleado para con su empresa
 Qué con las listas Robinson
 En cuánto tiempo debe responder el Delegado de Protección de Datos a una reclamación

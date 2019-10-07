@@ -24,3 +24,5 @@ Qué tres principales informaciones hay que dar al ciudadano en el momento de re
 En qué casos no es obligatorio el consentimiento expreso por parte del ciudadano para el tratamiento de datos
 A quién afecta este reglamento
 Bajo que órgano sólo es posible llevar un registro completo de condenas penales
+El responsable del tratamiento está obligado a facilitar al interesado, en base a su solicitud, una copia de los datos personales objeto del tratamiento?
+Si la solicitud del interesado de obtención de copia de los datos objeto de tratamiento resulta repetitiva, qué puede hacer el responsable del tratamiento

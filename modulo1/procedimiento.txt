@@ -9,6 +9,10 @@ Qué es una Declaración responsable
 Qué es una Comunicación previa
 Diferencia entre Declaración responsable y Comunicación previa
 Enumera los pasos que pueden existir en la fase de instrucción del procedimiento
+En qué momento se puede iniciar el período de información previa
+Qué órgano es competente para efecutar medidas provisionales, el que instruye o el que resuelve
+Qué órgano es competente para abrir el período de prueba, el que instruye o el que resuelve
+Qué órgano es competente para acordar el período de informació pública
 Cuál es el plazo del periodo de prueba
 Cuál es el plazo del trámite de audiencia
 Cómo son los informes en el procedimiento si no se indica nada
@@ -71,3 +75,4 @@ Puede la Administración limitar los efectos del desistimiento por parte de un i
 Por qué medio de prueba se pueden acreditar hechos relevantes para la decisión en un procedimiento
 El procedimiento disciplinario termina mediante resolución en plazo, excepto...
 Qué es la recusación del procedimiento administrativo
+En el procedimiento sancionador a quién se le encomienda al inicio del procedimiento las fases instructora y sancionadora

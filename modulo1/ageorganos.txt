@@ -1,6 +1,7 @@
 Cómo se crean, modifican y suprimen los Ministerios
 Cómo se crean, modifican y suprimen las Secreterías de Estado
 Quién nombra a los Ministros
+Los Ministros de quién son superiores jerárquicos directos
 Cómo se nombran y cesan a los Secretarios de Estado
 Cómo se nombran y cesan a los Subsecretarios
 Cómo se nombran y cesan a los Secretarios Generales

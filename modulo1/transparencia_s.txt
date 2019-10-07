@@ -9,6 +9,7 @@ identidad, información que se pide, contacto (preferente email), modo de acceso
 Mediante resolución motivada. Y cuando la información está en elaboración, es información auxiliar (notas, opiniones, etc), la información que se pide tendría que ser reelaborada, la información no está en poder del órgano al que se pide (en este caso el órgano se la reenvia al competente) o la solicitud es abusiva
 En principio se admite, y se da 10 días para subsanarla
 Se da un plazo de 15 días para que esa tercera persona, presenta alegaciones
+El solicitante no está obligado a motivasr su solicitud. Sin embargo, podrá exponer los motivos por los que solicita la información y que podrán ser tenidos en cuenta cuando se dicte la resolución
 Qué el órgano que recibe la solicitud la reenvía al creador de la información para que decida su acceso
 1 mes (ampliable otro mes). Si no se resuelve se considera la solicitud desestimada. Las resoluciones negativas deben ser motivadas y son recurribles en conte-admin. Si se incumple en la resolución es infracción grave
 3 meses

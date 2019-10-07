@@ -24,7 +24,7 @@ No hay máximo
 No hace falta antigüedad
 No hay retribuciones al ser voluntaria
 No hay retribuciones al ser voluntaria
-Computa el tiempo para trienios, carrera y régimen SS
+Computa el tiempo para trienios, carrera y régimen SS. No devengará retribuciones
 Durante 2 primeros meses, retribuciones íntegras y prestaciones familiares
 Durante 2 primeros meses, retribuciones íntegras y prestaciones familiares
 Debe volver por adscripción provisional o participando en concursos de provisión

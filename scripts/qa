@@ -34,7 +34,7 @@ fi
 
 #Comprobar que el fichero pasado como parámetro existe
 if [[ ! -f $2 ]]; then
-	echo "Selector (E): Fichero no encontrado"
+	echo "qa (E): Fichero no encontrado"
 	ayuda
 	exit 2
 fi

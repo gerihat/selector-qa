@@ -1,0 +1,40 @@
+#!/bin/bash 
+
+#Colors
+blue='\033[1;34m'
+endColor='\033[0m'
+
+function ayuda {
+	echo "Usage: sin <word>"
+}
+
+if [ "$#" -eq 0 ]; then
+	ayuda
+	exit 1
+fi
+
+while getopts n opt; do
+	case ${opt} in
+		h) # ayuda
+		   ayuda
+		   exit 0
+		   ;;
+	esac
+done
+
+shift $((OPTIND -1))
+
+# Main
+
+filename="$HOME/oposiciones/extras/sinonimos.txt"
+filename_solutions="${filename%.*}_s.${filename##*.}"
+
+#TODO: Mejora posible. Mostrar todas las ocurrencias de expresion. Ej: sin h > mostrar todas las palabras y sus sinonimos que contengan h.
+#Para ello, numline contendrá los números de linea separados por espacio, hay que eliminar los head -1 y añadir un bucle que recorra numline
+numline=$(grep -ni $1 $filename | head -1 | awk -F: '{print $1}')
+if [ ! -z "$numline" ]; then
+	echo -n "P: ";grep -ni $1 $filename | head -1
+	echo -ne "R: ${blue}";sed "$numline!d" $filename_solutions;echo -e "${endColor}"
+else
+	echo "sin: Palabra no encontrada"
+fi

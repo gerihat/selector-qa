@@ -2,6 +2,7 @@ Qué regulta las relaciones externas entre la Administración y los ciudadanos
 Eficacia, jerarquía, descentralización, desconcentración y coordinación
 AGE, Admin CCAA, Entidades Admin. Local, Sector público institucional (entidades derecho público/privado vinculadas, universidades, etc)
 AGE, Admin CCAA, Entidades Locales, Entidades derecho público
+Organismos públicos vinculados o dependientes de la AGE (organimos autónomos, entidades públicas empresariales), autoridades administrativas independientes, sociedades mercantiles estatales, consorcios, fundaciones del sector público, fondos sin personalidad jurídica, universidades públicas no transferidas
 Se rigen por su normativa específica y supletoriamente por las previsiones de la ley 39/2015
 Ley 39/2015 1-oct
 Conocer estado tramitación, sentido del silencio administrativo, órgano competente e identifiación de intervinientes, no presentar doc. original salvo norma, no presentar doc. no exigida o ya en poder de la Admin, actuar con asesor, presentar doc. en cualquier fase antes de audiencia, pago electrónico

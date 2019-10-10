@@ -94,9 +94,12 @@ Dónde se introduce de forma predeterminada en el diseño de un formulario si us
 Una tabla y una consulta pueden tener el mismo nombre?
 Qué otros valores son equivalente a "Si" en un campo Si/No
 Cuáles son los formatos de tipo Fecha/Hora que existen
+Indica si lo siguiente es una fecha larga, mediana o corta: 19-jun-07
+Indica si lo siguiente es una fecha larga, mediana o corta: 16/06/2017
 El nombre de un campo en una tabla puede tener espacios en blanco?
 Diferencia entre máscara de entrada y regla de validación en las propiedades de un campo
 Con qué tipos de datos es posible usar una máscara de entrada
 Cómo se establece una máscara de entrada en un campo de tipo Numérico
 Tipos de filtros permitidos en Access 2010
 Si intentas borrar un registro de una tabla que tiene una relación con otra tabla con integridad referencial y la casilla de eliminar en cascada está desactivada, qué ocurre? Se elimina sólo el registro de la primera tabla?
+Qué lenguaje se utiliza en un módulo de Access 2010

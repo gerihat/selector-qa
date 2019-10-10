@@ -1,2 +1,3 @@
 Desde el punto de vista funcional, en qué tres grandes grupos se puede clasificar el software
 Qué es un bootkit
+Qué es un bloatware

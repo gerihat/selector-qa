@@ -13,7 +13,7 @@ Diseño y Presentación (herramientas de tabla)
 El comando es winword (que introduciríamos en la ventana Ejecutar -Win+R- de Windows 10)
 Word 14
 Si, en insertar>captura, hay una opción para capturar un trozo de pantalla e insertarla en el documento
-Si
+Si, al instalar acrobat PDF, se añade un complemento COM que nos permite guardar e imprimir un documento en PDF
 =rand(x,y) Donde x=nº de párrafos, y=nº de frases. También se puede usar sin parámetros. O usar =lorem() para mostrar el texto latino "Lorem ipsum..."
 Office Open XML
 Espacio horizontal entre letras consecutivas en base a la formología de la fuente  o Interletraje para fuentes. Se configura en la ventana Avanzado de las propiedades Fuente
@@ -28,7 +28,7 @@ En la Opción Información en la pestaña Archivo, se añade un documento al arc
 Opción Información en la pestaña Archivo
 Informa a los lectores de que el documento es definitivo y lo convierte en un documento de sólo lectura
 Pulsando en la esquina inferior de la sección configurar página en la pestaña Diseño de Página o pulsando dos veces en la regla izquierda
-Mantiene todas las líneas de un mismo párrafo juntas en la misma página. Se encuenta entre las propiedades de párrafo (ALT->F->P) en la segunda ficha Linéas y saltos de página
+Mantiene todas las líneas de un mismo párrafo juntas en la misma página. Se encuenta entre las propiedades de párrafo (ALT->F->P) en la segunda ficha Líneas y saltos de página
 Sencillo, Múltiple, 1,5 líneas (que es múltiple en 1,5), Doble, Mínimo y Exacto
 Si es posible aunque de forma predeterminada esta deshabilitado. Se habilita en la sección Configurar Página de la ficha Diseño de página. Hay dos opciones: Automático y Manual
 Si está habilitada la opción de dividir con guiones en la configuración de página, la opción No dividir con guiones la deshabilita para el párrafo seleccionado
@@ -39,7 +39,7 @@ A párrafo, a celda y a tabla
 Tabulación izquierda, centrada, derecha, decimal y barra
 1,25cm
 Es un documento en el que trabajan varias personas de forma simultánea y que sirve de concentrador de todos los documentos individuales en los que cada persona trabaja
-Por defecto al crear un estilo, se crea para el documento actual. Para crearlo disponible a todos los estilo, en el cuadro de diálogo de crear nuevo esitlo a partir de formato hay que seleccionar Documentos nuevos basados en esta plantilla
+Por defecto al crear un estilo, se crea para el documento actual. Para crearlo disponible a todos los nuevos documentos, en el cuadro de diálogo de crear nuevo estilo, a partir de formato hay que seleccionar Documentos nuevos basados en esta plantilla
 Se hace desde el organizador de estilos. Es necesario eliminarlo en la plantilla normal.dotm, puesto que si lo intentamos eliminar desde la lista de estilos, sólo lo eliminamos en el documento abierto
 De tipo párrafo, de tipo carácter, Vinculado (de párrafo y carácter), de tabla, de lista
 En los estilos de tipo carácter y tipo párrafo, se aplica el estilo a los caracteres seleccionados o al párrafo completo respectivamente. El tipo de estilo vinculado aplicaría el estilo, a la selección o al párrafo completo en función de lo que se desee. Actúa por tanto como un estilo de tipo cáracter y tipo párrafo
@@ -55,5 +55,7 @@ Una carta, un correo electrónico, un sobre, una etiqueta o un directorio o un d
 Una BBDD Access, un archivo Excel, lista de contactos de Outlook  o un documento de texto formateado (tabla)
 En Documentos>Mis archivos de origen de datos
 Se crean todas las cartas en el mismo fichero
+Se utiliza sobre todo la regla si...entonces...sino... mediante la cual podemos mostrar un texto u otro en función de cada campo en la lista de correspondencia
 Se utilizan las Reglas (en la ficha Correspondencia), siendo entre ellas la más común Si...Entonces...Sino, que permite mostrar un texto en función del registro o destinatario
 Al crear la página con todas las etiquetas, realmente editamos la primera de ellas. Es donde insertamos los campos. Y el resto de la página, se rellena con el resto de registros de la fuente de datos al pulsar en el botón Actualizar etiquetas. Si eliminamos alguna de las marcas de <<Próximo registro>>, en el espacio de esa etiqueta se repetiría el registro anterior
+Si. Al crear una tabla aparecen las fichas diseño y presentación. En la ficha presentación tenemos el botón fórmulas que nos permite insertar una operación simple en una celda que realizará por ejemplo la operación con las celdas superiores SUM(ABOVE)

@@ -35,3 +35,4 @@ Cuántos kg es un litro de agua
 Cómo se calcula una regla de tres inversa. Ej: Una fuente que arroja 200 l/min tarda 375 min en llenar un estanque ¿Cuánto tardaría si su caudal fuera de 125 l/min?
 Fórmula del reparto proporcional. Repartir 100€ entre dos personas con 5 y 8 años de antigüedad en la empresa
 Fórmula de una ecuación de segundo grado
+Cómo es la representación científica del número 100,3456

@@ -22,7 +22,7 @@ Se guarda automáticamente
 Entero largo
 Byte, Entero, Entero largo, Simple, Doble, Id. de réplica, Decimal
 255 caracteres
-0-255
+0-255. Un byte son 8 bits. 2^8 son 255 valores posibles
 Regla de validación. Indicando por ejemplo: <100. Con una máscara de entrada podríamos especificar que el dato a introducir debe ser de 2 cifras o 3 cifras
 Colocando ">" en la propiedad Formato del campo. El carácter "<" haría lo contrario
 Debe escribir una letra
@@ -92,11 +92,14 @@ Es el motor de base de datos Access hasta la versión 2003
 Desde la versión 2007, todos los archivos de base de datos Access están por defecto cifrados
 En el encabezado de formulario, o en su caso en la sección de detalle, si no existe encabezado
 No
-"Activado" y "-1"
+Activado, Verdadero y -1
 Fecha general, corta, mediana y larga. Hora corta, mediana y larga. Fecha general incluye fecha y hora: 19/09/2007 17:34:23
+Mediana
+Corta
 Si, pero no es recomendable por posibles conflictos en el trabajo con macros y módulos
 Con las máscara de entrada obligamos al usuario a introducir el dato de una forma determinada, para que todos los datos en ese campo sean homogéneos, como por ejemplo que todos los números de teléfono incluyan prefijo entre paréntesis: (000) 000000. Con la regla de validación establece las limitaciones de datos posibles a introducir en el campo, como por ejemplo máximos y mínimos en campos numéricos, <100 o >10. Además las máscaras de entrada sólo se pueden usar en campos Texto o Fecha
 Con tipos de datos Texto o Fecha
 No es posible usar máscaras de entrada en campo de tipo Numérico, solo se permiten en el campos de tipo Texto o Fecha
 Filtro por selección, filtro por formulario y filtro avanzado
 No te dejaría eliminar el registro, indicándote que existen registros en la tabla relacionada con integridad referencial
+Se utiliza Visual Basic

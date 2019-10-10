@@ -35,3 +35,4 @@ C=(0,601*I)/(r*t). C=(0,601*98.107)/(7*4)
 El planteamiento lo ponemos como en una regla de tres directamente proporcional: 200->375, 125->x pero en vez de cruzar, ponemos como divisor el que está al lado de la x. Asi por tanto x=(200*375)/125
 Para cada uno sería: x1=(100*5)/(5+8), x2=(100*8)/(5+8)
 x=(-b+-raiz(b^2-4ac))/2a
+Para representar 100,3456, se utiliza la coma flotante quedando así, 1,003456E+02. Donde 1,003456 es la mantisa, y E+02 es la base y exponente: 10^2. La base y exponente nos dice cuantas posiciones hay que desplazar la coma a la derecha (si el exponente es positivo) o izquierda (si el exponente es negativo)

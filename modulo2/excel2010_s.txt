@@ -69,3 +69,6 @@ Muestra dia/mes en texto largo sábado/agosto
 a/aa: año con dos cifras, aaa/aaaa: año con cuatro cifras
 Suma (autosuma), Promedio, Contar números, Máx y Min
 Ordenar por valores, color de celda, color de fuente, icono de celda
+DIAS.LAB
+DIA.LAB
+20. Redondea una posición a la izquierda de la coma decimal. Es decir, tiene que redondear el 21 que sería 20

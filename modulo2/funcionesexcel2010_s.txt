@@ -63,7 +63,7 @@ Texto. Devuelve el número de caracteres de cadena. También vale para números
 Texto. Extrae subcadena de cadena.  desde X a Y
 Texto. Comprueba si es texto. Devuelve el texto si V.  "" si F
 Texto. Convierte un valor en texto y da formato (si texto representa numero). Esta función se usa también para mostrar el día de la semana en modo texto: Ej. =texto(D2;"dddd"). En definitiva, nos permite formatear el parámetro de entrada
-Texto. Convierte número en texto
+Texto. Convierte una cadena de texto que representa un número en un número
 Texto. Convierte texto en nombre propio (primeras letras mayúsculas))
 Trigonométricas y matemáticas. 
 Trigonométricas y matemáticas. Suma si cumple criterio

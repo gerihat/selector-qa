@@ -69,3 +69,6 @@ Formato de los días: dddd - mmmm
 Formato para los años a, aa, aaa, aaaa
 Además de la autosuma qué otras operaciones incluye el grupo Modificar en la ficha Inicio
 Qué tipos de ordenación permite Excel 2010
+Para contar el número de días laborales entre dos fechas qué función usamos DIA.LAB o DIAS.LAB?
+Para sumar X días laborales a una fecha qué función usamos DIA.LAB o DIAS.LAB?
+Cuál es el resultado de la operación REDONDEAR(21,5;1)

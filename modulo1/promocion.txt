@@ -5,6 +5,7 @@ Qué es promoción interna vertical
 Qué es el grado personal
 Si el grado personal es menor que el nivel del puesto que se ocupa, qué complemento de destino se percibe
 En qué plazo se consolida el grado personal
+Quién efectua el reconomiento del grado personal de un funcionario
 Cuáles son los requisitos para acceder a la promoción interna
 En cuántos niveles se clasifican los puestos de trabajo
 Qué niveles comprende el Subgrupo C2
@@ -17,3 +18,4 @@ A qué corresponde el Grupo B en el antiguo sistema de clasificación
 A qué corresponde el Subgrupo A2 en el antiguo sistema de clasificación
 A qué corresponde el Subgrupo A1 en el antiguo sistema de clasificación
 Para qué usa la Administración la clasificación por niveles
+En qué modalidades podrán progresar simultáneamente los funcionarios de carrera cuando la Administración correspondiente las haya implantado en un mismo ámbito

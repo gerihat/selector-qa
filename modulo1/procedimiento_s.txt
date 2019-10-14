@@ -35,7 +35,7 @@ Falta de documentación, Pronunciamiento previo y preceptivo (no facultativo) ne
 1. Por requerimiento de otra Administración Pública porque un acto considera que es ilegal y ese acto es base para sus competencias. 2. Por actuaciones complementarias. 3. Por recusación del interesado
 Si cuando falten medios, y el plazo no puede ser superior al establecido para la tramitación del propio procedimiento. No cabe recurso contra la ampliación
 La decisión (motivada en su caso) y los recursos admisibles (órgano para presentarlos y plazos)
-No, la debe aceptar de plano, y el el procedimiento finaliza salvo que terceros interesados pidan la continuación en 10 días o por interés general
+No, la debe aceptar de plano, y el procedimiento finaliza salvo que terceros interesados pidan la continuación en 10 días. Sin embargo la Administración valorando la incidencia del desistimiento sobre los intereses generales puede denegar el desistimiento, continuando por tanto el procedimiento
 El interesado pierde el derecho al referido trámite
 En procedimiento iniciados por el interesado, paralizados por su culpa y que hayan pasado 3 meses desde el aviso de caducidad. En procedimiento sancionadores sin resolución en plazo
 La Administración le advertirá que, transcurridos 3 meses, se producirá la caducidad del procedimiento
@@ -76,3 +76,4 @@ Por cualquier medio de prueba admisible en Derecho
 ...en caso de separación del servicio
 Es una facultad del interesado en el procedimiento por la cual si considera que concurre alguna de las causas de abstención en el títular de un órgano o miembro y a pesar de ello ha participado o intervenido en el procedimiento, puede promover la recusación solicitando que no actúe dicho funcionario en el procedimiento. La recusación se puede promover en cualquier momento del procedimiento
 Las fases intructora y sancionadora se encomiendan a distintos órganos
+Si existiera discrepancia, el castellano

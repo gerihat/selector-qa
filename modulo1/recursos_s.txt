@@ -17,6 +17,7 @@ Ante el mismo órgano que haya dictado
 Recurso potestativo de reposición e impugnar ante contencioso-administrativo una vez que el de reposición haya sido resuelto o desestimado presunta
 1 mes para acto expreso o desde el día siguiente al acto presunto. Si fin plazo, solo se puede recurrir a conte-admin
 1 mes
+5 días a contar desde el siguiente al de la notificación de la resolución impugnada
 Ante el mismo órgano y que dará resolución. También ante él se recurre
 Es un recurso excepcional que va contra ciertos actos que han ganado firmeza. Contra actos firmes en vía administrativa cuando: El acto fue dictado con error de hecho en los propios documentos incorporados al expediente, aparecen nuevos documentos, o los que había son falsos o los testimonios eran falsos, que la resolución es consecuencia de prevaricación, cohecho, violencia, fraude en sentencia judicial firme
 El órgano administrativo que dictó el acto que se recurre
@@ -34,3 +35,5 @@ No cabe recurso alguno, sin perjuicio del procedente contra la resolución que p
 No
 Error que versa sobre un hecho, cosa o suceso, es decir, algo que se refiere a una realidad independiente de toda opinión, criterio particular o calificación. Podemos equipararlo a un error material. Por ejemplo, un error número en un documento (no hay opinión, es un hecho por si sólo contrastado)
 No cabe recurso alguno
+No cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos previstos legalmente
+Únicamente podrá interponerse el recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión

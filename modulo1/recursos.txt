@@ -17,6 +17,7 @@ Ante quién se interpone el recurso potestativo de reposición
 Qué tipo de recursos admiten los actos que ponen fin a la vía administrativa
 Plazo para interponer recurso potestativo de reposición
 Plazo para dictar y notificar resolución de recurso potestativo de reposición
+Plazo para interponer contra providencias y autos el recurso de reposición
 Ante quién se presenta el recurso extraordinario de revisión
 Contra qué tiene sentido el recurso extraordinario de revisión
 Qué órgano es competente para resolver el recurso extraordinario de revisión
@@ -34,3 +35,5 @@ Se puede presentar recurso en vía administrativa contra la tramitación de urge
 Se suspenden los efectos jurídicos de un acto al interponer un recurso administrativo?
 Qué es un error de hecho
 En caso de que el instructor del procedimiento deniegue la admisión y prácticas de prueba para averiguar cuestiones que considere innecesarias, qué recursos puede interponer el inculpado
+Qué recurso administrativo se puede interponer contra la resolución de un recurso de alzada
+Si transcurre el plazo para la interposición del recurso de reposición qué recurso se puede presentar

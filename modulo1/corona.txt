@@ -28,6 +28,7 @@ En caso de que el Rey sea menor de edad, quién es Regente
 En caso de que se reconozca al Rey inhábil, quién es Regente
 Qué nombre recibe la firma que realiza el Presidente del Gobierno para refrendar al rey en la sanción de una ley
 Quiénes además del Rey, deben prestar su mismo juramento según el art. 61.2 de la Constitución
+El tutor del Rey debe prestar juramento al desempeñar sus funciones?
 Quién refrenda la sanción y promulgación de un estatuto de autonomía
 El Rey sanciona un decreto acordado en Consejo de Ministros?
 Quién tiene que ser español de nacimiento, el tutor o el regente

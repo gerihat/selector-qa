@@ -1,6 +1,6 @@
-Si
-Si
-Si
+Si. En su sala II. Las salas del TSJ son: I. Civil y Penal, II. Conte-Admin, III. Social
+Si. En su sala III. Las salas del TS son: I. Civil, II. Penal, III. Conte-Admin, IV. Social, V. Militar
+Si. En su sala III. Las salas de la AN son: I. Apelación, II. Penal, III. Conte-Admin, IV. Social
 No
 2 meses
 6 meses
@@ -18,4 +18,4 @@ Actuación de la Administración realizada sin competencia o prescindiendo total
 El juzgado o tribunal, de oficio, declarará por auto la caducidad del recurso
 Es improrrogable
 Que es la ley la que determina la competencia, no las partes. El juez está obligado de oficio a examinar su competencia. No puede haber ni prórroga expresa ni tampooco prórroga tácita de la competencia.
-En el plazo improrrogable de 20 días
+En el plazo improrrogable de 20 días. En el caso de que el proceso judicial se lleva por un procedimiento abreviado, el expediente se debe remitir con 15 días de antelación a la fecha fijada para la vista. Por ejemplo en procedimientos sobre extranjería

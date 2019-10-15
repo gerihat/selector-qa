@@ -1,28 +1,37 @@
 TABLA DE PROMOCIÓN Y CARRERA PROFESIONAL
 ****************************************
 
-CARRERA
+CARRERA (No hay oposición, son méritos)
 __________________________________________
-VERTICAL	CAMBIO PUESTO
-		Provisión de puestos
-		Progresión grado
-		Ayudante a Jefe Negociado
-------------------------------------------
-HORIZONTAL	NO CAMBIO PUESTO
+
+HORIZONTAL	NO CAMBIO PUESTO, NO CAMBIO CUERPO, NO CAMBIO SUBGRUPO
+		Evaluación del desempeño
 		Progresión grado
 		En C2 de grado 14 a 16
 		Reconoce maestría y exp
+------------------------------------------
+VERTICAL	CAMBIO PUESTO, NO CAMPO CUERPO, NO CAMBIO SUBGRUPO
+		Provisión de puestos
+		Progresión grado
+		Ayudante a Jefe Negociado
 __________________________________________
 
-PROMOCIÓN
+PROMOCIÓN (hay oposición, exámen)
 __________________________________________
-VERTICAL	SUBIR GRUPO
-		De C2 a C1
-		Proceso de selección
-------------------------------------------
-HORIZONTAL	MISMO SUBGRUPO
+
+HORIZONTAL	CAMBIO PUESTO, CAMBIO CUERPO, NO CAMBIO SUBGRUPO
 		Acceo a otro cuerpo/escala
-		Cambio puesto
 		De C1 Aux Admin a
 		C1 Aux Informática
+------------------------------------------
+VERTICAL	CAMPO PUESTO, CAMBIO CUERPO, CAMBIO SUBGRUPO
+		De C2 a C1
+		Proceso de selección
 __________________________________________
+
+	P	C	S
+
+CH	=	=	=
+CV	<>	=	=
+PH	<>	<>	=
+PV	<>	<>	<>

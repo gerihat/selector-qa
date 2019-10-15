@@ -11,7 +11,7 @@ Agencia Española de Protección de Datos (AEPD)
 Vasca y catalana
 Derechos ARCO (Acceso, Rectificación, Cancelación, Oposición), Transparencia e Información, Portabilidad, Limitación del Tratamiento, Supresión u Olvido
 Acceso, Rectificación, Cancelación, Oposición
-Requiere consentimiento del titular de la patria potestad o tutor y sólo se autoriza en lo necesario (Limitación del tratamiento)
+Requiere consentimiento del titular de la patria potestad o tutor y sólo se autoriza en lo necesario (Limitación del tratamiento). Esto es lo que dicta el Reglamento, aunque permite a los Estados miembros fijar una edad mínima no inferior a 13 años. En España está fijado en 14 años
 El reglamento cita los 16 años, pero cada país puede establecer un mínimo que nunca podrá ser menos de 13 años. En España 14 años
 3 años
 Es una figura que contrata la empresa u organismo público para informar a los interesados, asesorar al responsable, supervisar el cumplimiento del reglamento, cooperar con las autoridades de control. Puede ser una figura interna o externa de la empresa.
@@ -21,7 +21,7 @@ Las que tienen 250+ trabajadores
 El Comité Europeo de Protección de Datos que se ocupa de que el reglamento se aplique de forma coherente en toda la UE y cuyas decisiones son vinculantes
 Se debe recibir un consentimiento expreso separado para cada fin
 Para qué se van a usar sus datos, por cuánto tiempo y quién será el responsable del tratamiento
-Hay una oblicación legal, media interés vital o público, hay un contrato o si la empresa o autoridad pública alega interés legítimo, que tendrá que argumentar
+Hay una obligación legal, media interés vital o público, hay un contrato o si la empresa o autoridad pública alega interés legítimo, que tendrá que argumentar
 A todas las personas, que se encuentren en la UE. Importante matiz con respecto a la directiva anterior. Este reglamento se aplica en la UE, sea quien sea la persona o empresa. Es decir, una empresa de EEUU que trata datos de una persona que se encuentra en la UE o un japonés que se encuentra en la UE y recibe un tratamiento de datos
 Bajo el control de las autoridades públicas
 Si esta obligado, salvo que la solicitud tenga carácter repetitivo en cuyo caso puede negarse a actuar

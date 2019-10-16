@@ -1,6 +1,6 @@
 Es el régimen que está integrado por los siguientes mecanismos de cobertura: Régimen de Clases Pasivas del Estado y Régimen de Mutualismo Administrativo (MUFACE). Por otro lado quienes ingresaron a partir de 1 de enero de 2011, estarán integrados en el RGSS a efectos de pensiones
 Funcionarios de carrera de Administración Civil del ESado y funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado
-Funcionarios Administración Local, Funcionarios organimos autónomos, Funcionarios Administración Militar, Funcionarios Administración de Justicia, Funcionarios Administración SS, Funcionarios nuevo ingreo y prácticas de CCAA, Funcionarios transferidos a CCAA, personal administración y servicios propios de universidades
+Funcionarios Administración Local, Funcionarios organismos autónomos, Funcionarios Administración Militar, Funcionarios Administración de Justicia, Funcionarios Administración SS, Funcionarios nuevo ingreso y prácticas de CCAA, Funcionarios transferidos a CCAA, personal administración y servicios propios de universidades
 Asistencia sanitaria, subsidio incapacidad temporal, prestaciones incapacidad permanente, prestaciones asistencia gran inválido, indemnizaciones por lesión o mutilaciones en acto de servicio, servicios sociales, asistencia social, prestaciones familiares por hijo a cargo minusválido, ayuda al parto múltiple
 Si
 No. El hijo a cargo tendría que ser minusválido
@@ -25,7 +25,7 @@ Funcionarios de carrera de la AGE, funcionarios de carrera de las Cortes General
 60 años de edad como mínimo y 30 años de servicio efectivos al Estado. En el caso de que la jubilación fuese forzosa (a los 65/70 años) se requieren 15 años de servicio efectivo al Estado
 A la Seguridad Social, ya que están incluídos en el RGSS
 Si
-El cónyuge superviviente, cuando no pueda acceer a la pensión de viudedad por no acreditar que su matrimonio con el causante ha tenido una duración de 1 año, o por la inexistencia de hijos comunes, siempre que reúna el resto de requisitos generales (alta y cotización)
+El cónyuge superviviente, cuando no pueda acceder a la pensión de viudedad por no acreditar que su matrimonio con el causante ha tenido una duración de 1 año, o por la inexistencia de hijos comunes, siempre que reúna el resto de requisitos generales (alta y cotización)
 Duración de 2 años
 La Seguridad Social
-Debe tener cubierto un período de cotización de 180 días en los 5 años anteriores al hecho causante
+Debe tener cubierto un período de cotización de 180 días (6 meses) en los 5 años anteriores al hecho causante

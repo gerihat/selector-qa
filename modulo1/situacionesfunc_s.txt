@@ -1,7 +1,7 @@
 Servicio activo, especiales, en otras administración, excedencia, suspensión de funciones. Adicionalemnte, la Adminitración del Estado regula otras situaciones: Excedencia voluntaria por prestar servicios en el sector público, expectativa de destino, excedencia forzosa, excedencia voluntaria incentivada, excedencia por razón de violencia terrorista
 Servicios especiales
 Servicios especiales
-Servicios especiales, si percibe retribuciones periódicas por la realización de la función
+Servicios especiales, si percibe retribuciones periódicas por la realización de la función. Si no perciben retribuciones, el funcionario puede elegir entre permanecer en servicio activo o pasar a servicios especiales
 Servicios especiales (debe ser retribuido y dedicación exclusiva)
 Servicios especiales. Si la misión tiene un periodo superior a 6 meses
 Servicios especiales
@@ -9,7 +9,7 @@ Servicios especiales
 Servicios especiales
 Servicios en otras Administraciones Públicas en la Administración de origen y servicio activo en la Administración destino
 Servicio activo
-Voluntaria por interés particular, voluntaria por agrupación familiar, forzosa por cuidado de familiares, forzosa por violencia de género, forzosa por violencia terrorista
+Voluntaria por interés particular, voluntaria por agrupación familiar, voluntaria por servicios públicos, voluntaria incentivada, forzosa por cuidado de familiares, forzosa por violencia de género, forzosa por violencia terrorista
 2 años
 2 años
 No hay mínimo
@@ -35,6 +35,7 @@ Se le reserva 6 meses, prorrogables por 3 meses y un máximo de 18 (6+12 de tres
 En 6 meses pierde el puesto de trabajo
 No. Sólo recibe las retribuciones básicas, y las prestaciones por hijo a cargo
 No. Ni funcionarial ni contractual, sea ésta de naturaleza laboral o administrativa
+Las retribuaciones básicas, y en su caso, las prestaciones familiares por hijo a cargo, así como el cómputo del tiempo en dicha situación a efectos de derechos pasivos y trienios
 No. Por definición, un interino no tiene una relación permanente con la Administración y por tanto no se le puede conceder una excedencia por tiempo indefinido que es lo que permite la excedencia voluntaria por interés particular. Existe incompatibilidad entre la duración máxima del contrato eventual (3 años + 12 meses) y la antigüedad requerida para poder solicitar la excedencia (5 años). Sin embargo, hay sentencia de Tribunales que resuelven que la duración del contrato no es causa que justifique desigualdad entre trabajadores, y la doctrina está cambiando permitiendo a interinos obtener excedencias voluntarias
 Si
 Por supresión de puestos de trabajo como consecuencia de un Plan de Empleo

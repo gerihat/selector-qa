@@ -1,0 +1,11 @@
+CRÉDITOS DE HORAS MENSUALES RETRIBUIDAS DE TRABAJO DE DELEGADOS Y MIEMBROS DE JUNTAS
+************************************************************************************
+
+Nº FUNC		HORAS
+---------------------
+<100		15h
+101-250		20h
+251-500		30h
+501-750		35h
++751		40h
+_____________________

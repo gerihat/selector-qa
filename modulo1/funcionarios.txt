@@ -20,6 +20,7 @@ Cómo se cancela un asiento en el Registro Central de Personal
 Cómo se sustituye un asiento en el Registro Central de Personal
 Cómo se modifica un asiento en el Registro Central de Personal
 Cuánto tiempo puede estar una anotación como provisional en el Registro Central de Personal
+Cuántos miembros como mínimo debe tener un Tribunal de Selección
 Principios rectores en la selección de funcionarios
 La selección del personal interino respetará en todo caso los principios de...
 Requisitos principales para poder optar a ser funcionario de carrera

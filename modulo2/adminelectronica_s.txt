@@ -17,6 +17,7 @@ a. Contener información de cualquier naturaleza archivada en un soporte electr�
 No, debe ser funcionario público. No vale cualquier empleado público
 Los funcionarios de carrera, en servicio activo inscritos en el Registro Central de Personal, que dispongan de un certificado electrónico de empleado público, sin perjuicio de que los mismos puedan optar por la utilización del DNI electrónico
 No, debe ser un funcionario de carrera
+No. Sólo pueden identificar a personas físicas
 Un funcionario público habilitado y también mediante actuación administrativa automatizada
 Si, pero debe estar habilitado
 No, debe ser funcionario público. No vale cualquier empleado público

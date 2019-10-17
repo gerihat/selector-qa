@@ -12,3 +12,4 @@ Se puede suspender el plazo para informar al ciudadano sobre las actuaciones rea
 Plazo para formular aclaraciones tras la presentación de una queja para su correcta tramitación
 Tras una queja que no haya sido contestada, a quién se puede dirigir el interesado
 Las quejas son recursos administrativos?
+De qué tipo de recurso tendrá calificación las quejas formuladas

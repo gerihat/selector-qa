@@ -1,5 +1,6 @@
-Es el régimen que está integrado por los siguientes mecanismos de cobertura: Régimen de Clases Pasivas del Estado y Régimen de Mutualismo Administrativo (MUFACE). Por otro lado quienes ingresaron a partir de 1 de enero de 2011, estarán integrados en el RGSS a efectos de pensiones
-Funcionarios de carrera de Administración Civil del ESado y funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado
+Régimen especial de trabajadores autónomos, de los trabajadores del mar, de la minería del carbón. El Régimen Especial de Funcionarios Civiles del Esado es un régimen a extinguir. Desde 1 de enero de 2011, todos los nuevos funcionarios son incorporados al Régimen General de la Seguridad Social
+Es el régimen que está integrado por los siguientes mecanismos de cobertura: Régimen de Clases Pasivas del Estado y Régimen de Mutualismo Administrativo (MUFACE). Por otro lado quienes ingresaron a partir de 1 de enero de 2011, estarán integrados en el RGSS a efectos de clases pasivas
+Funcionarios de carrera de Administración Civil del Estado y funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado
 Funcionarios Administración Local, Funcionarios organismos autónomos, Funcionarios Administración Militar, Funcionarios Administración de Justicia, Funcionarios Administración SS, Funcionarios nuevo ingreso y prácticas de CCAA, Funcionarios transferidos a CCAA, personal administración y servicios propios de universidades
 Asistencia sanitaria, subsidio incapacidad temporal, prestaciones incapacidad permanente, prestaciones asistencia gran inválido, indemnizaciones por lesión o mutilaciones en acto de servicio, servicios sociales, asistencia social, prestaciones familiares por hijo a cargo minusválido, ayuda al parto múltiple
 Si
@@ -29,3 +30,4 @@ El cónyuge superviviente, cuando no pueda acceder a la pensión de viudedad por
 Duración de 2 años
 La Seguridad Social
 Debe tener cubierto un período de cotización de 180 días (6 meses) en los 5 años anteriores al hecho causante
+1. Los funcionarios que pasen a situación de excedencia voluntaria, salvo que opten por mantener la condición de mutualistas. 2. Los funcionarios que pierdan tal condición. 3. Los funcionarios transferidos a CE. 4. Los funcionarios afiliados A RSS de las Fuerzas Armadas

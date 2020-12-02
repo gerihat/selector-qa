@@ -194,7 +194,7 @@ v0.8 selector.sh 21/8/2019
 
 ## Licencia
 
-Sin licencia
+[LICENSE]:LICENSE
 
 [Cygwin]: http://www.cygwin.com
 [Windows10]:https://docs.microsoft.com/en-us/windows/wsl/install-win10

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-constfile="${HOME}/oposiciones/extras/constitucion.txt"
+constfile="${HOME}/selector-qa/extras/constitucion.txt"
 
 function ayuda {
 	echo -e "Usage: \tce <article> <filename>.txt"

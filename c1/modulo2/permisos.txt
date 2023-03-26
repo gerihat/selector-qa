@@ -1,0 +1,29 @@
+Cuántos días de vacaciones tiene un funcionario
+Cuántos días seguidos como mínimo debe coger un funcionario de vacaciones
+Cuántos días adicionales de vacaciones como máximo puede establecer cada Administración Pública
+Si no se disfrutan las vacaciones en el mismo año, se pueden disfrutar el año siguiente?
+Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en misma localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar primer grado en distinta localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en misma localidad
+Permiso por fallecimiento, accidente o enfermedad grave de familiar segundo grado en distinta localidad
+Permiso por traslado de domicilio, sin cambio de residencia
+Permiso por exámenes finales
+Permiso por lactancia de un hijo menor de 12 meses
+Permiso para visitar hijos prematuros o con hospitalización después de parto
+Permiso por guarda legal para el cuidado directo de menor de 12 años o persona mayor o discapacitado
+Permiso por cuidado de familiar en primer grado por enfermedad muy grave
+Permiso por asuntos particulares
+Permiso por matrimonio
+Permiso por parto
+Permiso por parto prematuro
+Permiso por adopción o acogimiento
+Permiso por paternidad o acogimiento paterno
+Permiso por violencia de género
+Permiso por violencia terrorista
+Permiso por cambio de puesto o escala
+Permiso para ejercer el derecho al voto
+En cuántas semanas se puede ampliar como máximo el permiso por parto en el supuesto de hospitalización del neonato
+Qué grado de parentesco se exige para poder solicitar una reducción de jornada retribuida por enfermedad de un familiar
+Cuál es la duración del permiso diario retribuido para visitas a hijos prematuros o que por cualquier otra circunstancia deban permanecer hospitalizados a continuación del parto
+Qué retribuciones perciben aquellos funcionarios que soliciten permiso para el desplazamiento al país de orígen del adoptado
+En el acogimiento temporal se genera derecho a permiso retribuido?

@@ -1,0 +1,79 @@
+Iniciación, Instrucción, Finalización, Ejecución. (+Ordenación durante todo el procedimiento, +Información antes del procedimiento para decidir si iniciar o no, +Medidas provisionales, para asegurar intereses implicados)
+10 días, si el procedimiento no indica otro plazo
+Por iniciativa del órgano al conocer los hechos, por orden superior, a petición de otro órgano (aunque no es vinculante y no obliga a iniciar), por denuncia de una persona
+Procedimiento con íntima conexión y que sea el mismo órgano quien deba tramitar y resolver. No cabe recurso alguno
+No inicia por si sólo el procedimiento, sino que es el órgano el que lo inicia de oficio, y además si el denunciante participa en la infracción, quedaría eximido del pago de la multa si es el primero en aportar elementos de juicio y no persiste en el delito
+ID interesado/representante, medio electrónico o no para notificaciones, hechos y razones para la petición, lugar y fecha, firma y órgano de destino
+Si, en 10 días
+Es el documento por el cual se manifiesta, bajo su responsabildiad, que cumple los requisitos en la normativa vigente para el reconocimiento o ejercicio de un derecho o factultad, y que dispone de la documentación que lo acredita, que la proporcionará a la Administración si asi lo pide y que jura mantener el cumplimiento de todo lo anterior
+Es el documento por el cual un interesado pone en conocimiento de la administración sus datos de identificación y demás requisitos exigibles para el ejercicio de un derecho o el inicio de una actividad. Si se incurre en falsedad o inexactitud, se considera que el interesado no continúa el procedimiento
+Dependen de la naturaleza del derecho o la actividad que se quiere ejercer. Una Declaración responsable supone afirmar que se cumplen con licencias y permisos de mayor grado que en una Comunicación previa, normalmente destinada a ejercicio de actividad o derecho de menor calado
+Actos de Instrucción, Alegaciones, Periodo de prueba, Trámite de audiencia, Información pública
+Siempre antes de inciarse el procedimiento
+El órgano competente para resolver
+El órgano que instruye el procedimiento
+El órgano competente para resolver
+10-30 días el periodo normal y el instructor de oficio o a petición de los interesados, puede abrir otro periodo extraordinario de 10 días
+10-15 días y es prescindible
+Son facultativos y no vinculantes
+10 días
+Puede no ser tenido en cuenta, y el procedimiento puede continuar
+Si el informe es preceptivo, se puede suspender 3 meses, pero pasados sin recibir aún el informe, entonces puede no ser tenido en cuenta
+En cualquier momento antes del trámite de audiencia. Si son sobre defectos de tramitación entonces en todo momento del procedimiento
+En cualquier momento antes del trámite de audiencia. Si son sobre defectos de tramitación entonces en todo momento del procedimiento
+Es acordado por el órgano que resuelve y se produce en la fase de Instrucción cuando la naturaleza del proc. lo requiera
+20 días como mínimo
+No, pero la Administración tiene la obligación de dar respuesta razonada
+Resolución, Desistimiento, Renuncia Derecho, Caducidad, Imposibilidad material, estimación por silencio
+Terminación en pacto o convenio y en aquellos relativos al ejercicio de derechos a través de declaración responsable y comunicación
+Si, y la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables
+Acuerdo, pacto, convenio o contrato con personas derecho público o privado, que no sean contrarios al ord. jur, satisface interés público y es aprobado por Consejo de Ministros u órgano CCAA en su competencia
+El que dicte el procedimiento, si no indica nada 3 meses y como máximo 6 meses
+La entrada de la solicitud en el registro electrónico
+La fecha de acuerdo de iniciación
+Falta de documentación, Pronunciamiento previo y preceptivo (no facultativo) necesario de la UE, existe procedimiento no finalizado igual en la UE, informe preceptivo (máximo 3 meses, si no llega en plazo se continúa procedimiento), pruebas técnicas, negociaciones pacto, pronunciamiento de organismo judisdiccional. Importante el matiz <<se puede suspender>>. Hay otras causas por las que <<se suspenderá>> en todo caso el procedimiento
+1. Por requerimiento de otra Administración Pública porque un acto considera que es ilegal y ese acto es base para sus competencias. 2. Por actuaciones complementarias. 3. Por recusación del interesado
+Si cuando falten medios, y el plazo no puede ser superior al establecido para la tramitación del propio procedimiento. No cabe recurso contra la ampliación
+La decisión (motivada en su caso) y los recursos admisibles (órgano para presentarlos y plazos)
+No, la debe aceptar de plano, y el procedimiento finaliza salvo que terceros interesados pidan la continuación en 10 días. Sin embargo la Administración valorando la incidencia del desistimiento sobre los intereses generales puede denegar el desistimiento, continuando por tanto el procedimiento
+El interesado pierde el derecho al referido trámite
+En procedimiento iniciados por el interesado, paralizados por su culpa y que hayan pasado 3 meses desde el aviso de caducidad. En procedimiento sancionadores sin resolución en plazo
+La Administración le advertirá que, transcurridos 3 meses, se producirá la caducidad del procedimiento
+Si, si no prescribe y se añaden los actos y trámites que se mantienen igual en el antiguo.
+Alegaciones, proposición de prueba y audiencia al interesado
+30 días
+Si, pero el órgano decide en 5 días y si hay silencio se rechaza la petición. Además en cualquier momento se puede cambiar a tramitación ordinaria
+Puede negarse y por tanto seguir la tramitación ordinaria
+5 días
+Si en caso de que la resolución vaya a ser desfavorable para el interesado
+No. Los hechos que impulsaron el procedimiento se consideran ya acreditados
+Si, sólo si es preceptivo
+Ojo, no confundir con tramitación simplificada. La tramitación de urgencia se realiza de oficio o a petición del interesado y por razones de interés público. Los plazos del procedimiento ordinario equivalente se reducen a la mitad, salvo los relativos a la presentación de solicitudes y recursos y no cabe recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia
+Si
+No, si cabe recurso en vía administrativa, incluído el potestativo de reposición
+Es una especialidad del procedimiento
+Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva, compulsión sobre las personas
+Proporcionalidad, medio menos restrictivo de la libertad individual, autorización titular o judicial en caso de entrar en domicilio
+"Amenaza" de embargo. Apremiar=obligar a hacer algo prontamente. Es el medio principal en actos ejecutivos de índole económico
+Realización efectiva y material de la actividad que debía hacer el interesado, pero que hace directamente la Administración, y a costas del obligado. ¿No lo quieres hacer? Lo hago yo (admin) pero pagas tu (interesado)
+Imposición de obligaciones pecunarias adicionales (a parte de la principal). Para forzar cumplimiento. Multas reiteradas en lapsos
+Aplicación de la fuerza sobre las personas. Obligaciones personalísimas de no hacer o de soportar. Prohibir entrada, Desplazar a otro lugar, Desahucio, Privación momentánea de libertad, vacunación obligatoria
+Es una ejecución forzosa de compulsión sobre las personas
+El órgano competente para resolver
+En aquellos que exijan cumplimentar algún trámite en el extranjero
+3 meses
+Debe elevar al órgano competente para resolver una propuesta de resolución
+Se reduce todo a la mitad salvo los plazos de presentación de solicitudes y recursos. ( Ojo: No confundir con la tramitación simplificada)
+Se puede iniciar de las dos formas, de oficio por la propia Administración y a instancia de los interesados. Aunque en la práctica, la iniciación de oficio es muy poco habitual
+1 año desde producido el hecho o acto que motive la indemnización o se manifieste su efecto lesivo
+Además del contenido común a toda solicitud de iniciación de procedimiento, se debe especificar las lesiones producidas, la presunta relación de causalidad, la evaluación económica de la responsabilidad patrimonial, si fuera posible y el momento de la lesión, junto con documentos, alegaciones e informaciones que se consideren oportunas
+Si, el procedimiento puede acabar antes de la resolución, cuando la sanción tiene carácter pecunario. El pago voluntario del presunto responsable, implica la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados. En sanciones pecunarias, el órgano competente aplicará reducciones de al menos el 20% sobre el importe de la sanción propuesta
+1. En la AGE: Ministro respectivo o Consejo de Ministros, 2. En CA y local: órganos correspondientes de CA o entidades de la Admin. Local, 3. En entidades de derecho público: determinados por las propias normas de su régimen jurídico
+Se puede iniciar de oficio o a solicitud del interesado
+Que el interesado desiste de su petición
+Si. Importante el hecho de que el procedimiento es de interés general
+Por cualquier medio de prueba admisible en Derecho
+...en caso de separación del servicio
+Es una facultad del interesado en el procedimiento por la cual si considera que concurre alguna de las causas de abstención en el títular de un órgano o miembro y a pesar de ello ha participado o intervenido en el procedimiento, puede promover la recusación solicitando que no actúe dicho funcionario en el procedimiento. La recusación se puede promover en cualquier momento del procedimiento
+Las fases intructora y sancionadora se encomiendan a distintos órganos
+Si existiera discrepancia, el castellano

@@ -1,0 +1,3 @@
+faltas.txt
+negociacion.txt
+mutualismo.txt

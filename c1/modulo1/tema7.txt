@@ -1,0 +1,2 @@
+pdatos.txt
+reguedatos.txt

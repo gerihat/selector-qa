@@ -1,0 +1,4 @@
+igualdad.txt
+dependencia.txt
+discapacidad.txt
+violenciagenero.txt

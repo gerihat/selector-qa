@@ -8,11 +8,13 @@ red='\033[1;31m'
 endColor='\033[0m'
 
 #Configuracion inicial
+package=c2
 nrepeat=1
 nlflag=false #flag para mostrar numeros de linea
 ntflag=false #flag para mostrar nombre del fichero
 npflag=true  #flag para mostrar contador de preguntas
 mode=ran
+qapath=$(dirname $(dirname ${BASH_SOURCE}))
 
 #Funcion selectlinea: Seleccion de una linea en fichero
 #Parametros: #$1: Nombre de fichero
@@ -114,8 +116,9 @@ done
 # Function selectFilter: Modo con filtro de patron. Muestras todas las preguntas en las que aparece patron
 # Parámetros: #$1: patrón a buscar
 function selectorFilter {
- path1="$HOME/oposiciones/modulo1/*"
- path2="$HOME/oposiciones/modulo2/*"
+ 
+ path1="$qapath/$package/modulo1/*"
+ path2="$qapath/$package/modulo2/*"
  cont=0
 
  total="$(grep -i $1 $path1 $path2 | wc -l)"

@@ -8,7 +8,7 @@ red='\033[1;31m'
 endColor='\033[0m'
 
 #Configuracion inicial
-package=c2
+package=c1
 nrepeat=1
 nlflag=false #flag para mostrar numeros de linea
 ntflag=false #flag para mostrar nombre del fichero
@@ -54,7 +54,7 @@ function filenameCheck {
 #Function fileExists: Comprobar que el fichero existe
 function fileExists {
  if [[ ! -f $1 ]]; then
-	echo "Selector (E): Fichero no encontrado"
+	echo "Selector (E): Fichero ${1} no encontrado"
 	ayuda
 	exit 1;
  fi
@@ -180,24 +180,29 @@ function selectorRandom {
 	if [[ ! -z "$filename_modulo" ]]; then
 		#Elegir tema dentro de modulo*.txt
 		numlinea_modulo=$(selectlinea $filename_modulo)		
-		filename_tema=$path$(echolinea $filename_modulo $numlinea_modulo false)		
+		filename_tema=$path$(echolinea $filename_modulo $numlinea_modulo false)
+
 		if [[ ! -f $filename_tema ]]; then
 			echo "Selector (E) ${filename_tema}: Fichero no encontrado"
 			ayuda
 			exit 1;
 		fi
 	fi
+
 	if [[ ! -z "$filename_tema" ]]; then
 		#Elegir fichero dentro de tema*.txt
 		numlinea_tema=$(selectlinea $filename_tema)		
 		filename=$path$(echolinea $filename_tema $numlinea_tema)
 		filename_solutions="${filename%.*}_s.${filename##*.}"
+
 		if [[ ! -f $filename ]]; then
+			echo "Fichero seleccionado: ${filename}"
 			echo "Selector (E) ${filename}: Fichero no encontrado"
 			ayuda
 			exit 1;
 		fi
 	fi
+
 	for ((i =1;i<=$nrepeat;i++))
 	do
 		numlinea=$(selectlinea $filename)

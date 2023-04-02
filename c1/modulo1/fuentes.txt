@@ -1,5 +1,6 @@
 En qué dos sentidos se puede definir las fuentes del derecho administrativo
 Cuáles son las fuentes del ordenamiento jurídico según el Código Civil
+La jurisprudencia es fuente de Derecho?
 En qué caso se puede utilizar la costumbre como fuente del ordenamiento jurídico
 En qué caso se puede utilizar los principios generales del derecho como fuente del ordenamiento jurídico
 Un tratado internacional puede ser fuente del ordenamiento jurídico?
@@ -74,3 +75,5 @@ Quién inicia el procedimiento de elaboración de reglamento
 Cuándo y cómo hay trámite de audiencia en el procedimiento de elaboración de un reglamento
 Qué es el MAIN en un reglamento y quién lo elabora
 Modos de reacción ante reglamentos ilegales
+Quién debe declarar el interés general para dictar una ley de armonización
+Quién debe emitir informe previo sobre una norma reglamentaria estatal que pudiera afectar a la distribución de competencias entre Estado y CCAA

@@ -1,0 +1,12 @@
+El contratante es el organismo que contrata a otro
+El contratista es la persona natural o jurídica que es contratada por el contratante. Es contratista desde la firma del contrato hasta que se acaba su prestación
+Es la persona u órgano colegiado que representa legalmente al poder adjudicador, en este caso, la administración pública, en el proceso de contratación. Personas: alcalde, presidente gobierno autonómico, ministro, secretario de estado. Órgano colegiado: pleno del ayuntamiento, junta de gobierno local de un ayuntamiento, consejo de administración de Navantia
+Es el órgano (Administración Pública) que adjudica el contrato a una persona natural o jurídica. Es el poder adjudicador
+Es una administración pública o entidad financiada mayoritariamente por una administración pública
+El adjudicatario es la persona natural o jurídica que recibe el encargo o el objeto del contrato. Es quien gana la licitación. Al que se le adjudica el contrato tras la fase de licitación
+El licitador es la persona natural o jurídica que presenta una oferta en una licitación y si la gana se convierte en adjudicatario. Es el aspirante a conseguir el contrato
+O concurso de licitación, es la fase en la que se abre la posibilidad de presentar ofertas para conseguir un contrato con la Administración
+Es la persona natural o jurídica que recibe la concesión. Se hará cargo por el precio y tiempo de duración del contrato de un bien o servicio que pertenece al Estado
+En un contrato de obra, el objeto es ejecutar la obra y en el contrato de concesión de obra además de ejecutar la obra se añade la restauración o el mantenimiento de la misma, pudiendo ser la prestación un importe dado o el derecho a explotar la misma
+En un contrato de servicios, la empresa que realiza un servicio propio, lo hace para la administración durante el tiempo que dure el contrato. Mientras que en el contrato de concesión de servicios, el servicio le pertenece (su titularidad) a la administración y es la persona o empresa contratada quién la ejecutará durante el tiempo que dure el contrato
+Contrato de obras, contrato de concesión de obras, contrato de servicios, contrato de concesión de servicios, contrato de suministros, contrato mixto

@@ -11,6 +11,7 @@ Dependen de la naturaleza del derecho o la actividad que se quiere ejercer. Una 
 Actos de Instrucción, Alegaciones, Periodo de prueba, Trámite de audiencia, Información pública
 Siempre antes de inciarse el procedimiento
 El órgano competente para resolver
+Que impliquen violación de derechos amparados por las leyes
 El órgano que instruye el procedimiento
 El órgano competente para resolver
 10-30 días el periodo normal y el instructor de oficio o a petición de los interesados, puede abrir otro periodo extraordinario de 10 días
@@ -77,3 +78,4 @@ Por cualquier medio de prueba admisible en Derecho
 Es una facultad del interesado en el procedimiento por la cual si considera que concurre alguna de las causas de abstención en el títular de un órgano o miembro y a pesar de ello ha participado o intervenido en el procedimiento, puede promover la recusación solicitando que no actúe dicho funcionario en el procedimiento. La recusación se puede promover en cualquier momento del procedimiento
 Las fases intructora y sancionadora se encomiendan a distintos órganos
 Si existiera discrepancia, el castellano
+a. Quienes lo promuevan como titulares de derechos o interes legítimos individuales o colectivos. b. Los que, sin haber iniciado el procedimiento, tengan  derechos que puedan resultar afectados por la decisión que en el mismo se adopte. c. Aquellos cuyos intereses legítimos, individuales o colectivos, puedan rsultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.

@@ -4,3 +4,5 @@ extras/supuestos.txt
 # Leyes
 #######
 leyes/source
+# Visual Studio
+.vs/

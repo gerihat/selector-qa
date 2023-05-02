@@ -53,7 +53,34 @@ Bajo que órgano sólo es posible llevar un registro completo de condenas penale
 El responsable del tratamiento está obligado a facilitar al interesado, en base a su solicitud, una copia de los datos personales objeto del tratamiento?
 Si la solicitud del interesado de obtención de copia de los datos objeto de tratamiento resulta repetitiva, qué puede hacer el responsable del tratamiento
 Quién debe llevar un registro de las actividades de tratamiento efectuadas bajo su responsabilidad
+Las empresas con menos de 250 trabajadores están siempre exentas de mantener un registro de actividades de tratamiento?
 En materia de Recursos Humanos en las Administraciones Públicas… ¿Es necesario pedir el consentimiento a los trabajadores para tratar sus datos personales?
 Existe derecho al olvido en el ámbito de las Administraciones Públicas?
 Que es el RAT en el contexto del tratamiento de datos personales
 Cómo hay que actuar ante una brecha de seguridad en un tratamiento de datos personales
+Si decimos que los datos personales serán adecuados y limitados a lo necesario en relación con los fines para los que son tratados, de qué principio estamos hablando
+Si el interesado expresa su consentimiento tácito o expreso para el tratamiento de sus datos, se considera un tratamiento lícito?
+Si el tratamiento es necesario para el cumplimiento de una obligación legal aplicable al responsable del tratamiento, se considra un tratamiento lícito?
+En qué casos se puede considerar el tratamiento de datos lícito?
+A quién corresponde el derecho a la tutela judicial efectiva contra un responsable o encargado del tratamiento de datos según el artículo 79 del RGPD
+Derechos de Garantías Digitales
+El derecho a la conexión digital en el ámbito digital es uno de los derechos de Garantías Digitales?
+Uno de estos principios no está previsto en el REPD: lealtad, exactitud, proporcionalidad, integridad
+Un empleador puede tratar las imágenes obtenidas a través de los sistemas de videovigilancia?
+La Ley Orgánica 3/2018, de 5 de diciembre extiende su ámbito de aplicación a...
+Qué nombre recibe la persona físicoa o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento
+Con respecto a las personas fallecidas. Pueden las personas vinculadas a ellas por razones familiares o de hecho realizar acciones con respecto a dichos datos
+En qué consiste el principio de integridad y confidencialidad
+Uno de estos principios no está previsto en el REPD: Responsabilidad reactiva, Minimización de datos, Licitud, Exactitud
+Cómo se debe otorgar el consentimiento para el tratamiento de datos de una pluridad de finalidades
+Para quíen son vinculantes los códigos de conducta regulados en el Reglamento UE
+Quién es la persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento
+Quíen determina los fines y medios de tratamiento
+La resistencia u obstrucción del ejercicio de la función inspectora por la autoridad de protección de datos competente, es una infracción grave o muy grave?
+Cómo se llaman los datos relativos a las caracterísitcas genéticas heredadas o adquiridas de una persona física que proporcionan una información única sobre la fisiología o la salud de aquella persona, obtenidas en particular del análisis de una muestra biológica
+Cuánto tiempo pueden ser mantenidos los datos personales de forma que se permita la identificación del interesado
+Quién debe aprobar los códigos de conducta
+Qué es preciso respecto a la actividad de investigación y la protección de datos, cuando fuese necesario el acceso por el personal que desarrolla la actividad de investigación al domicilio constitucionalmente protegido por el inspeccionado
+El consentimiento del interesado debe ser por escrito?
+Cómo se llama el marcado de datos de carácter personal conservados con el fin de limitar su tratamiento en el futuro
+Quién lleva a cabo la actividad de investigación de la Agencia Española de Protección de Datos

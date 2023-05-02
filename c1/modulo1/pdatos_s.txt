@@ -52,8 +52,35 @@ A todas las personas, que se encuentren en la UE. Importante matiz con respecto 
 Bajo el control de las autoridades públicas
 Si esta obligado, salvo que la solicitud tenga carácter repetitivo en cuyo caso puede negarse a actuar
 Puede cobrar un canon razonable, en función de los costes administrativos afrontados para facilitar la información o la comunicación o realizar la actuación solicidad, o negarse a actuar respecto de la solicitud
-Cada responsable y, en su caso, su representante
+Cada responsable del tratamiento y, en su caso, su representante
+No siempre están exentas
 No, al ser un tratamiento necesario para la ejecución de un contrato en el que el interesado es parte o para la aplicación a petición de este de medidas precontractuales.
 No
 Registro de Actividades de Tratamiento
 1. Avisar sin dilación al responsable de seguridad y al Delegado de Protección de Datos. 2. Subsanar la violación. 3. El responsable del tratamiento debe evaular con la ayuda del DPD, si es necesario notificar la brecha de seguridad a la AEPD.
+Principio de minimización de datos
+No, el consentimiento debe ser expreso
+Si
+1. Consentimiento expreso del interesado. 2. Cumplimiento de una obligación legal aplicable al responsable del tratamiento. 3. Cumplimiento de una misión realizada en interés público. 4. Protección de intereses vitales del interesado
+A los interesados
+1. Derecho de rectificación en Internet y derecho de acceso universal a Internet. 2. Derecho a la neutralidad de internet y derecho de rectificación en Internet. 3. Derecho a al intimidad frente al uso de dispositivos de videovigilancia y de grabación de sonidos en el lugar de trabajo. 4. Derecho al olvido en búsquedas en Internet y derecho al olvido en servicios de redes sociales y servicios equivalentes. 5. Derecho a la actualización de informaciones ne medios de comunicación digitales. 6. Derecho a la desconexión digital en el ámbito laboral. 7. Derecho al testamento digital.
+No. El derecho correcto se refiere a la DESCONEXIÓN digital en el ámbito laboral
+Proporcionalidad
+Si, para el ejercicio de las funciones de control de trabajadores o empleados públicos
+Cualquier tratamiento total o parcialmente automatizado de datos personales, asi como el tratamiento no automatizado de datdos personales contenidos o destinados a ser incluídos en un fichero
+Encargado del tratamiento
+Pueden solicitar el acceso, la rectificación o supresión de los datos personales de la persona fallecida, salvo que el difunto lo hubiese prohibido expresamente en vida o así lo establezca la ley
+Que los datos personales serán tratados de tal manera que garantice una seguridad adecuada de los datos personales, incluída la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas u organizativas apropiadas
+Responsabilidad reactiva. El principio correcto es responsabilidad proactiva
+Es preciso que conste de manera específica e inequívoca que el consentimiento se otorga para todas ellas
+Para quienes se adhieran a los mismos
+Responsable del tratamiento
+El responsable del tratamiento
+Es infracción muy grave
+Datos genéticos
+No más tiempo del necesario para los fines del tratamiento de los datos personales
+La Agencia Españolade Protección de Datos, o en su caso, por la autoridad autonómica de protección de datos competente
+Contar con el consentimiento del interesado o haber obtenido la correspondiente autorización judicial
+No necesariamente. Debe ser mediante una declaración inequívoca o una accíón afirmativa clara
+Limitación del tratamiento
+Funcionarios de la Agencia Española de Protección de Datos, o por funcionarios ajenos a la Agencia Española de Protección de Datos, habilitados expresamente por su presidencia
